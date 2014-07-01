@@ -1,0 +1,14 @@
+#! /bin/bash
+#
+curl -X PUT http://localhost:5984/librivox_ext
+#
+#for id in {8059..8070}
+#for id in 7645 7833 7991 8046
+for id in {8000..8200}
+do
+	name="ex_"$id
+	file_json=$name".json"
+	url=http://localhost:5984/librivox_ext/$name
+	curl -X PUT $url -d@$file_json
+done
+#

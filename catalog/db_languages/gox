@@ -1,0 +1,4 @@
+#
+./gen_languages.js list.txt db_languages.json
+#
+#jq . out01.json

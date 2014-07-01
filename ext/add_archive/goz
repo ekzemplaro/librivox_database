@@ -1,0 +1,7 @@
+#
+cp id*.json ../get_archive
+cp is*.json ../filter_archive
+#
+#
+../bin/post_process.sh
+#

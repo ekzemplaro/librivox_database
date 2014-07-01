@@ -1,0 +1,11 @@
+#! /bin/bash
+#
+url_base="http://localhost:5984/librivox_combined"
+curl -X DELETE $url_base
+curl -X PUT $url_base
+#
+name="combined"
+file_json=$name".json"
+url=$url_base"/"$name
+curl -X PUT $url -d@$file_json
+#

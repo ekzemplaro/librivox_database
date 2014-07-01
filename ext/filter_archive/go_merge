@@ -1,0 +1,5 @@
+#
+ls is*.json > list.txt
+#
+../bin/merge_json.js list.txt merged_archive.json
+#

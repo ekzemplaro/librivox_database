@@ -1,0 +1,13 @@
+#
+#for id in {8001..8002}
+#for id in {8001..8010}
+#for id in {3000..4999}
+#for id in {1000..2999}
+#for id in {8200..8400}
+for id in {1..8400}
+do
+	json_in='../get_archive/id_'$id'.json'
+	if [ -e $json_in ]; then
+		../bin/filter_archive.js $id $json_in
+	fi
+done

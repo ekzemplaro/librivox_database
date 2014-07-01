@@ -1,0 +1,15 @@
+#
+url_base=http://localhost:5984/archive
+#
+curl -X DELETE $url_base
+curl -X PUT $url_base
+#
+for id in {8000..8200}
+do
+	id='id_'$id
+	file_json=$id".json"
+	if [ -e $file_json ];then
+		curl -X PUT $url_base"/"$id -d@$file_json
+	fi
+done
+

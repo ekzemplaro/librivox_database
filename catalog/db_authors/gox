@@ -1,0 +1,4 @@
+#
+./gen_authors.js list.txt db_authors.json
+#
+#jq . out01.json

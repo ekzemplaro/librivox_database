@@ -1,0 +1,8 @@
+#
+rm -f list.txt merged_librivox.json
+#
+#
+ls ../filter_ext/ft_*.json > list.txt
+#
+../bin/merge_json.js list.txt merged_librivox.json
+#

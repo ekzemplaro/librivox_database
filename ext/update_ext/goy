@@ -1,0 +1,6 @@
+ls ex*.json > list.txt
+#
+awk '{print "../bin/filter_ext.js",$1,"ft_"$1}' list.txt \
+	| sed 's/ft_ex_/ft_/' > go_tmp003
+#
+bash ./go_tmp003

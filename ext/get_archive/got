@@ -1,0 +1,3 @@
+if [ ! -e id_8059.json ]; then
+echo 'hello'
+fi

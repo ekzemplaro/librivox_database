@@ -1,0 +1,4 @@
+#
+rm -f combined.json
+#
+../bin/gen_combined.js merged_librivox.json merged_archive.json combined.json

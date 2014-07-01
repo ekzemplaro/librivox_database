@@ -1,0 +1,2 @@
+#
+./gen_readers.js list.txt db_readers.json
