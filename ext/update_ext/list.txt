@@ -142,7 +142,6 @@ ex_6850.json
 ex_6870.json
 ex_6886.json
 ex_6888.json
-ex_6915.json
 ex_6936.json
 ex_6940.json
 ex_6949.json
@@ -640,3 +639,5 @@ ex_9029.json
 ex_9030.json
 ex_9031.json
 ex_9032.json
+ex_9033.json
+ex_9034.json

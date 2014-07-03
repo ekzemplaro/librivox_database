@@ -2,3 +2,5 @@ curl 'http://archive.org/details/loss_titanic_ah_librivox&output=json' > id_1472
 curl 'http://archive.org/details/parenticide_librivox/&output=json' > id_364.json
 curl 'http://archive.org/details/awfulgerman_librivox/&output=json' > id_513.json
 curl 'http://archive.org/details/blackythecrow_1312_librivox&output=json' > id_8267.json
+curl 'http://archive.org/details/gameandthecandle_1407_librivox&output=json' > id_8545.json
+curl 'http://archive.org/details/real_latin_quarter_1407_librivox&output=json' > id_8920.json

@@ -1,0 +1,19 @@
+#! /bin/bash
+#
+URL_HEAD='https://librivox.org/api/feed/audiobooks/?id='
+URL_TAIL='&extended=1&format=json'
+#
+#for id in 7645 7833 7991 8046
+#for id in {7500..8300}
+#for id in {7000..8300}
+#for id in {5000..8400}
+#for id in {3000..4999}
+#for id in {1000..2999}
+#for id in {1..999}
+#for id in {8696..8730}
+#for id in {8790..8900}
+for id in {9030..9050}
+do
+	url=$URL_HEAD$id$URL_TAIL
+	curl -k $url > "ex_"$id".json"
+done

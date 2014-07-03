@@ -142,7 +142,6 @@ curl -k 'https://librivox.org/api/feed/audiobooks/?id=6850&extended=1&format=jso
 curl -k 'https://librivox.org/api/feed/audiobooks/?id=6870&extended=1&format=json' > ex_6870.json
 curl -k 'https://librivox.org/api/feed/audiobooks/?id=6886&extended=1&format=json' > ex_6886.json
 curl -k 'https://librivox.org/api/feed/audiobooks/?id=6888&extended=1&format=json' > ex_6888.json
-curl -k 'https://librivox.org/api/feed/audiobooks/?id=6915&extended=1&format=json' > ex_6915.json
 curl -k 'https://librivox.org/api/feed/audiobooks/?id=6936&extended=1&format=json' > ex_6936.json
 curl -k 'https://librivox.org/api/feed/audiobooks/?id=6940&extended=1&format=json' > ex_6940.json
 curl -k 'https://librivox.org/api/feed/audiobooks/?id=6949&extended=1&format=json' > ex_6949.json
@@ -640,3 +639,5 @@ curl -k 'https://librivox.org/api/feed/audiobooks/?id=9029&extended=1&format=jso
 curl -k 'https://librivox.org/api/feed/audiobooks/?id=9030&extended=1&format=json' > ex_9030.json
 curl -k 'https://librivox.org/api/feed/audiobooks/?id=9031&extended=1&format=json' > ex_9031.json
 curl -k 'https://librivox.org/api/feed/audiobooks/?id=9032&extended=1&format=json' > ex_9032.json
+curl -k 'https://librivox.org/api/feed/audiobooks/?id=9033&extended=1&format=json' > ex_9033.json
+curl -k 'https://librivox.org/api/feed/audiobooks/?id=9034&extended=1&format=json' > ex_9034.json
