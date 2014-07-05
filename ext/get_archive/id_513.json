@@ -6,11 +6,11 @@
 <head>
   <title>The Awful German Language, by Mark Twain : Free Download &amp; Streaming : Internet Archive</title>
       <script src="//archive.org/includes/jquery-1.6.1.js" type="text/javascript"></script>
-    <script src="//archive.org/includes/analytics.js?v=60456" type="text/javascript"></script>
-    <script src="/includes/archive.js?v=60456" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=60518" type="text/javascript"></script>
+    <script src="/includes/archive.js?v=60518" type="text/javascript"></script>
     <script src="/jw/6.8/jwplayer.js" type="text/javascript"></script>
     <script src="/includes/jquery.textfill.js" type="text/javascript"></script>
-    <script src="/includes/play.js?v=60456" type="text/javascript"></script>
+    <script src="/includes/play.js?v=60518" type="text/javascript"></script>
 <meta name="description" content="Librivox recording of The Awful German Language, by Mark Twain. Read by Rainer For further information, including links to online text, reader information,..."/>
 <meta property="og:title" content="The Awful German Language, by Mark Twain : Free Download &amp; Streaming : Internet Archive"/>
 <meta property="og:description" content="Librivox recording of The Awful German Language, by Mark Twain. Read by Rainer For further information, including links to online text, reader information,..."/>
@@ -35,7 +35,7 @@
 <meta property="twitter:player:stream" content="https://archive.org/download/awfulgerman_librivox/twain_german_language1_64kb.mp3"/>
 <meta property="twitter:player:stream:content_type" content="video/mp4; codecs=&quot;avc1.42E01E1, mp4a.40.2&quot;"/>
 <link rel="canonical" href="https://archive.org/details/awfulgerman_librivox">
-    <link href="//archive.org/includes/archive.css?v=60456" rel="stylesheet" type="text/css"/>
+    <link href="//archive.org/includes/archive.css?v=60518" rel="stylesheet" type="text/css"/>
   <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
   </head>
 <body class="Audio infotray-hidden">
@@ -222,7 +222,7 @@
   <div class="box">
     <h1>Listen to audio</h1>
     <div style="text-align:center;">
-      <img title="item image" alt="item image" style="max-height:152px; max-width:165px; margin-bottom:0.5em;" src="https://ia700308.us.archive.org/7/items/awfulgerman_librivox/Awful_German_Language_1108_thumb.jpg?cnt=0"/>      <br/>
+      <img title="item image" alt="item image" style="max-height:152px; max-width:165px; margin-bottom:0.5em;" src="https://ia600308.us.archive.org/7/items/awfulgerman_librivox/Awful_German_Language_1108_thumb.jpg?cnt=0"/>      <br/>
                 </div>
     <h2>Stream (<a href="/about/faqs.php#94">help<img title="[help]" alt="[help]" style="vertical-align:middle" id="help1" src="/images/question.gif"/></a>)</h2><p class="content"><a href="http://archive.org/download/awfulgerman_librivox/awfulgerman_librivox_128kb.m3u">128kbps M3U</a> (Hi-Fi)<br/><a href="http://archive.org/download/awfulgerman_librivox/awfulgerman_librivox_64kb.m3u">64Kbps M3U</a> (Lo-Fi)<br/></p><h2>Play / Download (<a href="/about/faqs.php#Audio">help<img title="[help]" alt="[help]" style="vertical-align:middle" id="help2" src="/images/question.gif"/></a>)</h2>      <p id="dl" class="content">
           <span class="pull-right">(29.0 M)</span><a href="/download/awfulgerman_librivox/awfulgerman_librivox_64kb_mp3.zip">64Kbps MP3 ZIP</a><br/>      </p>
@@ -245,7 +245,7 @@
         </div>
               </div>
       <br/>
-          <br/><b>All Files: </b><a href="https://ia700308.us.archive.org/7/items/awfulgerman_librivox">HTTPS</a>&nbsp;<a href="/download/awfulgerman_librivox/awfulgerman_librivox_archive.torrent">Torrent</a> (2/0)<br/><div style="text-align:center; margin-top:10px;">
+          <br/><b>All Files: </b><a href="https://ia600308.us.archive.org/7/items/awfulgerman_librivox">HTTPS</a>&nbsp;<a href="/download/awfulgerman_librivox/awfulgerman_librivox_archive.torrent">Torrent</a> (2/0)<br/><div style="text-align:center; margin-top:10px;">
   <a rel="license" href="http://creativecommons.org/licenses/publicdomain/" target="_blank"
    ><img title="[Public Domain]" alt="[Public Domain]" style="height:31px" id="ccimage" src="https://creativecommons.org/images/public/norights.gif"/></a>
 </div>
@@ -597,7 +597,7 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
        >Write a review</a>
         <br/>
     <span style="font-size:80%">
-      Downloaded 133,956 times
+      Downloaded 134,248 times
     </span>
         </span>
     Reviews<br/>
@@ -641,77 +641,77 @@ Play('jw6',
                   </p>
       </div>
       <!-- Timing ...
-       rendered on: www13.us.archive.org
+       rendered on: www14.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
   0.0000   0.0000         petabox start   usr/local/petabox/www/sf/details.php:10:require_once
                                              |setup.inc:26:require_once
                                              |www/common/setup.php:279:log
-  0.0180   0.0180      call get_redis()   usr/local/petabox/www/sf/details.php:57:getItem
+  0.0172   0.0172      call get_redis()   usr/local/petabox/www/sf/details.php:57:getItem
                                              |details.php:176:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1103:log
-  0.0292   0.0111      redis_read start   usr/local/petabox/www/sf/details.php:57:getItem
+  0.0242   0.0070      redis_read start   usr/local/petabox/www/sf/details.php:57:getItem
                                              |details.php:176:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1196:log
-  0.0350   0.0059     redis_read finish   usr/local/petabox/www/sf/details.php:57:getItem
+  0.0301   0.0058     redis_read finish   usr/local/petabox/www/sf/details.php:57:getItem
                                              |details.php:176:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1201:log
-  0.0641   0.0290                render   usr/local/petabox/www/sf/details.php:80:log
-  0.1128   0.0487   begin session_start   usr/local/petabox/www/sf/details.php:81:render
-                                             |common/Details.inc:5584:nav
-                                             |Details.inc:5376:head
+  0.0725   0.0425                render   usr/local/petabox/www/sf/details.php:80:log
+  0.1319   0.0594   begin session_start   usr/local/petabox/www/sf/details.php:81:render
+                                             |common/Details.inc:5613:nav
+                                             |Details.inc:5402:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:182:session_start
                                              |Cookies.inc:61:log
-  0.1131   0.0003    done session_start   usr/local/petabox/www/sf/details.php:81:render
-                                             |common/Details.inc:5584:nav
-                                             |Details.inc:5376:head
+  0.1322   0.0003    done session_start   usr/local/petabox/www/sf/details.php:81:render
+                                             |common/Details.inc:5613:nav
+                                             |Details.inc:5402:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:182:session_start
                                              |Cookies.inc:67:log
-  0.1139   0.0008          header drawn   usr/local/petabox/www/sf/details.php:81:render
-                                             |common/Details.inc:5584:nav
-                                             |Details.inc:5379:log
-  0.1146   0.0007      call get_redis()   usr/local/petabox/www/sf/details.php:81:render
-                                             |common/Details.inc:5629:leftColumn
-                                             |Details.inc:4184:torrentChangingTaskPendingP
+  0.1332   0.0009          header drawn   usr/local/petabox/www/sf/details.php:81:render
+                                             |common/Details.inc:5613:nav
+                                             |Details.inc:5405:log
+  0.1339   0.0007      call get_redis()   usr/local/petabox/www/sf/details.php:81:render
+                                             |common/Details.inc:5658:leftColumn
+                                             |Details.inc:4200:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:647:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:267:get_json_obj
                                              |Metadata.inc:1103:log
-  0.1158   0.0012      redis_read start   usr/local/petabox/www/sf/details.php:81:render
-                                             |common/Details.inc:5629:leftColumn
-                                             |Details.inc:4184:torrentChangingTaskPendingP
+  0.1342   0.0003      redis_read start   usr/local/petabox/www/sf/details.php:81:render
+                                             |common/Details.inc:5658:leftColumn
+                                             |Details.inc:4200:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:647:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:267:get_json_obj
                                              |Metadata.inc:1196:log
-  0.1291   0.0133     redis_read finish   usr/local/petabox/www/sf/details.php:81:render
-                                             |common/Details.inc:5629:leftColumn
-                                             |Details.inc:4184:torrentChangingTaskPendingP
+  0.1373   0.0031     redis_read finish   usr/local/petabox/www/sf/details.php:81:render
+                                             |common/Details.inc:5658:leftColumn
+                                             |Details.inc:4200:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:647:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:267:get_json_obj
                                              |Metadata.inc:1201:log
-  0.1846   0.0555              bug dump   usr/local/petabox/www/sf/details.php:81:render
-                                             |common/Details.inc:5954:footer
+  0.1797   0.0424              bug dump   usr/local/petabox/www/sf/details.php:81:render
+                                             |common/Details.inc:5983:footer
                                              |setup.php:131:footer
-                                             |Nav.inc:1555:dump
+                                             |Nav.inc:1552:dump
                                              |Bug.inc:109:log
       -->
       <script>
         if (typeof($.fn.tooltip)!='undefined') $('#ia-content [data-toggle="tooltip"]').tooltip({});
       </script>
-      <script> if(window.archive_analytics) { window.archive_analytics.values['server_ms']=184; window.archive_analytics.values['server_name']="www13.us.archive.org"; window.archive_analytics.values['service']='ao' }; </script>
+      <script> if(window.archive_analytics) { window.archive_analytics.values['server_ms']=179; window.archive_analytics.values['server_name']="www14.us.archive.org"; window.archive_analytics.values['service']='ao' }; </script>
     </div>
   </body>
 </html>
