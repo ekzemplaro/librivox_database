@@ -1,6 +1,6 @@
 #
-cp id*.json ../get_archive
-cp is*.json ../filter_archive
+mv id*.json ../get_archive
+mv is*.json ../filter_archive
 #
 #
 ../bin/post_process.sh
