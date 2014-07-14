@@ -6,8 +6,8 @@
 <head>
   <title>Internet Archive: Error</title>
       <script src="//archive.org/includes/jquery-1.6.1.js" type="text/javascript"></script>
-    <script src="//archive.org/includes/analytics.js?v=60557" type="text/javascript"></script>
-    <link href="//archive.org/includes/archive.css?v=60557" rel="stylesheet" type="text/css"/>
+    <script src="//archive.org/includes/analytics.js?v=60675" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.css?v=60675" rel="stylesheet" type="text/css"/>
   <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
   </head>
 <body class="Home">
@@ -201,54 +201,54 @@ If you would like to report this problem as an error report,
                   </p>
       </div>
       <!-- Timing ...
-       rendered on: www14.us.archive.org
+       rendered on: www19.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
   0.0000   0.0000         petabox start   usr/local/petabox/www/sf/details.php:10:require_once
                                              |setup.inc:26:require_once
                                              |www/common/setup.php:279:log
-  0.0181   0.0181      call get_redis()   usr/local/petabox/www/sf/details.php:57:getItem
+  0.0017   0.0017      call get_redis()   usr/local/petabox/www/sf/details.php:57:getItem
                                              |details.php:176:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
-                                             |Metadata.inc:1103:log
-  0.0242   0.0061      redis_read start   usr/local/petabox/www/sf/details.php:57:getItem
+                                             |Metadata.inc:1089:log
+  0.0103   0.0087      redis_read start   usr/local/petabox/www/sf/details.php:57:getItem
                                              |details.php:176:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
-                                             |Metadata.inc:1196:log
-  0.0273   0.0031     redis_read finish   usr/local/petabox/www/sf/details.php:57:getItem
+                                             |Metadata.inc:1182:log
+  0.0238   0.0135     redis_read finish   usr/local/petabox/www/sf/details.php:57:getItem
                                              |details.php:176:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
-                                             |Metadata.inc:1201:log
-  0.0782   0.0510   begin session_start   usr/local/petabox/www/sf/details.php:57:getItem
+                                             |Metadata.inc:1187:log
+  0.1042   0.0803   begin session_start   usr/local/petabox/www/sf/details.php:57:getItem
                                              |details.php:231:exitItemNotFetched404
                                              |common/Error.inc:56:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:182:session_start
                                              |Cookies.inc:61:log
-  0.0785   0.0003    done session_start   usr/local/petabox/www/sf/details.php:57:getItem
+  0.1046   0.0004    done session_start   usr/local/petabox/www/sf/details.php:57:getItem
                                              |details.php:231:exitItemNotFetched404
                                              |common/Error.inc:56:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:182:session_start
                                              |Cookies.inc:67:log
-  0.0921   0.0136              bug dump   usr/local/petabox/www/sf/details.php:57:getItem
+  0.1182   0.0136              bug dump   usr/local/petabox/www/sf/details.php:57:getItem
                                              |details.php:231:exitItemNotFetched404
                                              |common/Error.inc:69:fatal
                                              |setup.php:74:footer
                                              |setup.php:131:footer
-                                             |Nav.inc:1551:dump
+                                             |Nav.inc:1547:dump
                                              |Bug.inc:109:log
       -->
       <script>
-        if (typeof($.fn.tooltip)!='undefined') $('#ia-content [data-toggle="tooltip"]').tooltip({});
+        if (typeof($.fn.tooltip)!='undefined') $('.container-ia [data-toggle="tooltip"]').tooltip({});
       </script>
-      <script> if(window.archive_analytics) { window.archive_analytics.values['server_ms']=92; window.archive_analytics.values['server_name']="www14.us.archive.org"; window.archive_analytics.values['service']='ao' }; </script>
+      <script> if(window.archive_analytics) { window.archive_analytics.values['server_ms']=118; window.archive_analytics.values['server_name']="www19.us.archive.org"; window.archive_analytics.values['service']='ao' }; </script>
     </div>
   </body>
 </html>
