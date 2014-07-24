@@ -1,5 +1,0 @@
-mv ex*.json ../../data
-mv ft*.json ../../filter_ext
-#
-../../bin/post_process.sh
-#
