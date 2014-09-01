@@ -12,7 +12,7 @@ URL_TAIL='&extended=1&format=json'
 #for id in {1..999}
 #for id in {8696..8730}
 #for id in {8790..8900}
-for id in {9110..9150}
+for id in {9140..9190}
 do
 	url=$URL_HEAD$id$URL_TAIL
 	curl -k $url > "ex_"$id".json"
