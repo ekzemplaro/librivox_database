@@ -1,4 +1,4 @@
 ./gox
-bash ./go_tmp >& /tmp/t002
+bash ./go_tmp > /tmp/tmp00219 2>&1
 ./goy
 ./goz
