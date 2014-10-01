@@ -6,8 +6,8 @@
 <head>
   <title>Internet Archive: Error</title>
       <script src="//archive.org/includes/jquery-1.6.1.js" type="text/javascript"></script>
-    <script src="//archive.org/includes/analytics.js?v=61611" type="text/javascript"></script>
-    <link href="//archive.org/includes/archive.css?v=61611" rel="stylesheet" type="text/css"/>
+    <script src="//archive.org/includes/analytics.js?v=62164" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.css?v=62164" rel="stylesheet" type="text/css"/>
   <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
   </head>
 <body class="Home">
@@ -201,54 +201,54 @@ If you would like to report this problem as an error report,
                   </div>
       </div>
       <!-- Timing ...
-       rendered on: www10.us.archive.org
+       rendered on: www16.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
-  0.0000   0.0000         petabox start   usr/local/petabox/www/sf/details.php:10:require_once
+  0.0000   0.0000         petabox start   usr/local/petabox/www/sf/details.php:11:require_once
                                              |setup.inc:26:require_once
-                                             |www/common/setup.php:280:log
-  0.0208   0.0208      call get_redis()   usr/local/petabox/www/sf/details.php:57:getItem
-                                             |details.php:176:getItem
+                                             |www/common/setup.php:281:log
+  0.0176   0.0176      call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
-                                             |Metadata.inc:1128:log
-  0.0266   0.0058      redis_read start   usr/local/petabox/www/sf/details.php:57:getItem
-                                             |details.php:176:getItem
+                                             |Metadata.inc:1149:log
+  0.0296   0.0120      redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
-                                             |Metadata.inc:1227:log
-  0.0316   0.0050     redis_read finish   usr/local/petabox/www/sf/details.php:57:getItem
-                                             |details.php:176:getItem
+                                             |Metadata.inc:1248:log
+  0.0362   0.0065     redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
-                                             |Metadata.inc:1232:log
-  0.0922   0.0606   begin session_start   usr/local/petabox/www/sf/details.php:57:getItem
-                                             |details.php:230:exitItemNotFetched404
+                                             |Metadata.inc:1253:log
+  0.0874   0.0513   begin session_start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:241:exitItemNotFetched404
                                              |common/Error.inc:56:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:183:session_start
                                              |Cookies.inc:61:log
-  0.0925   0.0003    done session_start   usr/local/petabox/www/sf/details.php:57:getItem
-                                             |details.php:230:exitItemNotFetched404
+  0.0878   0.0003    done session_start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:241:exitItemNotFetched404
                                              |common/Error.inc:56:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:183:session_start
                                              |Cookies.inc:67:log
-  0.1010   0.0085              bug dump   usr/local/petabox/www/sf/details.php:57:getItem
-                                             |details.php:230:exitItemNotFetched404
+  0.0991   0.0114              bug dump   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:241:exitItemNotFetched404
                                              |common/Error.inc:69:fatal
-                                             |setup.php:75:footer
-                                             |setup.php:132:footer
-                                             |Nav.inc:1549:dump
+                                             |setup.php:77:footer
+                                             |setup.php:134:footer
+                                             |Nav.inc:1559:dump
                                              |Bug.inc:109:log
       -->
       <script>
         if (typeof($)!='undefined'  &&  typeof($.fn.tooltip)!='undefined') $('.container-ia [data-toggle="tooltip"]').tooltip({});
       </script>
-      <script> if(window.archive_analytics) { window.archive_analytics.values['server_ms']=100; window.archive_analytics.values['server_name']="www10.us.archive.org"; window.archive_analytics.values['service']='ao' }; </script>
+      <script> if(window.archive_analytics) { window.archive_analytics.values['server_ms']=99; window.archive_analytics.values['server_name']="www16.us.archive.org"; window.archive_analytics.values['service']='ao' }; </script>
     </div>
   </body>
 </html>
