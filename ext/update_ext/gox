@@ -2,3 +2,6 @@
 rm -f go_tmp
 #
 ../bin/update_ext.js combined.json go_tmp
+#
+#./update_ext.py combined.json
+#
