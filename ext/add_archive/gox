@@ -1,4 +1,7 @@
+#
+#
 rm -f go_tmp
 ../bin/get_archive.js combined.json  go_tmp
 #
-bash ./go_tmp
+#bash ./go_tmp
+#

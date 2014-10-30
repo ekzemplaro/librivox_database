@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	get_archive.js
 //
-//					Nov/17/2013
+//					Oct/30/2014
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -20,7 +20,7 @@ var json_str = fs.readFileSync (file_json_in);
 if (1 < json_str.length)
 	{
 	var data_aa = JSON.parse (json_str);
-	var commands=filter_proc (data_aa);
+	var commands=filter_archive_proc (data_aa);
 
 	var str_out = "";
 
@@ -34,9 +34,9 @@ if (1 < json_str.length)
 
 // console.log ("*** 終了 ***");
 // ---------------------------------------------------------------
-function filter_proc (data_aa)
+function filter_archive_proc (data_aa)
 {
-	var commands = new Array ();
+	var urls = new Array ();
 
 	for (var key in data_aa)
 		{
@@ -48,20 +48,20 @@ function filter_proc (data_aa)
 				if (! ('publicdate' in data_unit))
 					{
 			console.log (key);
-			var command = filter_exec_proc (key,data_unit);
-			commands.push (command);
+			var url = filter_archive_exec_proc (key,data_unit);
+			urls.push (url);
 					}
 				}
 			}
 		}
 
-	return	commands
+	return	urls
 }
 
 // ---------------------------------------------------------------
-function filter_exec_proc (key,data_unit)
+function filter_archive_exec_proc (key,data_unit)
 {
-	var command = '';
+	var url = '';
 
 	var uua = data_unit.url_iarchive;
 
@@ -70,12 +70,75 @@ function filter_exec_proc (key,data_unit)
 		{
 //			console.log (key);
 //			console.log (uua);
-		var file_json = key + '.json';
-		command = 'curl \'' +  uua + '&output=json\'';
-		command += ' > ' + file_json;
+		url =  uua + '&output=json';
+		fetch_exec_proc (url,key)
 		}
 
-	return	command;
+	return	url;
+}
+
+// ---------------------------------------------------------------
+function fetch_exec_proc (url,key)
+{
+	var file_json = key + '.json';
+
+	console.log (file_json);
+
+	var http = require('http');
+
+http.get(url, function(res) {
+	var body = '';
+	res.setEncoding('utf8');
+	
+	res.on ('data', function (chunk) {
+	body += chunk;
+	});
+
+	res.on('end', function() {
+	fs.writeFile (file_json,body);
+
+// <!DOCTYPE html>
+
+	var head_portion = body.substr (0,9);
+	console.log (head_portion);
+	if (head_portion !== "<!DOCTYPE")
+		{
+	var data_aa = JSON.parse (body);
+	var data_shorten = filter_arhive_shorten_proc (key,data_aa);
+	var file_shorten_json = "is_" + file_json.substring (3);
+		var json_str_out = JSON.stringify (data_shorten);
+		fs.writeFile (file_shorten_json,json_str_out);
+		}
+	});
+
+}).on('error', function(ee) {
+	console.error(ee);
+});
+}
+
+// ---------------------------------------------------------------
+function filter_arhive_shorten_proc (key,data_aa)
+{
+	var data_shorten = new Object ();
+	var unit_aa = new Object ();
+
+//	console.log (data_aa.metadata.publicdate);
+//	console.log (data_aa.item.downloads);
+
+	unit_aa['publicdate'] = data_aa.metadata.publicdate[0];
+	unit_aa['downloads'] = 0;
+
+	if ('item' in data_aa)
+		{
+		if ('downloads' in data_aa.item)
+			{
+		unit_aa['downloads'] = data_aa.item.downloads;
+			}
+		}
+
+	data_shorten[key] = unit_aa;
+
+	return	data_shorten;
 }
 
 // ---------------------------------------------------------------

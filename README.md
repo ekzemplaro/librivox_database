@@ -1,9 +1,9 @@
-						Oct/20/2014
+						Oct/30/2014
 Scripts to create JSON
 
-combined.json used for librivox_statistics
+combined.json is used for librivox_statistics
 
-db_catalog.json used for librivox_catalog
+db_catalog.json is used for librivox_catalog
 
 	db_catalog.json includes information in combined.json.
 
