@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	get_archive.js
 //
-//					Oct/30/2014
+//					Nov/11/2014
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -10,34 +10,21 @@ var fs = require("fs");
 // console.log ("*** 開始 ***");
 
 var file_json_in=process.argv[2];
-var file_out=process.argv[3];
 
 console.log (file_json_in);
-console.log (file_out);
 
 var json_str = fs.readFileSync (file_json_in);
 
 if (1 < json_str.length)
 	{
 	var data_aa = JSON.parse (json_str);
-	var commands=filter_archive_proc (data_aa);
-
-	var str_out = "";
-
-	for (var it=0;  it < commands.length; it++)
-		{
-		str_out += commands[it] + '\n';
-		}
-
-	fs.writeFile (file_out,str_out);
+	filter_archive_proc (data_aa);
 	}
 
 // console.log ("*** 終了 ***");
 // ---------------------------------------------------------------
 function filter_archive_proc (data_aa)
 {
-	var urls = new Array ();
-
 	for (var key in data_aa)
 		{
 		var data_unit = data_aa[key];
@@ -47,15 +34,12 @@ function filter_archive_proc (data_aa)
 				{
 				if (! ('publicdate' in data_unit))
 					{
-			console.log (key);
-			var url = filter_archive_exec_proc (key,data_unit);
-			urls.push (url);
+					console.log (key);
+					filter_archive_exec_proc (key,data_unit);
 					}
 				}
 			}
 		}
-
-	return	urls
 }
 
 // ---------------------------------------------------------------
@@ -66,27 +50,27 @@ function filter_archive_exec_proc (key,data_unit)
 	var uua = data_unit.url_iarchive;
 
 	uua = uua.replace ("www.archive.org","archive.org");
+	uua = uua.replace ("http:","https:");
+
 	if (uua != "")
 		{
-//			console.log (key);
-//			console.log (uua);
 		url =  uua + '&output=json';
-		fetch_exec_proc (url,key)
+		archive_fetch_exec_proc (url,key)
 		}
 
-	return	url;
 }
 
 // ---------------------------------------------------------------
-function fetch_exec_proc (url,key)
+function archive_fetch_exec_proc (url,key)
 {
 	var file_json = key + '.json';
 
+	console.log (url);
 	console.log (file_json);
 
-	var http = require('http');
+	var https = require('https');
 
-http.get(url, function(res) {
+https.get(url, function(res) {
 	var body = '';
 	res.setEncoding('utf8');
 	

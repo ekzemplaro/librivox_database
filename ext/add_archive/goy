@@ -1,7 +1,0 @@
-ls id*.json > tmp01
-sed 's/id_//' tmp01 > tmp02
-sed 's/.json//' tmp02 > tmp03
-#
-awk '{print "../bin/filter_archive.js",$1,"id_"$1".json"}' tmp03 > go_tmp02
-#
-bash ./go_tmp02

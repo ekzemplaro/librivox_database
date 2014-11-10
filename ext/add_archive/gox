@@ -1,7 +1,6 @@
 #
+#				Nov/09/2014
 #
-rm -f go_tmp
-../bin/get_archive.js combined.json  go_tmp
+../bin/get_archive.js combined.json
 #
-#bash ./go_tmp
 #
