@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	update_ext.js
 //
-//					Oct/23/2014
+//					Nov/12/2014
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -32,16 +32,16 @@ if (1 < json_str.length)
 		{
 		keys_number.push (key_max + it);
 		}
- 
+
+	console.log ("keys_number.length = " + keys_number.length);
+	keys_number = absent_number_check_proc (key_max,data_aa,keys_number);
+	console.log ("keys_number.length = " + keys_number.length);
+
 	for (var it=0;  it < keys_number.length; it++)
 		{
 		var key_number=keys_number[it];
 
-//		if (it < 4)
-//		if (it < 3)
-//			{
-			fetch_proc (key_number);
-//			}
+		fetch_proc (key_number);
 
 		str_out += key_number + '\n';
 		}
@@ -50,6 +50,30 @@ if (1 < json_str.length)
 	}
 
 // console.log ("*** 終了 ***");
+// ---------------------------------------------------------------
+function absent_number_check_proc (nn_max,data_aa,keys_number)
+{
+	console.log ("nn_max = " + nn_max);
+
+//	var nn_min = nn_max - 4000;
+	var nn_min = 1000;
+
+	console.log ("nn_min = " + nn_min);
+
+	for (var nn = nn_min; nn < nn_max; nn += 1)
+		{
+		var key = "id_" + nn;
+
+		if (! (key in data_aa))
+			{
+			console.log ("*** lacking *** " + key);
+			keys_number.push (nn);
+			}
+		}
+
+	return	keys_number;
+}
+
 // ---------------------------------------------------------------
 // [4]:
 function filter_proc (data_aa)

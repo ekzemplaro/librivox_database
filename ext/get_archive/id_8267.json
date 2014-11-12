@@ -121,8 +121,8 @@
 <option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
 <option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
 <option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
-<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
 <option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
 <option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
 <option  value="audio">&nbsp;&nbsp;Audio</option>
 <option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
@@ -139,9 +139,9 @@
 <option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
 <option  value="education">&nbsp;&nbsp;Education</option>
 <option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses</option>
 <option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
 <option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
-<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses</option>
 <option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
             
             <option value="forums" >Forums</option>
@@ -195,43 +195,103 @@ If you would like to report this problem as an error report,
 </p>
 
 <!-- Timing ...
- rendered on: www10.us.archive.org
- seconds diff sec               message   stack(file:line:function)
+ rendered on: www17.us.archive.org
+ seconds diff sec                message   stack(file:line:function)
 =========================================================
-  0.0000   0.0000         petabox start   usr/local/petabox/www/sf/details.php:11:require_once
+  0.0000   0.0000          petabox start   usr/local/petabox/www/sf/details.php:11:require_once
                                              |setup.inc:26:require_once
                                              |www/common/setup.php:277:log
-  0.0219   0.0219      call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0241   0.0241       call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1292:log
-  0.0292   0.0074      redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0432   0.0191       redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1391:log
-  0.0322   0.0030     redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0527   0.0095      redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1396:log
-  0.0884   0.0562   begin session_start   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0538   0.0011           locate start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2006:locateUDP
+                                             |Locator.inc:67:log
+  0.0560   0.0021          locate finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2006:locateUDP
+                                             |Locator.inc:195:log
+  0.0584   0.0024     meta_xml_get start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2132:log
+  0.0930   0.0346    meta_xml_get finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2146:log
+  0.0933   0.0003    meta_xml_read start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2182:xml_to_json
+                                             |Metadata.inc:3223:log
+  0.0936   0.0003   meta_xml_read finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2182:xml_to_json
+                                             |Metadata.inc:3506:log
+  0.1059   0.0122      redis_write start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2323:log
+  0.1071   0.0012     redis_write finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2329:log
+  0.1679   0.0608    begin session_start   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:241:exitItemNotFetched404
                                              |common/Error.inc:56:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:184:session_start
                                              |Cookies.inc:61:log
-  0.0888   0.0003    done session_start   usr/local/petabox/www/sf/details.php:68:getItem
+  0.1682   0.0004     done session_start   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:241:exitItemNotFetched404
                                              |common/Error.inc:56:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:184:session_start
                                              |Cookies.inc:67:log
-  0.0993   0.0105              bug dump   usr/local/petabox/www/sf/details.php:68:getItem
+  0.1812   0.0130               bug dump   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:241:exitItemNotFetched404
                                              |common/Error.inc:69:fatal
                                              |setup.php:77:footer
@@ -239,5 +299,5 @@ If you would like to report this problem as an error report,
                                              |Nav.inc:1611:dump
                                              |Bug.inc:109:log
 -->
-<script>if(window.archive_analytics) { window.archive_analytics.values['server_ms']=99; window.archive_analytics.values['server_name']="www10.us.archive.org"; window.archive_analytics.values['service']='ao'; } </script>
+<script>if(window.archive_analytics) { window.archive_analytics.values['server_ms']=181; window.archive_analytics.values['server_name']="www17.us.archive.org"; window.archive_analytics.values['service']='ao'; } </script>
 </body></html>
