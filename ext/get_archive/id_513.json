@@ -6,11 +6,11 @@
 <head>
   <title>The Awful German Language, by Mark Twain : Free Download &amp; Streaming : Internet Archive</title>
       <script src="//archive.org/includes/jquery-1.6.1.js" type="text/javascript"></script>
-    <script src="//archive.org/includes/analytics.js?v=63020" type="text/javascript"></script>
-    <script src="/includes/archive.js?v=63020" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=63088" type="text/javascript"></script>
+    <script src="/includes/archive.js?v=63088" type="text/javascript"></script>
     <script src="/jw/6.8/jwplayer.js" type="text/javascript"></script>
     <script src="/includes/jquery.textfill.js" type="text/javascript"></script>
-    <script src="/includes/play.js?v=63020" type="text/javascript"></script>
+    <script src="/includes/play.js?v=63088" type="text/javascript"></script>
 <meta name="description" content="Librivox recording of The Awful German Language, by Mark Twain. Read by Rainer For further information, including links to online text, reader information,..."/>
 <meta property="og:title" content="The Awful German Language, by Mark Twain : Free Download &amp; Streaming : Internet Archive"/>
 <meta property="og:description" content="Librivox recording of The Awful German Language, by Mark Twain. Read by Rainer For further information, including links to online text, reader information,..."/>
@@ -35,7 +35,7 @@
 <meta property="twitter:player:stream" content="https://archive.org/download/awfulgerman_librivox/twain_german_language1_64kb.mp3"/>
 <meta property="twitter:player:stream:content_type" content="video/mp4; codecs=&quot;avc1.42E01E1, mp4a.40.2&quot;"/>
 <link rel="canonical" href="https://archive.org/details/awfulgerman_librivox">
-    <link href="//archive.org/includes/archive.css?v=63020" rel="stylesheet" type="text/css"/>
+    <link href="//archive.org/includes/archive.css?v=63088" rel="stylesheet" type="text/css"/>
   <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
   </head>
 <body class="Audio infotray-hidden">
@@ -83,7 +83,7 @@
         </table>
       </td>
       <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
-        <a href="/details/librivoxaudio"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="//ia600501.us.archive.org/1/items/librivoxaudio/libvox.png?cnt=0"/></a>      </td>
+        <a href="/details/librivoxaudio"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="//ia700501.us.archive.org/1/items/librivoxaudio/libvox.png?cnt=0"/></a>      </td>
     </tr>
   </tbody>
 </table>
@@ -169,9 +169,9 @@
 <option  value="education">&nbsp;&nbsp;Education</option>
 <option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
 <option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses</option>
-<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
 <option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
 <option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
             
             <option value="forums" >Forums</option>
             <option value="faqs"   >FAQs</option>
@@ -220,7 +220,7 @@
   <div class="box">
     <h1>Listen to audio</h1>
     <div style="text-align:center;">
-      <img title="item image" alt="item image" style="max-height:152px; max-width:165px; margin-bottom:0.5em;" src="https://ia600308.us.archive.org/7/items/awfulgerman_librivox/Awful_German_Language_1108_thumb.jpg?cnt=0"/>      <br/>
+      <img title="item image" alt="item image" style="max-height:152px; max-width:165px; margin-bottom:0.5em;" src="https://ia700308.us.archive.org/7/items/awfulgerman_librivox/Awful_German_Language_1108_thumb.jpg?cnt=0"/>      <br/>
                   Run time: 1:03.15          </div>
     <h2>Stream (<a href="/about/faqs.php#94">help<img title="[help]" alt="[help]" style="vertical-align:middle" id="help1" src="/images/question.gif"/></a>)</h2><p class="content"><a href="https://archive.org/download/awfulgerman_librivox/awfulgerman_librivox_128kb.m3u">128kbps M3U</a> (Hi-Fi)<br/><a href="https://archive.org/download/awfulgerman_librivox/awfulgerman_librivox_64kb.m3u">64Kbps M3U</a> (Lo-Fi)<br/></p><h2>Play / Download (<a href="/about/faqs.php#Audio">help<img title="[help]" alt="[help]" style="vertical-align:middle" id="help2" src="/images/question.gif"/></a>)</h2>      <p id="dl" class="content">
          <a href="/stream/awfulgerman_librivox/Awful_German_Language_1108">Read Online</a><br/> <span class="pull-right">(29.0 M)</span><a href="/download/awfulgerman_librivox/awfulgerman_librivox_64kb_mp3.zip">64Kbps MP3 ZIP</a><br/>      </p>
@@ -243,7 +243,7 @@
         </div>
               </div>
       <br/>
-          <br/><b>All Files: </b><a href="https://ia600308.us.archive.org/7/items/awfulgerman_librivox">HTTPS</a>&nbsp;<a href="/download/awfulgerman_librivox/awfulgerman_librivox_archive.torrent">Torrent</a> (2/0)<br/><div style="text-align:center; margin-top:10px;">
+          <br/><b>All Files: </b><a href="https://ia700308.us.archive.org/7/items/awfulgerman_librivox">HTTPS</a>&nbsp;<a href="/download/awfulgerman_librivox/awfulgerman_librivox_archive.torrent">Torrent</a> (2/0)<br/><div style="text-align:center; margin-top:10px;">
   <a rel="license" href="http://creativecommons.org/licenses/publicdomain/" target="_blank"
    ><img title="[Public Domain]" alt="[Public Domain]" style="height:31px" id="ccimage" src="https://creativecommons.org/images/public/norights.gif"/></a>
 </div>
@@ -327,38 +327,6 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
     
         <tr class="odd">
       <td class="ttl">
-        Awful_German_Language_1108_jp2.zip      </td>
-      <td class="ttl">
-        Single Page Processed JP2 ZIP      </td>
-      <td>
-        <a href="/download/awfulgerman_librivox/Awful_German_Language_1108_jp2.zip">862.2 KB</a>&nbsp;<a href="/download/awfulgerman_librivox/Awful_German_Language_1108_jp2.zip/">[contents]</a>      </td>
-    </tr>
-        <tr class="eve">
-      <td class="ttl">
-        awfulgerman_librivox_128kb.m3u      </td>
-      <td class="ttl">
-        128kbps M3U      </td>
-      <td>
-        <a href="/download/awfulgerman_librivox/awfulgerman_librivox_128kb.m3u">Stream</a>&nbsp;      </td>
-    </tr>
-        <tr class="odd">
-      <td class="ttl">
-        awfulgerman_librivox_64kb.m3u      </td>
-      <td class="ttl">
-        64Kbps M3U      </td>
-      <td>
-        <a href="/download/awfulgerman_librivox/awfulgerman_librivox_64kb.m3u">Stream</a>&nbsp;      </td>
-    </tr>
-        <tr class="eve">
-      <td class="ttl">
-        awfulgerman_librivox_64kb_mp3.zip      </td>
-      <td class="ttl">
-        64Kbps MP3 ZIP      </td>
-      <td>
-        <a href="/download/awfulgerman_librivox/awfulgerman_librivox_64kb_mp3.zip">29.0 MB</a>&nbsp;      </td>
-    </tr>
-        <tr class="odd">
-      <td class="ttl">
         [generated 128Kbps MP3 ZIP]      </td>
       <td class="ttl">
         128Kbps MP3 ZIP      </td>
@@ -380,8 +348,12 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
       <tr>
         <th class="ttlHeader">Audio Files</th>
 
-                        <th>128Kbps MP3</th>
+                        <th>128kbps M3U</th>
+                <th>64Kbps M3U</th>
+                <th>64Kbps MP3 ZIP</th>
+                <th>128Kbps MP3</th>
                 <th>Ogg Vorbis</th>
+                <th>PNG</th>
                 <th>64Kbps MP3</th>
                       </tr>
     </thead>
@@ -392,12 +364,26 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
       <td class="ttl">
         The awful German language - 1      </td>
                 <td>
+               </td>
+            <td>
+                             <a href="/download/awfulgerman_librivox/awfulgerman_librivox_64kb.m3u">255.0 B</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+               </td>
+            <td>
                              <a href="/download/awfulgerman_librivox/twain_german_language1.mp3">14.6 MB</a>&nbsp;        
           
         <br/>
                     </td>
             <td>
                              <a href="/download/awfulgerman_librivox/twain_german_language1.ogg">11.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/awfulgerman_librivox/twain_german_language1.png">10.1 KB</a>&nbsp;        
           
         <br/>
                     </td>
@@ -412,12 +398,26 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
       <td class="ttl">
         The awful German language - 2      </td>
                 <td>
+               </td>
+            <td>
+               </td>
+            <td>
+                             <a href="/download/awfulgerman_librivox/awfulgerman_librivox_64kb_mp3.zip">29.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
                              <a href="/download/awfulgerman_librivox/twain_german_language2.mp3">19.1 MB</a>&nbsp;        
           
         <br/>
                     </td>
             <td>
                              <a href="/download/awfulgerman_librivox/twain_german_language2.ogg">14.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/awfulgerman_librivox/twain_german_language2.png">9.6 KB</a>&nbsp;        
           
         <br/>
                     </td>
@@ -432,12 +432,26 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
       <td class="ttl">
         The awful German language - 3      </td>
                 <td>
+                             <a href="/download/awfulgerman_librivox/awfulgerman_librivox_128kb.m3u">240.0 B</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+               </td>
+            <td>
+               </td>
+            <td>
                              <a href="/download/awfulgerman_librivox/twain_german_language3.mp3">24.3 MB</a>&nbsp;        
           
         <br/>
                     </td>
             <td>
                              <a href="/download/awfulgerman_librivox/twain_german_language3.ogg">18.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/awfulgerman_librivox/twain_german_language3.png">9.6 KB</a>&nbsp;        
           
         <br/>
                     </td>
@@ -456,7 +470,6 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
 
                         <th>JPEG</th>
                 <th>JPEG Thumb</th>
-                <th>PNG</th>
                       </tr>
     </thead>
     <tbody>
@@ -472,8 +485,6 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
                     </td>
             <td>
                </td>
-            <td>
-               </td>
           </tr>
               
     <tr class="eve">
@@ -483,50 +494,6 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
                </td>
             <td>
                              <a href="/download/awfulgerman_librivox/Awful_German_Language_1108_thumb.jpg">47.5 KB</a>&nbsp;        
-          
-        <br/>
-                    </td>
-            <td>
-               </td>
-          </tr>
-              
-    <tr class="odd">
-      <td class="ttl">
-        The awful German language - 1      </td>
-                <td>
-               </td>
-            <td>
-               </td>
-            <td>
-                             <a href="/download/awfulgerman_librivox/twain_german_language1.png">10.1 KB</a>&nbsp;        
-          
-        <br/>
-                    </td>
-          </tr>
-              
-    <tr class="eve">
-      <td class="ttl">
-        The awful German language - 2      </td>
-                <td>
-               </td>
-            <td>
-               </td>
-            <td>
-                             <a href="/download/awfulgerman_librivox/twain_german_language2.png">9.6 KB</a>&nbsp;        
-          
-        <br/>
-                    </td>
-          </tr>
-              
-    <tr class="odd">
-      <td class="ttl">
-        The awful German language - 3      </td>
-                <td>
-               </td>
-            <td>
-               </td>
-            <td>
-                             <a href="/download/awfulgerman_librivox/twain_german_language3.png">9.6 KB</a>&nbsp;        
           
         <br/>
                     </td>
@@ -553,13 +520,21 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
     </tr>
         <tr class="eve">
       <td class="ttl">
+        awfulgerman_librivox_files_all.torrent      </td>
+      <td class="ttl">
+        ItemBitTorrent      </td>
+      <td>
+        <a href="/download/awfulgerman_librivox/awfulgerman_librivox_files_all.torrent">2.7 KB</a>&nbsp;      </td>
+    </tr>
+        <tr class="odd">
+      <td class="ttl">
         awfulgerman_librivox_meta.xml      </td>
       <td class="ttl">
         Metadata      </td>
       <td>
         <a href="/download/awfulgerman_librivox/awfulgerman_librivox_meta.xml">2.2 KB</a>&nbsp;      </td>
     </tr>
-        <tr class="odd">
+        <tr class="eve">
       <td class="ttl">
         awfulgerman_librivox_reviews.xml      </td>
       <td class="ttl">
@@ -577,9 +552,9 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
                         <th>Text PDF</th>
                 <th>Abbyy GZ</th>
                 <th>Djvu XML</th>
+                <th>Single Page Processed JP2 ZIP</th>
                 <th>Unknown</th>
                 <th>Archive BitTorrent</th>
-                <th>ItemBitTorrent</th>
                       </tr>
     </thead>
     <tbody>
@@ -604,7 +579,10 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
         <br/>
                     </td>
             <td>
-               </td>
+                             <a href="/download/awfulgerman_librivox/Awful_German_Language_1108_jp2.zip">862.2 KB</a>&nbsp;<a href="/download/awfulgerman_librivox/Awful_German_Language_1108_jp2.zip/">[contents]</a>        
+          
+        <br/>
+                    </td>
             <td>
                </td>
             <td>
@@ -621,12 +599,12 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
             <td>
                </td>
             <td>
+               </td>
+            <td>
                              <a href="/download/awfulgerman_librivox/awfulgerman_librivox.json">4.3 KB</a>&nbsp;        
           
         <br/>
                     </td>
-            <td>
-               </td>
             <td>
                </td>
           </tr>
@@ -643,29 +621,9 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
             <td>
                </td>
             <td>
+               </td>
+            <td>
                              <a href="/download/awfulgerman_librivox/awfulgerman_librivox_archive.torrent">10.3 KB</a>&nbsp;        
-          
-        <br/>
-                    </td>
-            <td>
-               </td>
-          </tr>
-              
-    <tr class="eve">
-      <td class="ttl">
-        awfulgerman_librivox_files.xml      </td>
-                <td>
-               </td>
-            <td>
-               </td>
-            <td>
-               </td>
-            <td>
-               </td>
-            <td>
-               </td>
-            <td>
-                             <a href="/download/awfulgerman_librivox/awfulgerman_librivox_files_all.torrent">2.7 KB</a>&nbsp;        
           
         <br/>
                     </td>
@@ -693,7 +651,7 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
        >Write a review</a>
         <br/>
     <span style="font-size:80%">
-      Downloaded 152,851 times
+      Downloaded 153,739 times
     </span>
         </span>
     Reviews<br/>
@@ -733,247 +691,247 @@ Play('jw6',
 </p>
 
 <!-- Timing ...
- rendered on: www17.us.archive.org
+ rendered on: www16.us.archive.org
  seconds diff sec                       message   stack(file:line:function)
 =========================================================
   0.0000   0.0000                 petabox start   usr/local/petabox/www/sf/details.php:11:require_once
                                              |setup.inc:26:require_once
                                              |www/common/setup.php:277:log
-  0.0214   0.0214              call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0291   0.0291              call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1292:log
-  0.0341   0.0126              redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0385   0.0094              redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1391:log
-  0.0376   0.0035             redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0407   0.0022             redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1396:log
-  0.0723   0.0348                        render   usr/local/petabox/www/sf/details.php:91:log
-  0.1187   0.0464           begin session_start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5641:head
+  0.0735   0.0327                        render   usr/local/petabox/www/sf/details.php:91:log
+  0.1250   0.0515           begin session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5649:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:184:session_start
                                              |Cookies.inc:61:log
-  0.1190   0.0003            done session_start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5641:head
+  0.1253   0.0003            done session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5649:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:184:session_start
                                              |Cookies.inc:67:log
-  0.1202   0.0012                  header drawn   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5644:log
-  0.1234   0.0032              call get_redis()   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.1265   0.0012                  header drawn   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5652:log
+  0.1290   0.0025              call get_redis()   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1292:log
-  0.1240   0.0006              redis_read start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.1293   0.0003              redis_read start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1391:log
-  0.1263   0.0023             redis_read finish   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.1325   0.0032             redis_read finish   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1396:log
-  0.1792   0.0529   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.1831   0.0506   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:276:log
-  0.1795   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.1835   0.0003      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:617:log
-  0.1820   0.0025       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.1860   0.0025       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:648:log
-  0.1822   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.1863   0.0003    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:313:log
-  0.2029   0.0207   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2074   0.0211   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:276:log
-  0.2031   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2076   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:617:log
-  0.2097   0.0066       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2139   0.0063       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:648:log
-  0.2101   0.0004    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2141   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:313:log
-  0.2291   0.0190                      bug dump   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6342:footer
+  0.2345   0.0203                      bug dump   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6353:footer
                                              |setup.php:134:footer
                                              |Nav.inc:1611:dump
                                              |Bug.inc:109:log
 -->
-<script>if(window.archive_analytics) { window.archive_analytics.values['server_ms']=229; window.archive_analytics.values['server_name']="www17.us.archive.org"; window.archive_analytics.values['service']='ao'; } </script>
+<script>if(window.archive_analytics) { window.archive_analytics.values['server_ms']=234; window.archive_analytics.values['server_name']="www16.us.archive.org"; window.archive_analytics.values['service']='ao'; } </script>
 </body></html>
 <!-- Bug ... 
- rendered on: www17.us.archive.org
+ rendered on: www16.us.archive.org
  seconds diff sec                       message   stack(file:line:function)
 =========================================================
   0.0000   0.0000                 petabox start   usr/local/petabox/www/sf/details.php:11:require_once
                                              |setup.inc:26:require_once
                                              |www/common/setup.php:277:log
-  0.0214   0.0214              call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0291   0.0291              call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1292:log
-  0.0341   0.0126              redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0385   0.0094              redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1391:log
-  0.0376   0.0035             redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0407   0.0022             redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1396:log
-  0.0723   0.0348                        render   usr/local/petabox/www/sf/details.php:91:log
-  0.1187   0.0464           begin session_start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5641:head
+  0.0735   0.0327                        render   usr/local/petabox/www/sf/details.php:91:log
+  0.1250   0.0515           begin session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5649:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:184:session_start
                                              |Cookies.inc:61:log
-  0.1190   0.0003            done session_start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5641:head
+  0.1253   0.0003            done session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5649:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:184:session_start
                                              |Cookies.inc:67:log
-  0.1202   0.0012                  header drawn   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5644:log
-  0.1234   0.0032              call get_redis()   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.1265   0.0012                  header drawn   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5652:log
+  0.1290   0.0025              call get_redis()   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1292:log
-  0.1240   0.0006              redis_read start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.1293   0.0003              redis_read start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1391:log
-  0.1263   0.0023             redis_read finish   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.1325   0.0032             redis_read finish   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1396:log
-  0.1792   0.0529   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.1831   0.0506   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:276:log
-  0.1795   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.1835   0.0003      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:617:log
-  0.1820   0.0025       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.1860   0.0025       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:648:log
-  0.1822   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.1863   0.0003    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:313:log
-  0.2029   0.0207   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2074   0.0211   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:276:log
-  0.2031   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2076   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:617:log
-  0.2097   0.0066       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2139   0.0063       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:648:log
-  0.2101   0.0004    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2141   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:313:log
-  0.2291   0.0190                      bug dump   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6342:footer
+  0.2345   0.0203                      bug dump   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6353:footer
                                              |setup.php:134:footer
                                              |Nav.inc:1611:dump
                                              |Bug.inc:109:log
-  0.2296   0.0005                      bug dump   usr/local/petabox/www/sf/details.php:135:dump
+  0.2350   0.0005                      bug dump   usr/local/petabox/www/sf/details.php:135:dump
                                              |common/Bug.inc:109:log
 
 -->

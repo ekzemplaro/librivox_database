@@ -6,11 +6,11 @@
 <head>
   <title>The Parenticide Club : Ambrose Bierce : Free Download &amp; Streaming : Internet Archive</title>
       <script src="//archive.org/includes/jquery-1.6.1.js" type="text/javascript"></script>
-    <script src="//archive.org/includes/analytics.js?v=63020" type="text/javascript"></script>
-    <script src="/includes/archive.js?v=63020" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=63088" type="text/javascript"></script>
+    <script src="/includes/archive.js?v=63088" type="text/javascript"></script>
     <script src="/jw/6.8/jwplayer.js" type="text/javascript"></script>
     <script src="/includes/jquery.textfill.js" type="text/javascript"></script>
-    <script src="/includes/play.js?v=63020" type="text/javascript"></script>
+    <script src="/includes/play.js?v=63088" type="text/javascript"></script>
 <meta name="description" content="Librivox recording of The Parenticide Club, by Ambrose Bierce. Read by Peter Yearsley. Includes four stories: My favorite murder -- Oil of Dog -- An..."/>
 <meta property="og:title" content="The Parenticide Club : Ambrose Bierce : Free Download &amp; Streaming : Internet Archive"/>
 <meta property="og:description" content="Librivox recording of The Parenticide Club, by Ambrose Bierce. Read by Peter Yearsley. Includes four stories: My favorite murder -- Oil of Dog -- An..."/>
@@ -35,7 +35,7 @@
 <meta property="twitter:player:stream" content="https://archive.org/download/parenticide_librivox/parenticide_club_bierce_64kb.mp3"/>
 <meta property="twitter:player:stream:content_type" content="video/mp4; codecs=&quot;avc1.42E01E1, mp4a.40.2&quot;"/>
 <link rel="canonical" href="https://archive.org/details/parenticide_librivox">
-    <link href="//archive.org/includes/archive.css?v=63020" rel="stylesheet" type="text/css"/>
+    <link href="//archive.org/includes/archive.css?v=63088" rel="stylesheet" type="text/css"/>
   <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
   </head>
 <body class="Audio infotray-hidden">
@@ -169,9 +169,9 @@
 <option  value="education">&nbsp;&nbsp;Education</option>
 <option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
 <option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses</option>
-<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
 <option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
 <option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
             
             <option value="forums" >Forums</option>
             <option value="faqs"   >FAQs</option>
@@ -309,50 +309,6 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
 <style type="text/css">table.fileFormats tr td, table.fileFormats tr th { text-align:left; }</style>
 <h2>Individual Files</h2>
 <div style="text-align:center; margin:0px auto 0px auto; padding:0.1em">
-    <table id="ff0" class="fileFormats  table table-striped table-condensed table-hover table-bordered">
-    <thead>
-      <tr>
-        <th class="ttlHeader">Whole Item</th>
-
-                <th>Format</th><th>Size</th>
-              </tr>
-    </thead>
-    <tbody>
-    
-        <tr class="odd">
-      <td class="ttl">
-        Parenticide_Club_1007_jp2.zip      </td>
-      <td class="ttl">
-        Single Page Processed JP2 ZIP      </td>
-      <td>
-        <a href="/download/parenticide_librivox/Parenticide_Club_1007_jp2.zip">639.3 KB</a>&nbsp;<a href="/download/parenticide_librivox/Parenticide_Club_1007_jp2.zip/">[contents]</a>      </td>
-    </tr>
-        <tr class="eve">
-      <td class="ttl">
-        parenticide_librivox_128kb.m3u      </td>
-      <td class="ttl">
-        128kbps M3U      </td>
-      <td>
-        <a href="/download/parenticide_librivox/parenticide_librivox_128kb.m3u">Stream</a>&nbsp;      </td>
-    </tr>
-        <tr class="odd">
-      <td class="ttl">
-        parenticide_librivox_64kb.m3u      </td>
-      <td class="ttl">
-        64Kbps M3U      </td>
-      <td>
-        <a href="/download/parenticide_librivox/parenticide_librivox_64kb.m3u">Stream</a>&nbsp;      </td>
-    </tr>
-        <tr class="eve">
-      <td class="ttl">
-        parenticide_librivox_64kb_mp3.zip      </td>
-      <td class="ttl">
-        64Kbps MP3 ZIP      </td>
-      <td>
-        <a href="/download/parenticide_librivox/parenticide_librivox_64kb_mp3.zip">22.4 MB</a>&nbsp;      </td>
-    </tr>
-      </tbody>
-  </table>  
     <table id="ff2" class="fileFormats  table table-striped table-condensed table-hover table-bordered">
     <thead>
       <tr>
@@ -360,7 +316,11 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
 
                         <th>128Kbps MP3</th>
                 <th>Ogg Vorbis</th>
+                <th>PNG</th>
                 <th>64Kbps MP3</th>
+                <th>128kbps M3U</th>
+                <th>64Kbps M3U</th>
+                <th>64Kbps MP3 ZIP</th>
                       </tr>
     </thead>
     <tbody>
@@ -380,7 +340,27 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
         <br/>
                     </td>
             <td>
+                             <a href="/download/parenticide_librivox/parenticide_club_bierce.png">10.6 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
                              <a href="/download/parenticide_librivox/parenticide_club_bierce_64kb.mp3">22.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/parenticide_librivox/parenticide_librivox_128kb.m3u">81.0 B</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/parenticide_librivox/parenticide_librivox_64kb.m3u">86.0 B</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/parenticide_librivox/parenticide_librivox_64kb_mp3.zip">22.4 MB</a>&nbsp;        
           
         <br/>
                     </td>
@@ -394,7 +374,6 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
 
                         <th>JPEG</th>
                 <th>JPEG Thumb</th>
-                <th>PNG</th>
                       </tr>
     </thead>
     <tbody>
@@ -410,8 +389,6 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
                     </td>
             <td>
                </td>
-            <td>
-               </td>
           </tr>
               
     <tr class="eve">
@@ -421,22 +398,6 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
                </td>
             <td>
                              <a href="/download/parenticide_librivox/Parenticide_Club_1007_thumb.jpg">45.0 KB</a>&nbsp;        
-          
-        <br/>
-                    </td>
-            <td>
-               </td>
-          </tr>
-              
-    <tr class="odd">
-      <td class="ttl">
-        The Parenticide Club      </td>
-                <td>
-               </td>
-            <td>
-               </td>
-            <td>
-                             <a href="/download/parenticide_librivox/parenticide_club_bierce.png">10.6 KB</a>&nbsp;        
           
         <br/>
                     </td>
@@ -463,13 +424,21 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
     </tr>
         <tr class="eve">
       <td class="ttl">
+        parenticide_librivox_files_all.torrent      </td>
+      <td class="ttl">
+        ItemBitTorrent      </td>
+      <td>
+        <a href="/download/parenticide_librivox/parenticide_librivox_files_all.torrent">1.9 KB</a>&nbsp;      </td>
+    </tr>
+        <tr class="odd">
+      <td class="ttl">
         parenticide_librivox_meta.xml      </td>
       <td class="ttl">
         Metadata      </td>
       <td>
         <a href="/download/parenticide_librivox/parenticide_librivox_meta.xml">2.5 KB</a>&nbsp;      </td>
     </tr>
-        <tr class="odd">
+        <tr class="eve">
       <td class="ttl">
         parenticide_librivox_reviews.xml      </td>
       <td class="ttl">
@@ -487,9 +456,9 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
                         <th>Text PDF</th>
                 <th>Abbyy GZ</th>
                 <th>Djvu XML</th>
+                <th>Single Page Processed JP2 ZIP</th>
                 <th>Unknown</th>
                 <th>Archive BitTorrent</th>
-                <th>ItemBitTorrent</th>
                       </tr>
     </thead>
     <tbody>
@@ -514,7 +483,10 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
         <br/>
                     </td>
             <td>
-               </td>
+                             <a href="/download/parenticide_librivox/Parenticide_Club_1007_jp2.zip">639.3 KB</a>&nbsp;<a href="/download/parenticide_librivox/Parenticide_Club_1007_jp2.zip/">[contents]</a>        
+          
+        <br/>
+                    </td>
             <td>
                </td>
             <td>
@@ -531,12 +503,12 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
             <td>
                </td>
             <td>
+               </td>
+            <td>
                              <a href="/download/parenticide_librivox/parenticide_librivox.json">1.8 KB</a>&nbsp;        
           
         <br/>
                     </td>
-            <td>
-               </td>
             <td>
                </td>
           </tr>
@@ -553,29 +525,9 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
             <td>
                </td>
             <td>
+               </td>
+            <td>
                              <a href="/download/parenticide_librivox/parenticide_librivox_archive.torrent">7.3 KB</a>&nbsp;        
-          
-        <br/>
-                    </td>
-            <td>
-               </td>
-          </tr>
-              
-    <tr class="eve">
-      <td class="ttl">
-        parenticide_librivox_files.xml      </td>
-                <td>
-               </td>
-            <td>
-               </td>
-            <td>
-               </td>
-            <td>
-               </td>
-            <td>
-               </td>
-            <td>
-                             <a href="/download/parenticide_librivox/parenticide_librivox_files_all.torrent">1.9 KB</a>&nbsp;        
           
         <br/>
                     </td>
@@ -603,7 +555,7 @@ For more free audiobooks, or to become a volunteer reader, please visit <a href=
        >Write a review</a>
         <br/>
     <span style="font-size:80%">
-      Downloaded 35,380 times
+      Downloaded 35,651 times
     </span>
         </span>
     Reviews<br/>
@@ -720,299 +672,299 @@ Play('jw6',
 </p>
 
 <!-- Timing ...
- rendered on: www17.us.archive.org
+ rendered on: www16.us.archive.org
  seconds diff sec                       message   stack(file:line:function)
 =========================================================
   0.0000   0.0000                 petabox start   usr/local/petabox/www/sf/details.php:11:require_once
                                              |setup.inc:26:require_once
                                              |www/common/setup.php:277:log
-  0.0225   0.0225              call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0309   0.0309              call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1292:log
-  0.0355   0.0129              redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0423   0.0115              redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1391:log
-  0.0405   0.0050             redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0458   0.0034             redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1396:log
-  0.0665   0.0260   cache_calling_closure start   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0711   0.0253   cache_calling_closure start   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:219:getExtraInfo
-                                             |common/Item.inc:625:value
+                                             |common/Item.inc:632:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:276:log
-  0.1364   0.0699              start db connect   usr/local/petabox/www/sf/details.php:68:getItem
+  0.1304   0.0593              start db connect   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:219:getExtraInfo
-                                             |common/Item.inc:625:value
+                                             |common/Item.inc:632:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
-                                             |Item.inc:594:connectReadOnly
+                                             |Item.inc:601:connectReadOnly
                                              |DB.inc:113:conn
                                              |DB.inc:962:log
-  0.1521   0.0157                        got db   usr/local/petabox/www/sf/details.php:68:getItem
+  0.1458   0.0154                        got db   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:219:getExtraInfo
-                                             |common/Item.inc:625:value
+                                             |common/Item.inc:632:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
-                                             |Item.inc:594:connectReadOnly
+                                             |Item.inc:601:connectReadOnly
                                              |DB.inc:113:conn
                                              |DB.inc:1005:log
-  0.1700   0.0179    cache_calling_closure done   usr/local/petabox/www/sf/details.php:68:getItem
+  0.1629   0.0171    cache_calling_closure done   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:219:getExtraInfo
-                                             |common/Item.inc:625:value
+                                             |common/Item.inc:632:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:313:log
-  0.2007   0.0307                        render   usr/local/petabox/www/sf/details.php:91:log
-  0.2049   0.0042           begin session_start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5641:head
+  0.2067   0.0438                        render   usr/local/petabox/www/sf/details.php:91:log
+  0.2114   0.0047           begin session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5649:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:184:session_start
                                              |Cookies.inc:61:log
-  0.2054   0.0005            done session_start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5641:head
+  0.2116   0.0003            done session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5649:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:184:session_start
                                              |Cookies.inc:67:log
-  0.2083   0.0029                  header drawn   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5644:log
-  0.2098   0.0015              call get_redis()   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.2131   0.0014                  header drawn   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5652:log
+  0.2168   0.0037              call get_redis()   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1292:log
-  0.2102   0.0004              redis_read start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.2173   0.0005              redis_read start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1391:log
-  0.2125   0.0023             redis_read finish   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.2198   0.0025             redis_read finish   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1396:log
-  0.2490   0.0365   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2557   0.0359   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:276:log
-  0.2492   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2561   0.0004      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:617:log
-  0.2527   0.0034       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2601   0.0040       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:648:log
-  0.2529   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2604   0.0004    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:313:log
-  0.2817   0.0288   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2837   0.0233   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:276:log
-  0.2823   0.0006      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2841   0.0004      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:617:log
-  0.2910   0.0088       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2912   0.0071       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:648:log
-  0.2912   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2916   0.0004    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:313:log
-  0.3172   0.0260                      bug dump   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6342:footer
+  0.3079   0.0162                      bug dump   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6353:footer
                                              |setup.php:134:footer
                                              |Nav.inc:1611:dump
                                              |Bug.inc:109:log
 -->
-<script>if(window.archive_analytics) { window.archive_analytics.values['server_ms']=317; window.archive_analytics.values['server_name']="www17.us.archive.org"; window.archive_analytics.values['service']='ao'; } </script>
+<script>if(window.archive_analytics) { window.archive_analytics.values['server_ms']=307; window.archive_analytics.values['server_name']="www16.us.archive.org"; window.archive_analytics.values['service']='ao'; } </script>
 </body></html>
 <!-- Bug ... 
- rendered on: www17.us.archive.org
+ rendered on: www16.us.archive.org
  seconds diff sec                       message   stack(file:line:function)
 =========================================================
   0.0000   0.0000                 petabox start   usr/local/petabox/www/sf/details.php:11:require_once
                                              |setup.inc:26:require_once
                                              |www/common/setup.php:277:log
-  0.0225   0.0225              call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0309   0.0309              call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1292:log
-  0.0355   0.0129              redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0423   0.0115              redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1391:log
-  0.0405   0.0050             redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0458   0.0034             redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:187:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:191:get_json_obj
                                              |Metadata.inc:1396:log
-  0.0665   0.0260   cache_calling_closure start   usr/local/petabox/www/sf/details.php:68:getItem
+  0.0711   0.0253   cache_calling_closure start   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:219:getExtraInfo
-                                             |common/Item.inc:625:value
+                                             |common/Item.inc:632:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:276:log
-  0.1364   0.0699              start db connect   usr/local/petabox/www/sf/details.php:68:getItem
+  0.1304   0.0593              start db connect   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:219:getExtraInfo
-                                             |common/Item.inc:625:value
+                                             |common/Item.inc:632:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
-                                             |Item.inc:594:connectReadOnly
+                                             |Item.inc:601:connectReadOnly
                                              |DB.inc:113:conn
                                              |DB.inc:962:log
-  0.1521   0.0157                        got db   usr/local/petabox/www/sf/details.php:68:getItem
+  0.1458   0.0154                        got db   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:219:getExtraInfo
-                                             |common/Item.inc:625:value
+                                             |common/Item.inc:632:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
-                                             |Item.inc:594:connectReadOnly
+                                             |Item.inc:601:connectReadOnly
                                              |DB.inc:113:conn
                                              |DB.inc:1005:log
-  0.1700   0.0179    cache_calling_closure done   usr/local/petabox/www/sf/details.php:68:getItem
+  0.1629   0.0171    cache_calling_closure done   usr/local/petabox/www/sf/details.php:68:getItem
                                              |details.php:219:getExtraInfo
-                                             |common/Item.inc:625:value
+                                             |common/Item.inc:632:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:313:log
-  0.2007   0.0307                        render   usr/local/petabox/www/sf/details.php:91:log
-  0.2049   0.0042           begin session_start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5641:head
+  0.2067   0.0438                        render   usr/local/petabox/www/sf/details.php:91:log
+  0.2114   0.0047           begin session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5649:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:184:session_start
                                              |Cookies.inc:61:log
-  0.2054   0.0005            done session_start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5641:head
+  0.2116   0.0003            done session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5649:head
                                              |Nav.inc:69:__construct
                                              |Nav.inc:184:session_start
                                              |Cookies.inc:67:log
-  0.2083   0.0029                  header drawn   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:5966:nav
-                                             |Details.inc:5644:log
-  0.2098   0.0015              call get_redis()   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.2131   0.0014                  header drawn   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:5977:nav
+                                             |Details.inc:5652:log
+  0.2168   0.0037              call get_redis()   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1292:log
-  0.2102   0.0004              redis_read start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.2173   0.0005              redis_read start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1391:log
-  0.2125   0.0023             redis_read finish   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4410:torrentChangingTaskPendingP
+  0.2198   0.0025             redis_read finish   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4418:torrentChangingTaskPendingP
                                              |ArchiveTorrent.inc:716:get
                                              |Metadata.inc:155:get_json
                                              |Metadata.inc:270:get_json_obj
                                              |Metadata.inc:1396:log
-  0.2490   0.0365   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2557   0.0359   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:276:log
-  0.2492   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2561   0.0004      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:617:log
-  0.2527   0.0034       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2601   0.0040       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:648:log
-  0.2529   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2604   0.0004    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:313:log
-  0.2817   0.0288   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2837   0.0233   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:276:log
-  0.2823   0.0006      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2841   0.0004      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:617:log
-  0.2910   0.0088       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2912   0.0071       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:305:{closure}
                                              |ArchiveTorrent.inc:648:log
-  0.2912   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6011:leftColumn
-                                             |Details.inc:4424:scrapeTrackers
+  0.2916   0.0004    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6022:leftColumn
+                                             |Details.inc:4432:scrapeTrackers
                                              |ArchiveTorrent.inc:652:value
                                              |Cache.inc:97:value
                                              |RedisCache.inc:313:log
-  0.3172   0.0260                      bug dump   usr/local/petabox/www/sf/details.php:92:render
-                                             |common/Details.inc:6342:footer
+  0.3079   0.0162                      bug dump   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6353:footer
                                              |setup.php:134:footer
                                              |Nav.inc:1611:dump
                                              |Bug.inc:109:log
-  0.3181   0.0009                      bug dump   usr/local/petabox/www/sf/details.php:135:dump
+  0.3087   0.0008                      bug dump   usr/local/petabox/www/sf/details.php:135:dump
                                              |common/Bug.inc:109:log
 
 -->
