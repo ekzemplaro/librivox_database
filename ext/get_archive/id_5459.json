@@ -1,12 +1,2513 @@
-{
-"server":"ia600303.us.archive.org",
-"dir":"/19/items/olivier_twist",
-"metadata":{"identifier":["olivier_twist"],"title":["Olivier Twist"],"creator":["Charles Dickens"],"mediatype":["texts"],"collection":["opensource"],"description":["Novel."],"date":["1900"],"year":["1900"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2010-04-18 23:25:03"],"addeddate":["2010-04-18 22:05:12"],"notes":["Scanned and uploaded by Branko Collin."],"rights":["The publication date is an estimate based on a Worldcat.org entry. Translator unknown. If the publication date is correct, this work is in the public domain in the US and the Netherlands (publication date + 70)."],"publisher":["Gebr. E. & M. Cohen"],"language":["Dutch"],"updatedate":["2010-04-18 23:42:05"],"updater":["Branko Collin"],"identifier-access":["http:\/\/www.archive.org\/details\/olivier_twist"],"identifier-ark":["ark:\/13960\/t1qf9ck33"],"imagecount":["216"],"ocr":["ABBYY FineReader 8.0"],"repub_state":["4"]},
-"files":
-{"\/olivier_twist.djvu":{"source":"derivative","format":"DjVu","original":"olivier_twist_djvu.xml","md5":"e4c606ac7920cdfb4da7fddf95030960","mtime":"1271639481","size":"10302675","crc32":"e1813dbf","sha1":"a1cc28a30c3a16c8ead0c061e7183d618a2b49e4"},"\/olivier_twist.gif":{"source":"original","format":"Animated GIF","mtime":"1271687233","size":"42267","md5":"8d623327337a4233526668620e770e92","crc32":"4814215b","sha1":"8bb440be5a78c2eca0fff6b98e7fbeb897b67012"},"\/olivier_twist.pdf":{"source":"derivative","format":"Text PDF","original":"olivier_twist_djvu.xml","md5":"54dd007e576b5ce277a3bc7909c8e6f4","mtime":"1271641429","size":"16623545","crc32":"603b1d2f","sha1":"abf52f4ead20824e38a2f0d393502d1f220cf552"},"\/olivier_twist_abbyy.gz":{"source":"derivative","format":"Abbyy GZ","original":"olivier_twist_jpg.zip","md5":"7975fc658d53e24e99b9eb5253c7dd4f","mtime":"1271638148","size":"14547488","crc32":"9314ee7d","sha1":"424adf8e9f79e503b3a5518beefce3e024b1b56b"},"\/olivier_twist_djvu.txt":{"source":"derivative","format":"DjVuTXT","original":"olivier_twist.djvu","md5":"694d4c4cad623341e3161e5af92d3b09","mtime":"1271641454","size":"988512","crc32":"baaf285f","sha1":"0048bbd67b131cecca014af49ef55481c460733b"},"\/olivier_twist_djvu.xml":{"source":"derivative","format":"Djvu XML","original":"olivier_twist_abbyy.gz","md5":"468a11b09ddb47f6d2c5cebcdae4e288","mtime":"1271638607","size":"8895881","crc32":"5740fabf","sha1":"1c8e395acb20e06244060ab78afed18b44dc19e7"},"\/olivier_twist_files.xml":{"source":"original","format":"Metadata","md5":"52ef1ae56b0d8a9ad74fcde7c4c98dc8"},"\/olivier_twist_jpg.zip":{"source":"original","format":"Single Page Processed JPEG ZIP","md5":"dbd1dbc60a2f3da77a5f83a5c5e412c1","mtime":"1271627898","size":"304382982","crc32":"342d1697","sha1":"e61df89f82167cf15f6f98717d9cb5835f5c882b"},"\/olivier_twist_meta.xml":{"source":"original","format":"Metadata","mtime":"1271641459","size":"1207","md5":"a6beeb8838b112c7e13e08dab5c80cfa","crc32":"98d6271e","sha1":"f2d3eb6eba796ce987855ddfcd97c4b010d28bfa"},"\/olivier_twist_scandata.xml":{"source":"derivative","format":"Scandata","original":"olivier_twist_djvu.xml","md5":"74c8ac8c90f2e5b73d696ec354db8dc8","mtime":"1271638625","size":"64899","crc32":"17a3a50a","sha1":"587b19816f87653de237cb3ce997574f23c957b6"}},
-"misc":
-{"css":"texts","image":"http:\/\/ia600303.us.archive.org\/19\/items\/olivier_twist\/olivier_twist.gif","header_image":"http:\/\/ia600408.us.archive.org\/18\/items\/opensource\/communitybooks.jpg","collection-title":"Community Texts"},
-"creativecommons":
-{"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
-"item":
-{"downloads":374,"week":0,"month":0}}
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Olivier Twist : Charles Dickens : Free Download &amp; Streaming : Internet Archive</title>
+      <script src="//archive.org/includes/jquery-1.6.1.js" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=63246" type="text/javascript"></script>
+    <script src="/includes/archive.js?v=63246" type="text/javascript"></script>
+    <script src="/jw/6.8/jwplayer.js" type="text/javascript"></script>
+    <script src="/includes/jquery.textfill.js" type="text/javascript"></script>
+    <script src="/includes/play.js?v=63246" type="text/javascript"></script>
+<meta name="description" content="LibriVox opname van Olivier Twist, van Charles Dickens. Gelezen door Marcel Coenders. Oliver Twist is de titel en het hoofdpersonage van één van de..."/>
+<meta property="og:title" content="Olivier Twist : Charles Dickens : Free Download &amp; Streaming : Internet Archive"/>
+<meta property="og:description" content="LibriVox opname van Olivier Twist, van Charles Dickens. Gelezen door Marcel Coenders. Oliver Twist is de titel en het hoofdpersonage van één van de..."/>
+<meta property="og:site_name" content="Internet Archive"/>
+<meta property="og:type" content="video.movie"/>
+<meta property="og:video" content="https://archive.org/download/olivier_twist_1106_librivox/oliviertwist_01_dickens_64kb.mp3"/>
+<meta property="og:video:width" content="300"/>
+<meta property="og:video:height" content="50"/>
+<meta property="video:duration" content="725"/>
+<meta property="og:video:type" content="application/x-shockwave-flash"/>
+<meta property="og:image" content="https://archive.org/services/get-item-image.php?identifier=olivier_twist_1106_librivox"/>
+<meta property="twitter:card" content="player"/>
+<meta property="twitter:site" content="@internetarchive"/>
+<meta property="twitter:account_id" content="18957805"/>
+<meta property="twitter:description" content="LibriVox opname van Olivier Twist, van Charles Dickens. Gelezen door Marcel Coenders. Oliver Twist is de titel en het hoofdpersonage van één van de..."/>
+<meta property="twitter:title" content="Olivier Twist : Charles Dickens : Free Download &amp; Streaming : Internet Archive"/>
+<meta property="twitter:url" content="https://archive.org/details/olivier_twist_1106_librivox"/>
+<meta property="twitter:player" content="https://archive.org/embed/olivier_twist_1106_librivox&playlist=1"/>
+<meta property="twitter:image" content="https://archive.org/logos/hires/internetarchive.jpg"/>
+<meta property="twitter:player:width" content="640"/>
+<meta property="twitter:player:height" content="480"/>
+<meta property="twitter:player:stream" content="https://archive.org/download/olivier_twist_1106_librivox/oliviertwist_01_dickens_64kb.mp3"/>
+<meta property="twitter:player:stream:content_type" content="video/mp4; codecs=&quot;avc1.42E01E1, mp4a.40.2&quot;"/>
+<link rel="canonical" href="https://archive.org/details/olivier_twist_1106_librivox">
+    <link href="//archive.org/includes/archive.css?v=63246" rel="stylesheet" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+  </head>
+<body class="Audio infotray-hidden">
+   
+<!--BEGIN HEADER 1-->
+<table id="nunuh1" cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive" src="/images/glogo2.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg" style="position:relative">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="https://archive.org/web/">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="https://archive.org/details/movies">Video</a>
+              </div>
+                            <div class="tab">
+                <a href="https://archive.org/details/texts">Texts</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="https://archive.org/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="https://archive.org/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="https://archive.org/about/">About</a>
+              </div>
+                            <div class="tab">
+                <a href="https://archive.org/account/login.php">Account</a>
+              </div>
+                            <div class="tab">
+                <a href="https://archive.org/details/tv"><img style="margin-right:2px;width:16px;height:15px" src="/images/tvnews.png"/>TVNews</a>
+              </div>
+                            <div class="tab">
+                <a href="https://openlibrary.org"><img style="margin-right:2px;width:16px;height:16px" src="/images/ol.png"/>OpenLibrary</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/details/librivoxaudio"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="//ia600501.us.archive.org/1/items/librivoxaudio/libvox.png?cnt=0"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td class="level2Header" style="width:100%;">
+        <a class="headerAt" href="https://archive.org/details/audio_bookspoetry">Audio Books & Poetry</a> | 
+<a href="https://archive.org/details/opensource_audio">Community Audio</a> | 
+<a href="https://archive.org/details/audio_tech">Computers & Technology</a> | 
+<a href="https://archive.org/details/GratefulDead">Grateful Dead</a> | 
+<a href="https://archive.org/details/etree">Live Music Archive</a> | 
+<a href="https://archive.org/details/audio_music">Music, Arts & Culture</a> | 
+<a href="https://archive.org/details/netlabels">Netlabels</a> | 
+<a href="https://archive.org/details/audio_news">News & Public Affairs</a> | 
+<a href="https://archive.org/details/audio_foreign">Non-English Audio</a> | 
+<a href="https://archive.org/details/audio_podcast">Podcasts</a> | 
+<a href="https://archive.org/details/radioprograms">Radio Programs</a> | 
+<a href="https://archive.org/details/audio_religion">Spirituality & Religion</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="https://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Video</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option  selected="selected" value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music, Arts & Culture</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/search.png"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="https://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+        <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="https://archive.org/account/login.php">login</a>
+          or
+          <a class="level3Header" href="https://archive.org/account/login.createaccount.php">
+            join us</a>)
+        </span>
+      </td>
+      
+  
+
+      <!--upload files button-->
+            <td class="level3Header level3HeaderUser2">
+        <a alt="Share your Files with the Internet Archive" title="Share your Files with the Internet Archive" href="https://archive.org/create/"><div class="buttonB">Upload</div></a>
+      </td>
+      
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px; position:relative;"> </div>
+
+<!--BEGIN PAGE-->
+<div class="breadcrumbs"><a href="/details/audio">Audio Archive</a> > <a href="/details/audio_bookspoetry">Audio Books & Poetry</a> > <a href="/details/librivoxaudio">The LibriVox Free Audiobook Collection</a> > <b>Olivier Twist</b></div>
+
+<!--HTML-->
+<div class="col-md-2 col-md-pull-8" id="col1">
+  <div class="box">
+    <h1>Listen to audio</h1>
+    <div style="text-align:center;">
+      <img title="item image" alt="item image" style="max-height:152px; max-width:165px; margin-bottom:0.5em;" src="https://ia600605.us.archive.org/20/items/olivier_twist_1106_librivox/olivier_twist_1104_thumb.jpg?cnt=0"/>      <br/>
+                </div>
+    <h2>Stream (<a href="/about/faqs.php#94">help<img title="[help]" alt="[help]" style="vertical-align:middle" id="help1" src="/images/question.gif"/></a>)</h2><p class="content"><a href="/download/olivier_twist_1106_librivox/olivier_twist_1106_librivox_128kb.m3u">128Kbps M3U</a><br/><a href="/download/olivier_twist_1106_librivox/olivier_twist_1106_librivox_64kb.m3u">64Kbps M3U</a><br/><a href="/stream/olivier_twist_1106_librivox">MP3 via M3U</a></p><h2>Play / Download (<a href="/about/faqs.php#Audio">help<img title="[help]" alt="[help]" style="vertical-align:middle" id="help2" src="/images/question.gif"/></a>)</h2>      <p id="dl" class="content">
+         <a href="/download/olivier_twist_1106_librivox/olivier_twist_1106_librivox_64kb_mp3.zip">64Kbps MP3 ZIP</a><br/>      </p>
+
+            <a href="/about/javascript-required.htm" onclick="$('#vorbis').toggle(); return false;">Ogg Vorbis</a>
+      <!-- continue to hold off on Torrent links, at Brewsters request  <a href="http://tracker.archive.org:8888/olivier_twist_1106_librivox/ogg">(Torrent)</a> -->
+      <div style="margin:10px; display:none; width:140px; overflow-x:hidden !important;"
+         id="vorbis">
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_01_dickens.ogg">01. WAAR, EN ONDER WELKE OMSTANDIGHEDEN OLIVIER TWIST GEBOREN WERD.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_02_dickens.ogg">02. OLIVIER'S WASDOM EN OPVOEDING.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_03_dickens.ogg">03. HOE OLIVIER TWIST OP HET PUNT STAAT, EENE BETREKKING TE KRIJGEN, DIE ECHTER NIET ZEER WINSTGEVEND ZOU GEWEEST ZIJN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_04_dickens.ogg">04. OLIVIER ERLANGT EENE ANDERE BESTEMMING EN TREEDT HET OPENBARE LEVEN IN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_05_dickens.ogg">05. OLIVIER TREEDT IN EEN NIEUWEN MAATSCHAPPELIJKE KRING, WOONT VOOR DE EERSTE MAAL IN ZIJN LEVEN EENE BEGRAFENIS BIJ, EN VAT EEN ONGUNSTIG DENKBEELD VAN ZIJN MEESTERS BEDRIJF OP.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_06_dickens.ogg">06. OLIVIER, GETERGD DOOR NOACH, VALT HEM AAN, EN DOET HEM VERBAASD STAAN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_07_dickens.ogg">07. OLIVIER BLIJFT WEERBARSTIG.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_08_dickens.ogg">08. OLIVIER GAAT NAAR LONDEN EN ONTMOET OP WEG EEN ZONDERLING SLAG VAN JONGEN HEER.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_09_dickens.ogg">09. BEVAT NADERE BIJZONDERHEDEN OMTRENT DEN MINZAMEN OUDEN HEER EN ZIJNE VEELBELOVENDE KWEEKELINGEN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_10_dickens.ogg">10. OLIVIER WORDT BETER BEKEND MET HET KARAKTER ZIJNER NIEUWE METGEZELLEN EN BETAALT ZIJNE ONDERVINDING DUUR, EEN ZEER KORT, MAAR ZEER BELANGRIJK HOOFDSTUK IN DEZER GESCHIEDENIS.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_11_dickens.ogg">11. BESCHRIJVING VAN DEN HEER FANG, DEN POLITIE-MAGISTRAAT, EN VAN DE WIJZE WAAROP HIJ HET RECHT HANDHAAFT.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_12_dickens.ogg">12. WAARIN OLIVIER BETER WORDT BEHANDELD DAN OOIT TE VOREN, EN DE VRIENDEN VAN DEN BEMINNELIJKEN OUDEN HEER WEER OP HET TONEEL VERSCHIJNEN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_13_dickens.ogg">13. DEN LEZER WORDEN EENIGE NIEUWE KENNISSEN VOORGESTELD.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_14_dickens.ogg">14. BEHELZENDE NADERE BERICHTEN OMTRENT OLIVIER'S VERBLIJF IN HET HUIS VAN BROWNLOW; BENEVENS EENE MERKWAARDIGE VOORSTELLING, DIE ZEKERE HEER GRIMWIG TEN AANZIEN VAN HEM UITSPRAK, TOEN MEN HEM MET EENE BOODSCHAP UITZOND.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_15_dickens.ogg">15. BUITENGEWONE GENEGENHEID VAN DEN VROOLIJKEN JOOD EN VAN JUFFROUW NANCY VOOR OLIVIER.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_16_dickens.ogg">16. WAT ER VAN OLIVIER TWIST WERD NADAT HIJ DOOR NANCY WAS OPGEVANGEN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_17_dickens.ogg">17. ER KOMT NOG GEENE GUNSTIGE VERANDERING IN OLIVIER'S LOT, EEN GROOT HEER KOMT IN LONDEN, OM OLIVIER'S GOEDEN NAAM TE BEKLADDEN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_18_dickens.ogg">18. HOE OLIVIER ZIJN TIJD IN HET VOORTREFFELIJK GEZELSCHAP ZIJNER ACHTBARE VRIENDEN DOORBRACHT.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_19_dickens.ogg">19. ER WORDT EEN GEWICHTIG PLAN BERAAMD EN TOT DE UITVOERING ER VAN BESLOTEN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_20_dickens.ogg">20. OLIVIER WORDT OVERGELEVERD AAN BILL SIKES.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_21_dickens.ogg">21. DE REIS.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_22_dickens.ogg">22. DE INBRAAK</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_23_dickens.ogg">23. AANGENAAM GESPREK TUSSCHEN DEN HEER BUMBLE EN EENE DAME, WAARUIT BLIJKT DAT ZELFS EEN BODE OP ZEKERE PUNTEN GEVOELIG IS.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_24_dickens.ogg">24. HANDELT OVER EEN ZEER ARM PERSOON, IS ECHTER KORT, EN IN DEZE GESCHIEDENIS VAN GROOT GEWICHT.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_25_dickens.ogg">25. WAARIN HET VERHAAL ONS TOT DEN HEER FAGIN EN ZIJN GEZELSCHAP TERUGVOERT.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_26_dickens.ogg">26. EEN GEHEIMZINNIG PERSOON TREEDT OP.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_27_dickens.ogg">27. MAAKT HET ONBELEEFDE VAN EEN VOORGAAND HOOFDSTUK, WAARIN EENE ZEKERE DAME DESERTEERDE, WEER GOED.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_28_dickens.ogg">28. VERDERE AVONTUREN VAN OLIVIER TWIST.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_29_dickens.ogg">29. BESCHRIJFT DE BEWONERS VAN HET HUIS, WAARIN OLIVIER ZIJN TOEVLUCHT NAM.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_30_dickens.ogg">30. WAT OLIVIER'S NIEUWE BEZOEKERS VAN HEM DACHTEN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_31_dickens.ogg">31. EEN NETELIGE POSITIE.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_32_dickens.ogg">32. HET GELUKKIGE LEVEN, DAT VOOR OLIVIER EEN AANVANG NEEMT.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_33_dickens.ogg">33. HET GELUK VAN OLIVIER EN ZJINE VRIENDINNEN WORDT EENSKLAPS VERSTOORD.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_34_dickens.ogg">34. BEVAT VOORLOOPIGE OPMERKINGEN OVER EEN JONKMAN, EN EEN NIEUW AVONTUUR VAN OLIVIER.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_35_dickens.ogg">35. BEVAT EEN ONVOLDOENDEN UITSLAG VAN OLIVIER'S AVONTUUR, EN EEN GEWICHTIG GESPREK TUSSCHEN HARRY MAYLIE EN ROSA.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_36_dickens.ogg">36. IS ZEER KORT, MAAR MEN DIENT HET TOCH TE LEZEN, ALS EEN VERVOLG OP HET VORIGE EN OMDAT HET EEN VOLGEND ZAL OPHELDEREN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_37_dickens.ogg">37. IN DIT HOOFDSTUK ZAL DE LEZER EEN NIET ONGEWOON VERSCHIL TUSSCHEN HET LEVEN VOOR EN NA HET HUWELIJK OPMERKEN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_38_dickens.ogg">38. WAT ER TUSSCHEN MIJNHEER EN JUFFROUW BUMBLE EN MIJNHEER MONKS VOORVIEL.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_39_dickens.ogg">39. ER TREDEN WEDER BEKENDE PERSONEN OP; ONDERHOUD TUSSCHEN FAGIN EN MONKS.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_40_dickens.ogg">40. EEN ZONDERLING ONDERHOUD, DAT EEN VERVOLG IS OP HET VORIGE HOOFDSTUK.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_41_dickens.ogg">41. BEVAT NIEUWE ONTDEKKINGEN, EN BEWIJST, DAT VERRASSINGEN, EVENALS ONGELUKKEN ZELDEN ALLEEN KOMEN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_42_dickens.ogg">42. EEN OUDE BEKENDE VAN OLIVIER GEEFT DUIDELIJKE BEWIJZEN VAN GENIE EN WORDT IN DE HOOFDSTAD EEN MAN VAN GEWICHT.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_43_dickens.ogg">43. HOE DE GESLEPEN DRAAIER IN HANDEN DER POLITIE VIEL.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_44_dickens.ogg">44. DE TIJD VOOR NANCY AANGEBROKEN OM DE BELOFTE AAN ROSA MAYLIE TE VERVULLEN, ZIJ SCHIET TE KORT.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_45_dickens.ogg">45. NOACH CLAYPOLE WORDT DOOR FAGIN TOT EENE GEHEIMZINNIGE ZENDING GEBRUIKT.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_46_dickens.ogg">46. DE SAMENKOMST.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_47_dickens.ogg">47. NOODLOTTIGE GEVOLGEN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_48_dickens.ogg">48. DE VLUCHT VAN SIKES.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_49_dickens.ogg">49. MONKS EN BROWNLOW ONTMOETEN ELKANDER EINDELIJK.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_50_dickens.ogg">50. VERVOLGING EN ONTKOMING.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_51_dickens.ogg">51. BEVAT DE ONTSLUIERING VAN MEER DAN EEN GEHEIM, EN EEN HUWELIJKSVOORSTEL ZONDER EEN WOORD OVER HUWELIJKSVOORWAARDEN OP SPELDGELD.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_52_dickens.ogg">52. DE LAATSE LEVENSNACHT VAN FAGIN.</a>
+        </div>
+                <div style="width:1000px;">
+          &#183;
+          <a href="/download/olivier_twist_1106_librivox/oliviertwist_53_dickens.ogg">53. SLOT.</a>
+        </div>
+              </div>
+      <br/>
+          <br/><b>All Files: </b><a href="https://ia600605.us.archive.org/20/items/olivier_twist_1106_librivox">HTTPS</a>&nbsp;<a href="/download/olivier_twist_1106_librivox/olivier_twist_1106_librivox_archive.torrent">Torrent</a> (2/0)<br/><div style="text-align:center; margin-top:10px;">
+  <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank"
+   ><img title="[CC0 1.0 Universal]" alt="[CC0 1.0 Universal]" style="height:31px" id="ccimage" src="https://creativecommons.org/images/projects/zero.png"/></a>
+</div>
+      </div><!--/.box-->
+    
+
+        
+  
+
+  <div class="box">
+    <h1>Resources</h1>
+    
+    
+    <a href="/bookmarks.php?add_bookmark=1&amp;mediatype=audio&amp;identifier=olivier_twist_1106_librivox&amp;title=Olivier+Twist">Bookmark</a>
+    <br/>
+                                                         
+        
+
+      </div><!--/.box-->
+</div><!--/#col1-->
+
+    <div id="midcol" style="margin-left:210px; min-width:650px;"><div class="box"><h1 style="font-size:125%;"><span style="float:right;">Charles Dickens</span><span class='x-archive-meta-title'>Olivier Twist</span> (June 10, 2011)</h1><div class="audio">
+  <div id="avplaycontainer">
+    <noscript>
+      <div style="padding:5px; font-size:80%; width:300px; background-color:white;
+                  margin-left:auto; margin-right:auto; border:1px dashed gray;">
+        Internet Archive's<!--'--> in-browser
+        audio        player requires JavaScript to be enabled.
+        It appears your browser does not have it turned on.
+        Please see your browser settings for this feature.
+      </div>
+    </noscript>
+
+    <div id="avplaydiv">
+
+            <div class="maudio">
+        <div id="jw6"> </div>
+      </div>
+            
+
+      <div id="avhelp">
+        <div id="avhelpPop" class="roundbox5"> something has gone horribly wrong 8-p </div>
+
+                <a href="/details/olivier_twist_1106_librivox" onclick="$.cookie('avpref2','flash',{path:'/'});"
+           alt="click to have player try flash, then html5 (when possible)" title="click to have player try flash, then html5 (when possible)">Prefer flash?</a>
+                <span style="font-weight:bold;">&#183;</span>
+
+        <a href="/about/javascript-required.htm" onclick="return Play.avhelp(this);">Embed</a>
+        <span style="font-weight:bold;">&#183;</span>
+
+        <a href="/about/javascript-required.htm" onclick="return Play.avhelp(this);">Questions/Feedback?</a>
+      </div><!--#avhelp-->
+    </div><!--#avplaydiv-->
+  </div><!--#avplaycontainer-->
+    <p class="content"><div id="descript"><a href="http://librivox.org/" rel="nofollow">LibriVox</a> opname van Olivier Twist, van Charles Dickens. Gelezen door Marcel Coenders.<br />
+<br />
+Oliver Twist is de titel en het hoofdpersonage van één van de bekendste romans van de Britse schrijver Charles Dickens, gepubliceerd in 1838. Het boek verscheen aanvankelijk in afzonderlijke delen, die van februari 1837 tot april 1839 werden gepubliceerd.<br />
+<br />
+Oliver Twist was vooral bedoeld als protest van Dickens tegen de wantoestanden van die tijd. Kinderarbeid in de zogenaamde Work Houses (armenhuizen) en de onderwereld waarin straatkinderen tot crimineel worden opgeleid spelen in het boek een grote rol. De hoofdpersoon, Oliver Twist, is een weesjongen door wiens ogen we het harde leven in Londen rond 1830 bekijken.<br />
+<br />
+Voor meer informatie, inclusief een link naar het M4B luisterboek, de on-line tekst, info over de lezers, RSS feeds, CD hoes en andere bestandsformaten: ga naar de <a href="http://librivox.org/olivier-twist-by-charles-dickens/" rel="nofollow">LibriVox catalogus pagina</a> voor deze opname.<br />
+<br />
+Voor meer gratis audioboeken (in meer dan 25 talen) of om zelf vrijwilliger te worden, ga naar <a href="http://librivox.org" rel="nofollow">LibriVox.org</a>.<br />
+For more free audio books (in more than 25 languages) or to become a volunteer reader, visit <a href="http://librivox.org" rel="nofollow">LibriVox.org</a>.
+</div><!--/#descript-->
+
+<br/><br/><br/><span class="key">This audio is part of the collection:</span> <span class="value"><a href="/details/librivoxaudio">The LibriVox Free Audiobook Collection</a></span><br/><span class="key">It also belongs to collections:</span> <span class="value">  <a href="/details/audio_bookspoetry">Audio Books & Poetry</a>; <a href="/details/opensource_audio">Community Audio</a></span><br/><br/><span class="key">Artist/Composer:</span> <span class="value"><a href="/search.php?query=creator%3A%22Charles+Dickens%22">Charles Dickens</a></span><br/><span class="key">Date:</span> <span class="value">2011-06-10</span><br/><span class="key">Source:</span> <span class="value">Librivox recording of a public-domain text</span><br/><span class="key">Keywords:</span> <span class="value"><a href="/search.php?query=subject%3A%22Librivox%22">Librivox</a>; <a href="/search.php?query=subject%3A%22Audioboek%22">Audioboek</a>; <a href="/search.php?query=subject%3A%22Dickens%22">Dickens</a>; <a href="/search.php?query=subject%3A%22Literatuur%22">Literatuur</a></span><br/></p><p class="content">
+  <span class="key">Creative Commons license:</span> <span class="value"><a rel="license" title="CC0 1.0 Universal" href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 Universal</a></span><br/></p>
+    <br style="clear:right;"/>
+<style type="text/css">table.fileFormats tr td, table.fileFormats tr th { text-align:left; }</style>
+<h2>Individual Files</h2>
+<div style="text-align:center; margin:0px auto 0px auto; padding:0.1em">
+    <table id="ff0" class="fileFormats  table table-striped table-condensed table-hover table-bordered">
+    <thead>
+      <tr>
+        <th class="ttlHeader">Whole Item</th>
+
+                <th>Format</th><th>Size</th>
+              </tr>
+    </thead>
+    <tbody>
+    
+        <tr class="odd">
+      <td class="ttl">
+        [generated 128Kbps MP3 ZIP]      </td>
+      <td class="ttl">
+        128Kbps MP3 ZIP      </td>
+      <td>
+        <a href="/compress/olivier_twist_1106_librivox/formats=128Kbps MP3">Stream</a>&nbsp;      </td>
+    </tr>
+        <tr class="eve">
+      <td class="ttl">
+        [generated 64Kbps MP3 ZIP]      </td>
+      <td class="ttl">
+        64Kbps MP3 ZIP      </td>
+      <td>
+        <a href="/compress/olivier_twist_1106_librivox/formats=64Kbps MP3">Stream</a>&nbsp;      </td>
+    </tr>
+      </tbody>
+  </table>  
+    <table id="ff2" class="fileFormats  table table-striped table-condensed table-hover table-bordered">
+    <thead>
+      <tr>
+        <th class="ttlHeader">Audio Files</th>
+
+                        <th>128Kbps MP3</th>
+                <th>Ogg Vorbis</th>
+                <th>PNG</th>
+                <th>64Kbps MP3</th>
+                      </tr>
+    </thead>
+    <tbody>
+    
+              
+    <tr class="odd">
+      <td class="ttl">
+        01. WAAR, EN ONDER WELKE OMSTANDIGHEDEN OLIVIER TWIST GEBOREN WERD.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_01_dickens.mp3">11.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_01_dickens.ogg">6.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_01_dickens.png">10.7 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_01_dickens_64kb.mp3">5.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        02. OLIVIER'S WASDOM EN OPVOEDING.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_02_dickens.mp3">38.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_02_dickens.ogg">22.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_02_dickens.png">10.0 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_02_dickens_64kb.mp3">19.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        03. HOE OLIVIER TWIST OP HET PUNT STAAT, EENE BETREKKING TE KRIJGEN, DIE ECHTER NIET ZEER WINSTGEVEND ZOU GEWEEST ZIJN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_03_dickens.mp3">30.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_03_dickens.ogg">17.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_03_dickens.png">9.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_03_dickens_64kb.mp3">15.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        04. OLIVIER ERLANGT EENE ANDERE BESTEMMING EN TREEDT HET OPENBARE LEVEN IN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_04_dickens.mp3">24.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_04_dickens.ogg">14.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_04_dickens.png">9.8 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_04_dickens_64kb.mp3">12.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        05. OLIVIER TREEDT IN EEN NIEUWEN MAATSCHAPPELIJKE KRING, WOONT VOOR DE EERSTE MAAL IN ZIJN LEVEN EENE BEGRAFENIS BIJ, EN VAT EEN ONGUNSTIG DENKBEELD VAN ZIJN MEESTERS BEDRIJF OP.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_05_dickens.mp3">38.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_05_dickens.ogg">22.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_05_dickens.png">9.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_05_dickens_64kb.mp3">19.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        06. OLIVIER, GETERGD DOOR NOACH, VALT HEM AAN, EN DOET HEM VERBAASD STAAN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_06_dickens.mp3">17.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_06_dickens.ogg">9.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_06_dickens.png">10.2 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_06_dickens_64kb.mp3">8.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        07. OLIVIER BLIJFT WEERBARSTIG.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_07_dickens.mp3">23.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_07_dickens.ogg">13.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_07_dickens.png">10.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_07_dickens_64kb.mp3">11.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        08. OLIVIER GAAT NAAR LONDEN EN ONTMOET OP WEG EEN ZONDERLING SLAG VAN JONGEN HEER.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_08_dickens.mp3">28.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_08_dickens.ogg">17.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_08_dickens.png">10.4 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_08_dickens_64kb.mp3">14.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        09. BEVAT NADERE BIJZONDERHEDEN OMTRENT DEN MINZAMEN OUDEN HEER EN ZIJNE VEELBELOVENDE KWEEKELINGEN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_09_dickens.mp3">22.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_09_dickens.ogg">13.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_09_dickens.png">10.1 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_09_dickens_64kb.mp3">11.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        10. OLIVIER WORDT BETER BEKEND MET HET KARAKTER ZIJNER NIEUWE METGEZELLEN EN BETAALT ZIJNE ONDERVINDING DUUR, EEN ZEER KORT, MAAR ZEER BELANGRIJK HOOFDSTUK IN DEZER GESCHIEDENIS.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_10_dickens.mp3">16.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_10_dickens.ogg">9.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_10_dickens.png">9.6 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_10_dickens_64kb.mp3">8.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        11. BESCHRIJVING VAN DEN HEER FANG, DEN POLITIE-MAGISTRAAT, EN VAN DE WIJZE WAAROP HIJ HET RECHT HANDHAAFT.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_11_dickens.mp3">25.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_11_dickens.ogg">14.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_11_dickens.png">9.7 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_11_dickens_64kb.mp3">12.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        12. WAARIN OLIVIER BETER WORDT BEHANDELD DAN OOIT TE VOREN, EN DE VRIENDEN VAN DEN BEMINNELIJKEN OUDEN HEER WEER OP HET TONEEL VERSCHIJNEN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_12_dickens.mp3">30.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_12_dickens.ogg">17.2 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_12_dickens.png">10.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_12_dickens_64kb.mp3">15.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        13. DEN LEZER WORDEN EENIGE NIEUWE KENNISSEN VOORGESTELD.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_13_dickens.mp3">27.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_13_dickens.ogg">15.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_13_dickens.png">9.7 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_13_dickens_64kb.mp3">13.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        14. BEHELZENDE NADERE BERICHTEN OMTRENT OLIVIER'S VERBLIJF IN HET HUIS VAN BROWNLOW; BENEVENS EENE MERKWAARDIGE VOORSTELLING, DIE ZEKERE HEER GRIMWIG TEN AANZIEN VAN HEM UITSPRAK, TOEN MEN HEM MET EENE BOODSCHAP UITZOND.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_14_dickens.mp3">39.2 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_14_dickens.ogg">22.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_14_dickens.png">9.6 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_14_dickens_64kb.mp3">19.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        15. BUITENGEWONE GENEGENHEID VAN DEN VROOLIJKEN JOOD EN VAN JUFFROUW NANCY VOOR OLIVIER.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_15_dickens.mp3">24.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_15_dickens.ogg">13.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_15_dickens.png">9.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_15_dickens_64kb.mp3">12.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        16. WAT ER VAN OLIVIER TWIST WERD NADAT HIJ DOOR NANCY WAS OPGEVANGEN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_16_dickens.mp3">34.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_16_dickens.ogg">20.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_16_dickens.png">9.5 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_16_dickens_64kb.mp3">17.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        17. ER KOMT NOG GEENE GUNSTIGE VERANDERING IN OLIVIER'S LOT, EEN GROOT HEER KOMT IN LONDEN, OM OLIVIER'S GOEDEN NAAM TE BEKLADDEN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_17_dickens.mp3">31.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_17_dickens.ogg">18.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_17_dickens.png">9.2 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_17_dickens_64kb.mp3">15.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        18. HOE OLIVIER ZIJN TIJD IN HET VOORTREFFELIJK GEZELSCHAP ZIJNER ACHTBARE VRIENDEN DOORBRACHT.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_18_dickens.mp3">27.2 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_18_dickens.ogg">16.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_18_dickens.png">9.6 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_18_dickens_64kb.mp3">13.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        19. ER WORDT EEN GEWICHTIG PLAN BERAAMD EN TOT DE UITVOERING ER VAN BESLOTEN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_19_dickens.mp3">33.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_19_dickens.ogg">19.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_19_dickens.png">9.7 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_19_dickens_64kb.mp3">16.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        20. OLIVIER WORDT OVERGELEVERD AAN BILL SIKES.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_20_dickens.mp3">27.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_20_dickens.ogg">15.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_20_dickens.png">9.8 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_20_dickens_64kb.mp3">13.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        21. DE REIS.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_21_dickens.mp3">19.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_21_dickens.ogg">11.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_21_dickens.png">10.0 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_21_dickens_64kb.mp3">9.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        22. DE INBRAAK      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_22_dickens.mp3">23.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_22_dickens.ogg">13.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_22_dickens.png">9.9 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_22_dickens_64kb.mp3">11.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        23. AANGENAAM GESPREK TUSSCHEN DEN HEER BUMBLE EN EENE DAME, WAARUIT BLIJKT DAT ZELFS EEN BODE OP ZEKERE PUNTEN GEVOELIG IS.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_23_dickens.mp3">28.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_23_dickens.ogg">16.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_23_dickens.png">9.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_23_dickens_64kb.mp3">14.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        24. HANDELT OVER EEN ZEER ARM PERSOON, IS ECHTER KORT, EN IN DEZE GESCHIEDENIS VAN GROOT GEWICHT.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_24_dickens.mp3">20.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_24_dickens.ogg">11.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_24_dickens.png">9.7 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_24_dickens_64kb.mp3">10.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        25. WAARIN HET VERHAAL ONS TOT DEN HEER FAGIN EN ZIJN GEZELSCHAP TERUGVOERT.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_25_dickens.mp3">21.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_25_dickens.ogg">12.2 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_25_dickens.png">10.0 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_25_dickens_64kb.mp3">10.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        26. EEN GEHEIMZINNIG PERSOON TREEDT OP.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_26_dickens.mp3">42.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_26_dickens.ogg">24.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_26_dickens.png">9.2 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_26_dickens_64kb.mp3">21.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        27. MAAKT HET ONBELEEFDE VAN EEN VOORGAAND HOOFDSTUK, WAARIN EENE ZEKERE DAME DESERTEERDE, WEER GOED.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_27_dickens.mp3">23.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_27_dickens.ogg">13.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_27_dickens.png">9.9 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_27_dickens_64kb.mp3">11.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        28. VERDERE AVONTUREN VAN OLIVIER TWIST.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_28_dickens.mp3">33.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_28_dickens.ogg">19.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_28_dickens.png">10.2 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_28_dickens_64kb.mp3">16.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        29. BESCHRIJFT DE BEWONERS VAN HET HUIS, WAARIN OLIVIER ZIJN TOEVLUCHT NAM.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_29_dickens.mp3">13.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_29_dickens.ogg">8.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_29_dickens.png">10.1 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_29_dickens_64kb.mp3">6.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        30. WAT OLIVIER'S NIEUWE BEZOEKERS VAN HEM DACHTEN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_30_dickens.mp3">23.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_30_dickens.ogg">13.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_30_dickens.png">9.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_30_dickens_64kb.mp3">11.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        31. EEN NETELIGE POSITIE.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_31_dickens.mp3">38.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_31_dickens.ogg">22.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_31_dickens.png">10.1 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_31_dickens_64kb.mp3">19.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        32. HET GELUKKIGE LEVEN, DAT VOOR OLIVIER EEN AANVANG NEEMT.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_32_dickens.mp3">30.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_32_dickens.ogg">17.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_32_dickens.png">9.6 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_32_dickens_64kb.mp3">15.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        33. HET GELUK VAN OLIVIER EN ZJINE VRIENDINNEN WORDT EENSKLAPS VERSTOORD.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_33_dickens.mp3">30.2 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_33_dickens.ogg">17.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_33_dickens.png">9.9 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_33_dickens_64kb.mp3">15.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        34. BEVAT VOORLOOPIGE OPMERKINGEN OVER EEN JONKMAN, EN EEN NIEUW AVONTUUR VAN OLIVIER.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_34_dickens.mp3">36.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_34_dickens.ogg">21.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_34_dickens.png">9.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_34_dickens_64kb.mp3">18.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        35. BEVAT EEN ONVOLDOENDEN UITSLAG VAN OLIVIER'S AVONTUUR, EN EEN GEWICHTIG GESPREK TUSSCHEN HARRY MAYLIE EN ROSA.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_35_dickens.mp3">27.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_35_dickens.ogg">15.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_35_dickens.png">10.1 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_35_dickens_64kb.mp3">13.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        36. IS ZEER KORT, MAAR MEN DIENT HET TOCH TE LEZEN, ALS EEN VERVOLG OP HET VORIGE EN OMDAT HET EEN VOLGEND ZAL OPHELDEREN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_36_dickens.mp3">9.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_36_dickens.ogg">5.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_36_dickens.png">10.8 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_36_dickens_64kb.mp3">4.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        37. IN DIT HOOFDSTUK ZAL DE LEZER EEN NIET ONGEWOON VERSCHIL TUSSCHEN HET LEVEN VOOR EN NA HET HUWELIJK OPMERKEN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_37_dickens.mp3">34.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_37_dickens.ogg">20.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_37_dickens.png">9.5 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_37_dickens_64kb.mp3">17.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        38. WAT ER TUSSCHEN MIJNHEER EN JUFFROUW BUMBLE EN MIJNHEER MONKS VOORVIEL.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_38_dickens.mp3">33.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_38_dickens.ogg">19.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_38_dickens.png">9.7 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_38_dickens_64kb.mp3">16.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        39. ER TREDEN WEDER BEKENDE PERSONEN OP; ONDERHOUD TUSSCHEN FAGIN EN MONKS.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_39_dickens.mp3">48.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_39_dickens.ogg">27.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_39_dickens.png">9.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_39_dickens_64kb.mp3">24.2 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        40. EEN ZONDERLING ONDERHOUD, DAT EEN VERVOLG IS OP HET VORIGE HOOFDSTUK.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_40_dickens.mp3">25.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_40_dickens.ogg">15.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_40_dickens.png">9.8 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_40_dickens_64kb.mp3">12.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        41. BEVAT NIEUWE ONTDEKKINGEN, EN BEWIJST, DAT VERRASSINGEN, EVENALS ONGELUKKEN ZELDEN ALLEEN KOMEN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_41_dickens.mp3">34.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_41_dickens.ogg">20.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_41_dickens.png">9.6 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_41_dickens_64kb.mp3">17.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        42. EEN OUDE BEKENDE VAN OLIVIER GEEFT DUIDELIJKE BEWIJZEN VAN GENIE EN WORDT IN DE HOOFDSTAD EEN MAN VAN GEWICHT.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_42_dickens.mp3">34.2 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_42_dickens.ogg">20.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_42_dickens.png">9.9 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_42_dickens_64kb.mp3">17.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        43. HOE DE GESLEPEN DRAAIER IN HANDEN DER POLITIE VIEL.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_43_dickens.mp3">35.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_43_dickens.ogg">20.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_43_dickens.png">9.9 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_43_dickens_64kb.mp3">17.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        44. DE TIJD VOOR NANCY AANGEBROKEN OM DE BELOFTE AAN ROSA MAYLIE TE VERVULLEN, ZIJ SCHIET TE KORT.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_44_dickens.mp3">23.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_44_dickens.ogg">14.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_44_dickens.png">9.9 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_44_dickens_64kb.mp3">12.0 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        45. NOACH CLAYPOLE WORDT DOOR FAGIN TOT EENE GEHEIMZINNIGE ZENDING GEBRUIKT.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_45_dickens.mp3">11.2 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_45_dickens.ogg">6.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_45_dickens.png">10.5 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_45_dickens_64kb.mp3">5.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        46. DE SAMENKOMST.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_46_dickens.mp3">34.8 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_46_dickens.ogg">20.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_46_dickens.png">10.0 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_46_dickens_64kb.mp3">17.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        47. NOODLOTTIGE GEVOLGEN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_47_dickens.mp3">24.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_47_dickens.ogg">14.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_47_dickens.png">9.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_47_dickens_64kb.mp3">12.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        48. DE VLUCHT VAN SIKES.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_48_dickens.mp3">33.2 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_48_dickens.ogg">19.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_48_dickens.png">9.9 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_48_dickens_64kb.mp3">16.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        49. MONKS EN BROWNLOW ONTMOETEN ELKANDER EINDELIJK.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_49_dickens.mp3">37.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_49_dickens.ogg">21.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_49_dickens.png">10.4 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_49_dickens_64kb.mp3">18.6 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        50. VERVOLGING EN ONTKOMING.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_50_dickens.mp3">40.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_50_dickens.ogg">24.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_50_dickens.png">9.1 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_50_dickens_64kb.mp3">20.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        51. BEVAT DE ONTSLUIERING VAN MEER DAN EEN GEHEIM, EN EEN HUWELIJKSVOORSTEL ZONDER EEN WOORD OVER HUWELIJKSVOORWAARDEN OP SPELDGELD.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_51_dickens.mp3">46.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_51_dickens.ogg">27.2 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_51_dickens.png">9.5 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_51_dickens_64kb.mp3">23.4 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        52. DE LAATSE LEVENSNACHT VAN FAGIN.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_52_dickens.mp3">35.1 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_52_dickens.ogg">20.3 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_52_dickens.png">10.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_52_dickens_64kb.mp3">17.5 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+              
+    <tr class="odd">
+      <td class="ttl">
+        53. SLOT.      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_53_dickens.mp3">15.7 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_53_dickens.ogg">9.2 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_53_dickens.png">10.5 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/oliviertwist_53_dickens_64kb.mp3">7.9 MB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+          </tbody>
+  </table>  
+    <table id="ff4" class="fileFormats  table table-striped table-condensed table-hover table-bordered">
+    <thead>
+      <tr>
+        <th class="ttlHeader">Image Files</th>
+
+                        <th>JPEG</th>
+                <th>JPEG Thumb</th>
+                      </tr>
+    </thead>
+    <tbody>
+    
+              
+    <tr class="odd">
+      <td class="ttl">
+        olivier_twist_1104.jpg      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/olivier_twist_1104.jpg">109.0 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/olivier_twist_1104_thumb.jpg">7.1 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+          </tbody>
+  </table>  
+    <table id="ff5" class="fileFormats  table table-striped table-condensed table-hover table-bordered">
+    <thead>
+      <tr>
+        <th class="ttlHeader">Information</th>
+
+                <th>Format</th><th>Size</th>
+              </tr>
+    </thead>
+    <tbody>
+    
+        <tr class="odd">
+      <td class="ttl">
+        olivier_twist_1106_librivox_files.xml      </td>
+      <td class="ttl">
+        Metadata      </td>
+      <td>
+        <a href="/download/olivier_twist_1106_librivox/olivier_twist_1106_librivox_files.xml">[file]</a>&nbsp;      </td>
+    </tr>
+        <tr class="eve">
+      <td class="ttl">
+        olivier_twist_1106_librivox_files_all.torrent      </td>
+      <td class="ttl">
+        ItemBitTorrent      </td>
+      <td>
+        <a href="/download/olivier_twist_1106_librivox/olivier_twist_1106_librivox_files_all.torrent">40.6 KB</a>&nbsp;      </td>
+    </tr>
+        <tr class="odd">
+      <td class="ttl">
+        olivier_twist_1106_librivox_meta.xml      </td>
+      <td class="ttl">
+        Metadata      </td>
+      <td>
+        <a href="/download/olivier_twist_1106_librivox/olivier_twist_1106_librivox_meta.xml">2.5 KB</a>&nbsp;      </td>
+    </tr>
+      </tbody>
+  </table>  
+    <table id="ff6" class="fileFormats  table table-striped table-condensed table-hover table-bordered">
+    <thead>
+      <tr>
+        <th class="ttlHeader">Other Files</th>
+
+                        <th>Unknown</th>
+                <th>Archive BitTorrent</th>
+                      </tr>
+    </thead>
+    <tbody>
+    
+              
+    <tr class="odd">
+      <td class="ttl">
+        olivier_twist_1106_librivox.json      </td>
+                <td>
+                             <a href="/download/olivier_twist_1106_librivox/olivier_twist_1106_librivox.json">57.7 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+            <td>
+               </td>
+          </tr>
+              
+    <tr class="eve">
+      <td class="ttl">
+        olivier_twist_1106_librivox_archive.torrent      </td>
+                <td>
+               </td>
+            <td>
+                             <a href="/download/olivier_twist_1106_librivox/olivier_twist_1106_librivox_archive.torrent">86.3 KB</a>&nbsp;        
+          
+        <br/>
+                    </td>
+          </tr>
+          </tbody>
+  </table>  
+  </div>
+<script type="text/javascript">
+    // IE is lame when it comes to tables being 100% wide...
+    if (navigator.userAgent.indexOf('IE')>=0)
+    {
+      for (var i=0; i<10; i++)
+      {
+        // pick a "known safe" max width (search for "min-width" further above)
+        var obj = document.getElementById('ff'+i);
+        if (obj)
+          obj.style.width = '640px';
+      }
+    }
+</script>
+  
+<h2 style="font-size:125%;">
+  <span class="rightmost" style="font-weight:bold;">
+        <a href="/write-review.php?identifier=olivier_twist_1106_librivox"
+       >Be the first to write a review</a>
+        <br/>
+    <span style="font-size:80%">
+      Downloaded 6,966 times
+    </span>
+        </span>
+    Reviews<br/>
+        <span style="font-weight:bold; font-size:80%">
+            <!-- no reviews, dl>0; newline so colored bg extends to (floated) dl count-->
+    <br/>
+          </span>
+  </h2>
+
+  
+</div><!--.audio-->
+
+</div><!--.box-->
+<script type="text/javascript">    
+    
+Play('jw6', 
+     [{"title":"1. 01. WAAR, EN ONDER WELKE OMSTANDIGHEDEN OLIVIER TWIST GEBOREN WERD.","duration":725,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_01_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_01_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"2. 02. OLIVIER'S WASDOM EN OPVOEDING.","duration":2549,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_02_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_02_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"3. 03. HOE OLIVIER TWIST OP HET PUNT STAAT, EENE BETREKKING TE KRIJGEN, DIE ECHTER NIET ZEER WINSTGEVEND ZOU GEWEEST ZIJN.","duration":2013,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_03_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_03_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"4. 04. OLIVIER ERLANGT EENE ANDERE BESTEMMING EN TREEDT HET OPENBARE LEVEN IN.","duration":1573,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_04_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_04_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"5. 05. OLIVIER TREEDT IN EEN NIEUWEN MAATSCHAPPELIJKE KRING, WOONT VOOR DE EERSTE MAAL IN ZIJN LEVEN EENE BEGRAFENIS BIJ, EN VAT EEN ONGUNSTIG DENKBEELD VAN ZIJN MEESTERS BEDRIJF OP.","duration":2509,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_05_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_05_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"6. 06. OLIVIER, GETERGD DOOR NOACH, VALT HEM AAN, EN DOET HEM VERBAASD STAAN.","duration":1112,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_06_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_06_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"7. 07. OLIVIER BLIJFT WEERBARSTIG.","duration":1514,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_07_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_07_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"8. 08. OLIVIER GAAT NAAR LONDEN EN ONTMOET OP WEG EEN ZONDERLING SLAG VAN JONGEN HEER.","duration":1896,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_08_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_08_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"9. 09. BEVAT NADERE BIJZONDERHEDEN OMTRENT DEN MINZAMEN OUDEN HEER EN ZIJNE VEELBELOVENDE KWEEKELINGEN.","duration":1480,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_09_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_09_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"10. 10. OLIVIER WORDT BETER BEKEND MET HET KARAKTER ZIJNER NIEUWE METGEZELLEN EN BETAALT ZIJNE ONDERVINDING DUUR, EEN ZEER KORT, MAAR ZEER BELANGRIJK HOOFDSTUK IN DEZER GESCHIEDENIS.","duration":1109,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_10_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_10_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"11. 11. BESCHRIJVING VAN DEN HEER FANG, DEN POLITIE-MAGISTRAAT, EN VAN DE WIJZE WAAROP HIJ HET RECHT HANDHAAFT.","duration":1678,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_11_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_11_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"12. 12. WAARIN OLIVIER BETER WORDT BEHANDELD DAN OOIT TE VOREN, EN DE VRIENDEN VAN DEN BEMINNELIJKEN OUDEN HEER WEER OP HET TONEEL VERSCHIJNEN.","duration":1965,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_12_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_12_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"13. 13. DEN LEZER WORDEN EENIGE NIEUWE KENNISSEN VOORGESTELD.","duration":1775,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_13_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_13_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"14. 14. BEHELZENDE NADERE BERICHTEN OMTRENT OLIVIER'S VERBLIJF IN HET HUIS VAN BROWNLOW; BENEVENS EENE MERKWAARDIGE VOORSTELLING, DIE ZEKERE HEER GRIMWIG TEN AANZIEN VAN HEM UITSPRAK, TOEN MEN HEM MET EENE BOODSCHAP UITZOND.","duration":2571,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_14_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_14_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"15. 15. BUITENGEWONE GENEGENHEID VAN DEN VROOLIJKEN JOOD EN VAN JUFFROUW NANCY VOOR OLIVIER.","duration":1574,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_15_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_15_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"16. 16. WAT ER VAN OLIVIER TWIST WERD NADAT HIJ DOOR NANCY WAS OPGEVANGEN.","duration":2275,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_16_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_16_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"17. 17. ER KOMT NOG GEENE GUNSTIGE VERANDERING IN OLIVIER'S LOT, EEN GROOT HEER KOMT IN LONDEN, OM OLIVIER'S GOEDEN NAAM TE BEKLADDEN.","duration":2057,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_17_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_17_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"18. 18. HOE OLIVIER ZIJN TIJD IN HET VOORTREFFELIJK GEZELSCHAP ZIJNER ACHTBARE VRIENDEN DOORBRACHT.","duration":1782,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_18_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_18_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"19. 19. ER WORDT EEN GEWICHTIG PLAN BERAAMD EN TOT DE UITVOERING ER VAN BESLOTEN.","duration":2171,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_19_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_19_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"20. 20. OLIVIER WORDT OVERGELEVERD AAN BILL SIKES.","duration":1795,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_20_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_20_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"21. 21. DE REIS.","duration":1299,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_21_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_21_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"22. 22. DE INBRAAK","duration":1529,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_22_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_22_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"23. 23. AANGENAAM GESPREK TUSSCHEN DEN HEER BUMBLE EN EENE DAME, WAARUIT BLIJKT DAT ZELFS EEN BODE OP ZEKERE PUNTEN GEVOELIG IS.","duration":1835,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_23_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_23_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"24. 24. HANDELT OVER EEN ZEER ARM PERSOON, IS ECHTER KORT, EN IN DEZE GESCHIEDENIS VAN GROOT GEWICHT.","duration":1319,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_24_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_24_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"25. 25. WAARIN HET VERHAAL ONS TOT DEN HEER FAGIN EN ZIJN GEZELSCHAP TERUGVOERT.","duration":1378,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_25_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_25_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"26. 26. EEN GEHEIMZINNIG PERSOON TREEDT OP.","duration":2789,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_26_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_26_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"27. 27. MAAKT HET ONBELEEFDE VAN EEN VOORGAAND HOOFDSTUK, WAARIN EENE ZEKERE DAME DESERTEERDE, WEER GOED.","duration":1539,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_27_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_27_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"28. 28. VERDERE AVONTUREN VAN OLIVIER TWIST.","duration":2210,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_28_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_28_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"29. 29. BESCHRIJFT DE BEWONERS VAN HET HUIS, WAARIN OLIVIER ZIJN TOEVLUCHT NAM.","duration":901,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_29_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_29_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"30. 30. WAT OLIVIER'S NIEUWE BEZOEKERS VAN HEM DACHTEN.","duration":1506,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_30_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_30_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"31. 31. EEN NETELIGE POSITIE.","duration":2535,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_31_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_31_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"32. 32. HET GELUKKIGE LEVEN, DAT VOOR OLIVIER EEN AANVANG NEEMT.","duration":2004,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_32_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_32_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"33. 33. HET GELUK VAN OLIVIER EN ZJINE VRIENDINNEN WORDT EENSKLAPS VERSTOORD.","duration":1979,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_33_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_33_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"34. 34. BEVAT VOORLOOPIGE OPMERKINGEN OVER EEN JONKMAN, EN EEN NIEUW AVONTUUR VAN OLIVIER.","duration":2411,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_34_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_34_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"35. 35. BEVAT EEN ONVOLDOENDEN UITSLAG VAN OLIVIER'S AVONTUUR, EN EEN GEWICHTIG GESPREK TUSSCHEN HARRY MAYLIE EN ROSA.","duration":1769,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_35_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_35_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"36. 36. IS ZEER KORT, MAAR MEN DIENT HET TOCH TE LEZEN, ALS EEN VERVOLG OP HET VORIGE EN OMDAT HET EEN VOLGEND ZAL OPHELDEREN.","duration":595,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_36_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_36_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"37. 37. IN DIT HOOFDSTUK ZAL DE LEZER EEN NIET ONGEWOON VERSCHIL TUSSCHEN HET LEVEN VOOR EN NA HET HUWELIJK OPMERKEN.","duration":2277,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_37_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_37_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"38. 38. WAT ER TUSSCHEN MIJNHEER EN JUFFROUW BUMBLE EN MIJNHEER MONKS VOORVIEL.","duration":2218,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_38_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_38_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"39. 39. ER TREDEN WEDER BEKENDE PERSONEN OP; ONDERHOUD TUSSCHEN FAGIN EN MONKS.","duration":3176,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_39_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_39_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"40. 40. EEN ZONDERLING ONDERHOUD, DAT EEN VERVOLG IS OP HET VORIGE HOOFDSTUK.","duration":1690,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_40_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_40_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"41. 41. BEVAT NIEUWE ONTDEKKINGEN, EN BEWIJST, DAT VERRASSINGEN, EVENALS ONGELUKKEN ZELDEN ALLEEN KOMEN.","duration":2225,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_41_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_41_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"42. 42. EEN OUDE BEKENDE VAN OLIVIER GEEFT DUIDELIJKE BEWIJZEN VAN GENIE EN WORDT IN DE HOOFDSTAD EEN MAN VAN GEWICHT.","duration":2240,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_42_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_42_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"43. 43. HOE DE GESLEPEN DRAAIER IN HANDEN DER POLITIE VIEL.","duration":2329,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_43_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_43_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"44. 44. DE TIJD VOOR NANCY AANGEBROKEN OM DE BELOFTE AAN ROSA MAYLIE TE VERVULLEN, ZIJ SCHIET TE KORT.","duration":1568,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_44_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_44_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"45. 45. NOACH CLAYPOLE WORDT DOOR FAGIN TOT EENE GEHEIMZINNIGE ZENDING GEBRUIKT.","duration":733,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_45_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_45_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"46. 46. DE SAMENKOMST.","duration":2282,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_46_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_46_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"47. 47. NOODLOTTIGE GEVOLGEN.","duration":1617,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_47_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_47_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"48. 48. DE VLUCHT VAN SIKES.","duration":2173,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_48_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_48_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"49. 49. MONKS EN BROWNLOW ONTMOETEN ELKANDER EINDELIJK.","duration":2441,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_49_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_49_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"50. 50. VERVOLGING EN ONTKOMING.","duration":2656,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_50_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_50_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"51. 51. BEVAT DE ONTSLUIERING VAN MEER DAN EEN GEHEIM, EN EEN HUWELIJKSVOORSTEL ZONDER EEN WOORD OVER HUWELIJKSVOORWAARDEN OP SPELDGELD.","duration":3072,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_51_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_51_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"52. 52. DE LAATSE LEVENSNACHT VAN FAGIN.","duration":2298,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_52_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_52_dickens.ogg","type":"ogg","height":"0","width":"0"}]},
+{"title":"53. 53. SLOT.","duration":1031,"sources":[{"file":"/download/olivier_twist_1106_librivox/oliviertwist_53_dickens_64kb.mp3","type":"mp3","height":"0","width":"0"},{"file":"/download/olivier_twist_1106_librivox/oliviertwist_53_dickens.ogg","type":"ogg","height":"0","width":"0"}]}], 
+     {"start":0,"embed":null,"so":false,"autoplay":false,"width":0,"height":0,"audio":true,"responsive":false,"expand4wideVideos":true,"flash":false,"startPlaylistIdx":0,"identifier":"olivier_twist_1106_librivox","collection":"librivoxaudio","hide_list":false});
+
+
+</script>
+    
+
+<div id="iafootdiv"><hr style="clear:both;"/></div>
+<p id="iafoot">
+  <a href="/about/terms.php">Terms of Use (10 Mar 2001)</a>
+</p>
+
+<!-- Timing ...
+ rendered on: www23.us.archive.org
+ seconds diff sec                       message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000                 petabox start   usr/local/petabox/www/sf/details.php:11:require_once
+                                             |setup.inc:26:require_once
+                                             |www/common/setup.php:277:log
+  0.0240   0.0240              call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1292:log
+  0.0351   0.0111              redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1391:log
+  0.0371   0.0020             redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1396:log
+  0.0380   0.0009                  locate start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2006:locateUDP
+                                             |Locator.inc:67:log
+  0.0403   0.0023                 locate finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2006:locateUDP
+                                             |Locator.inc:195:log
+  0.0427   0.0024            meta_xml_get start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2132:log
+  0.1592   0.1164           meta_xml_get finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2146:log
+  0.1594   0.0003           meta_xml_read start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2182:xml_to_json
+                                             |Metadata.inc:3223:log
+  0.2124   0.0530          meta_xml_read finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2182:xml_to_json
+                                             |Metadata.inc:3506:log
+  0.2491   0.0366             redis_write start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2323:log
+  0.2506   0.0015            redis_write finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2329:log
+  0.2804   0.0298   cache_calling_closure start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:219:getExtraInfo
+                                             |common/Item.inc:641:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:276:log
+  0.3352   0.0548              start db connect   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:219:getExtraInfo
+                                             |common/Item.inc:641:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |Item.inc:610:connectReadOnly
+                                             |DB.inc:113:conn
+                                             |DB.inc:962:log
+  0.3485   0.0133                        got db   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:219:getExtraInfo
+                                             |common/Item.inc:641:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |Item.inc:610:connectReadOnly
+                                             |DB.inc:113:conn
+                                             |DB.inc:1005:log
+  0.3696   0.0211    cache_calling_closure done   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:219:getExtraInfo
+                                             |common/Item.inc:641:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:313:log
+  0.4132   0.0436                        render   usr/local/petabox/www/sf/details.php:91:log
+  0.4160   0.0028           begin session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6104:nav
+                                             |Details.inc:5776:head
+                                             |Nav.inc:69:__construct
+                                             |Nav.inc:184:session_start
+                                             |Cookies.inc:61:log
+  0.4163   0.0003            done session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6104:nav
+                                             |Details.inc:5776:head
+                                             |Nav.inc:69:__construct
+                                             |Nav.inc:184:session_start
+                                             |Cookies.inc:67:log
+  0.4174   0.0012                  header drawn   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6104:nav
+                                             |Details.inc:5779:log
+  0.4214   0.0039              call get_redis()   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4458:torrentChangingTaskPendingP
+                                             |ArchiveTorrent.inc:716:get
+                                             |Metadata.inc:155:get_json
+                                             |Metadata.inc:270:get_json_obj
+                                             |Metadata.inc:1292:log
+  0.4217   0.0004              redis_read start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4458:torrentChangingTaskPendingP
+                                             |ArchiveTorrent.inc:716:get
+                                             |Metadata.inc:155:get_json
+                                             |Metadata.inc:270:get_json_obj
+                                             |Metadata.inc:1391:log
+  0.4267   0.0050             redis_read finish   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4458:torrentChangingTaskPendingP
+                                             |ArchiveTorrent.inc:716:get
+                                             |Metadata.inc:155:get_json
+                                             |Metadata.inc:270:get_json_obj
+                                             |Metadata.inc:1396:log
+  0.4626   0.0358   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:276:log
+  0.4628   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |ArchiveTorrent.inc:617:log
+  0.9650   0.5022       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |ArchiveTorrent.inc:648:log
+  0.9652   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:313:log
+  0.9943   0.0291   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:276:log
+  0.9945   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |ArchiveTorrent.inc:617:log
+  1.0025   0.0080       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |ArchiveTorrent.inc:648:log
+  1.0027   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:313:log
+  1.0414   0.0386                      bug dump   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6486:footer
+                                             |setup.php:134:footer
+                                             |Nav.inc:1920:dump
+                                             |Bug.inc:109:log
+-->
+<script type="text/javascript">
+if(window.archive_analytics) {
+  var v=window.archive_analytics.values;
+  v['service']='ao';
+  v['server_ms']=1041;
+  v['server_name']="www23.us.archive.org";
+      }
+</script>
+    </body></html>
+<!-- Bug ... 
+ rendered on: www23.us.archive.org
+ seconds diff sec                       message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000                 petabox start   usr/local/petabox/www/sf/details.php:11:require_once
+                                             |setup.inc:26:require_once
+                                             |www/common/setup.php:277:log
+  0.0240   0.0240              call get_redis()   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1292:log
+  0.0351   0.0111              redis_read start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1391:log
+  0.0371   0.0020             redis_read finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1396:log
+  0.0380   0.0009                  locate start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2006:locateUDP
+                                             |Locator.inc:67:log
+  0.0403   0.0023                 locate finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2006:locateUDP
+                                             |Locator.inc:195:log
+  0.0427   0.0024            meta_xml_get start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2132:log
+  0.1592   0.1164           meta_xml_get finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2146:log
+  0.1594   0.0003           meta_xml_read start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2182:xml_to_json
+                                             |Metadata.inc:3223:log
+  0.2124   0.0530          meta_xml_read finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2182:xml_to_json
+                                             |Metadata.inc:3506:log
+  0.2491   0.0366             redis_write start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2323:log
+  0.2506   0.0015            redis_write finish   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:187:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:191:get_json_obj
+                                             |Metadata.inc:1557:fill_cache
+                                             |Metadata.inc:2329:log
+  0.2804   0.0298   cache_calling_closure start   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:219:getExtraInfo
+                                             |common/Item.inc:641:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:276:log
+  0.3352   0.0548              start db connect   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:219:getExtraInfo
+                                             |common/Item.inc:641:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |Item.inc:610:connectReadOnly
+                                             |DB.inc:113:conn
+                                             |DB.inc:962:log
+  0.3485   0.0133                        got db   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:219:getExtraInfo
+                                             |common/Item.inc:641:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |Item.inc:610:connectReadOnly
+                                             |DB.inc:113:conn
+                                             |DB.inc:1005:log
+  0.3696   0.0211    cache_calling_closure done   usr/local/petabox/www/sf/details.php:68:getItem
+                                             |details.php:219:getExtraInfo
+                                             |common/Item.inc:641:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:313:log
+  0.4132   0.0436                        render   usr/local/petabox/www/sf/details.php:91:log
+  0.4160   0.0028           begin session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6104:nav
+                                             |Details.inc:5776:head
+                                             |Nav.inc:69:__construct
+                                             |Nav.inc:184:session_start
+                                             |Cookies.inc:61:log
+  0.4163   0.0003            done session_start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6104:nav
+                                             |Details.inc:5776:head
+                                             |Nav.inc:69:__construct
+                                             |Nav.inc:184:session_start
+                                             |Cookies.inc:67:log
+  0.4174   0.0012                  header drawn   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6104:nav
+                                             |Details.inc:5779:log
+  0.4214   0.0039              call get_redis()   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4458:torrentChangingTaskPendingP
+                                             |ArchiveTorrent.inc:716:get
+                                             |Metadata.inc:155:get_json
+                                             |Metadata.inc:270:get_json_obj
+                                             |Metadata.inc:1292:log
+  0.4217   0.0004              redis_read start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4458:torrentChangingTaskPendingP
+                                             |ArchiveTorrent.inc:716:get
+                                             |Metadata.inc:155:get_json
+                                             |Metadata.inc:270:get_json_obj
+                                             |Metadata.inc:1391:log
+  0.4267   0.0050             redis_read finish   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4458:torrentChangingTaskPendingP
+                                             |ArchiveTorrent.inc:716:get
+                                             |Metadata.inc:155:get_json
+                                             |Metadata.inc:270:get_json_obj
+                                             |Metadata.inc:1396:log
+  0.4626   0.0358   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:276:log
+  0.4628   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |ArchiveTorrent.inc:617:log
+  0.9650   0.5022       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |ArchiveTorrent.inc:648:log
+  0.9652   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:313:log
+  0.9943   0.0291   cache_calling_closure start   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:276:log
+  0.9945   0.0002      bittorrent_tracker START   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |ArchiveTorrent.inc:617:log
+  1.0025   0.0080       bittorrent_tracker STOP   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:305:{closure}
+                                             |ArchiveTorrent.inc:648:log
+  1.0027   0.0002    cache_calling_closure done   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6149:leftColumn
+                                             |Details.inc:4472:scrapeTrackers
+                                             |ArchiveTorrent.inc:652:value
+                                             |Cache.inc:97:value
+                                             |RedisCache.inc:313:log
+  1.0414   0.0386                      bug dump   usr/local/petabox/www/sf/details.php:92:render
+                                             |common/Details.inc:6486:footer
+                                             |setup.php:134:footer
+                                             |Nav.inc:1920:dump
+                                             |Bug.inc:109:log
+  1.0422   0.0008                      bug dump   usr/local/petabox/www/sf/details.php:135:dump
+                                             |common/Bug.inc:109:log
+
+-->
