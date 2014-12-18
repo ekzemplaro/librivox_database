@@ -1,5 +1,5 @@
 {
-"server":"ia600707.us.archive.org",
+"server":"ia700707.us.archive.org",
 "dir":"/3/items/aunt_jos_scrapbag_1005_librivox",
 "metadata":{"identifier":["aunt_jos_scrapbag_1005_librivox"],"title":["Aunt Jo's Scrapbag"],"creator":["Louisa May Alcott"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> recording of <i>Aunt Jo's Scrapbag<\/i>, by Louisa May Alcott.\n\nA collection of short stories by Louisa May Alcott that were written with the intent to entertain the whole family and to fill children's heads with wonder and delight.\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox <a href=\"https:\/\/librivox.org\/aunt-jos-scrapbag-by-louisa-may-alcott\/\" rel=\"nofollow\">catalog page<\/a> for this recording.\n\nFor more free audio books or to become a volunteer reader, visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox.org<\/a>.\n\n<a href=\"http:\/\/wiki.librivox.org\/index.php\/M4B_Catalog\" rel=\"nofollow\">M4B format available<\/a>"],"date":["2010-05-18"],"year":["2010"],"subject":["librivox; literature; audiobook; alcott; children"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2010-05-17 19:32:15"],"addeddate":["2010-05-17 19:10:12"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"updatedate":["2010-05-18 01:10:21"],"updater":["librivoxbooks"],"curation":["[curator]malware@archive.org[\/curator][date]20140321051344[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020309"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":13851,"week":59,"month":251}}
+{"downloads":13913,"week":43,"month":230}}

@@ -1,5 +1,5 @@
 {
-"server":"ia600407.us.archive.org",
+"server":"ia700407.us.archive.org",
 "dir":"/26/items/de_profundis_ae_librivox",
 "metadata":{"identifier":["de_profundis_ae_librivox"],"title":["De Profundis"],"creator":["Oscar Wilde"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">Librivox<\/a> recording of <a href=\"http:\/\/librivox.org\/de-profundis-by-oscar-wilde\" rel=\"nofollow\">De Profundis<\/a> by Oscar Wilde. \nRead by Aaron Elliott. \n\nThis short work of Wilde's was written during his two year incarceration for \"gross indecency\". This work is a letter which sorts out his life, and his love toward Lord Alfred Douglas. Wilde wrote this as a farewell letter to Douglas. (summary by Aaron Elliott)\n\nFor more free audiobooks, or to become a volunteer reader, please visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>.\n\n<a href=\"http:\/\/wiki.librivox.org\/index.php\/M4B_Catalog\" rel=\"nofollow\">M4B format available<\/a>"],"date":["2007-12-21"],"year":["2007"],"subject":["librivox; audiobooks; wilde; letters; memoirs"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2007-12-21 06:28:24"],"updater":["librivoxbooks","librivoxbooks"],"updatedate":["2007-12-21 15:58:15","2011-12-22 08:53:54"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"curation":["[curator]malware@archive.org[\/curator][date]20140323084752[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020405"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":32388,"week":61,"month":330}}
+{"downloads":32466,"week":62,"month":309}}

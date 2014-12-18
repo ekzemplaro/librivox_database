@@ -1,5 +1,5 @@
 {
-"server":"ia801703.us.archive.org",
+"server":"ia601703.us.archive.org",
 "dir":"/12/items/christmas_thompson_hall_ab_librivox",
 "metadata":{"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"mediatype":["audio"],"title":["Christmas at Thompson Hall"],"creator":["Anthony Trollope"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"identifier":["christmas_thompson_hall_ab_librivox"],"addeddate":["2013-04-08 01:25:00"],"publicdate":["2013-04-08 01:25:14"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> recording of Christmas at Thompson Hall, by Anthony Trollope. \nRead by Arnold Banner. \n\n\"A Mid-Victorian Christmas Tale\"; tells of a night time encounter - approaching slapstick humor - between relatives who had never before met, resulting in minor injuries, embarrassment, and Trollope's usual 'nice' social interactions. (Summary by Arnold Banner)\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the <a href=\"http:\/\/librivox.org\/christmas-at-thompson-hall-by-anthony-trollope\" rel=\"nofollow\">LibriVox catalog page<\/a> for this recording. \n\nFor more free audio books or to become a volunteer reader, visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox.org<\/a>.\n\n<a href=\"http:\/\/wiki.librivox.org\/index.php\/M4B_Catalog\" rel=\"nofollow\">M4B format available<\/a>"],"date":["2013-04-07"],"year":["2013"],"subject":["LibriVox; audiobooks; fiction; Christmas; humor; Victorian; embarrassment; blunder"],"licenseurl":["http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"],"curation":["[curator]malware@archive.org[\/curator][date]20140324023158[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020015"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"CC0 1.0 Universal","license_url":"http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/","image_url":"http:\/\/creativecommons.org\/images\/projects\/zero.png","embed_text":"<rdf:RDF xmlns=\"http:\/\/creativecommons.org\/ns#\" xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n   <License rdf:about=\"http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/\">\n      <permits rdf:resource=\"http:\/\/creativecommons.org\/ns#Reproduction\"\/>\n      <permits rdf:resource=\"http:\/\/creativecommons.org\/ns#Distribution\"\/>\n   <\/License>\n<\/rdf:RDF>"},
 "item":
-{"downloads":3153,"week":32,"month":134}}
+{"downloads":3256,"week":83,"month":201}}

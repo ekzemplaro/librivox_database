@@ -1,5 +1,5 @@
 {
-"server":"ia902606.us.archive.org",
+"server":"ia802606.us.archive.org",
 "dir":"/10/items/short_story_042_1002_librivox",
 "metadata":{"identifier":["short_story_042_1002_librivox"],"title":["Short Story Collection Vol. 042"],"creator":["Various"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> recording of Short Story Collection Vol. 042. \n\nA Collection of 20 Short Stories in the Public Domaon read by Librivox Volunteers\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox <a href=\"https:\/\/librivox.org\/short-story-collection-vol-042-by-various\/\" rel=\"nofollow\">catalog page<\/a> for this recording.\n\nFor more free audio books or to become a volunteer reader, visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox.org<\/a>.\n\n<a href=\"http:\/\/wiki.librivox.org\/index.php\/M4B_Catalog\" rel=\"nofollow\">M4B format available<\/a>"],"date":["2010-02-22"],"year":["2010"],"subject":["Librivox;Audiobooks;Short Stories"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2010-02-22 06:41:20"],"addeddate":["2010-02-22 06:06:23"],"updater":["librivoxbooks","librivoxbooks","librivoxbooks","librivoxbooks"],"updatedate":["2010-02-22 07:55:26","2010-02-22 21:38:48","2010-02-23 05:52:01","2011-05-27 00:46:32"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"curation":["[curator]malware@archive.org[\/curator][date]20140321054100[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020512"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":16106,"week":73,"month":328}}
+{"downloads":16184,"week":47,"month":308}}

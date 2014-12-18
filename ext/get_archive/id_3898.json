@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":71067,"week":253,"month":1117}}
+{"downloads":71428,"week":234,"month":1155}}

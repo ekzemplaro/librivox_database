@@ -1,5 +1,5 @@
 {
-"server":"ia902605.us.archive.org",
+"server":"ia802605.us.archive.org",
 "dir":"/6/items/spiegel_cyprianus_0807_librivox",
 "metadata":{"identifier":["spiegel_cyprianus_0807_librivox"],"title":["Der Spiegel des Cyprianus"],"creator":["Theodor Storm"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> recording of Der Spiegel des Cyprianus, by Theodor Storm. \n\nRead in German by Hokuspokus.\n\nEine traurige Geschichte \u00fcber b\u00f6se und gute Stiefm\u00fctter und einen magischen Spiegel. (Summary by Hokuspokus)\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox <a href=\"https:\/\/librivox.org\/der-spiegel-des-cyprianus-by-theodor-storm\/\" rel=\"nofollow\">catalog page<\/a> for this recording.\n\nFor more free audio books or to become a volunteer reader, visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox.org<\/a>.\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_7\/DerSpiegelDesCyprianus.m4b\" rel=\"nofollow\">M4B format available<\/a>"],"date":["2008-07-16"],"year":["2008"],"subject":["librivox; audiobook; Literature; German; Deutsch; step-mothers; magic mirror"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2008-07-17 03:18:04"],"updater":["librivoxbooks","librivoxbooks"],"updatedate":["2008-07-17 03:22:33","2010-02-06 07:28:40"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"curation":["[curator]malware@archive.org[\/curator][date]20140311135533[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020508"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":4565,"week":7,"month":44}}
+{"downloads":4586,"week":15,"month":54}}

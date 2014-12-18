@@ -1,5 +1,5 @@
 {
-"server":"ia802304.us.archive.org",
+"server":"ia902304.us.archive.org",
 "dir":"/24/items/stuffed_elephant_solo_librivox",
 "metadata":{"identifier":["stuffed_elephant_solo_librivox"],"title":["The Story of a Stuffed Elephant"],"creator":["Laura Lee Hope"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> recording of The Story of a Stuffed Elephant, by Laura Lee Hope.  Read by Vlooi.\n\nThe Story of a Stuffed Elephant is... well, the story of a Stuffed Elephant and the little boy who owns him, and his sister, and all their adventures. A delightful children's book by the author of The Bobbsey Twins series. (Summary by Vlooi and Kara)\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox <a href=\"http:\/\/librivox.org\/the-story-of-a-stuffed-elephant-by-laura-lee-hope\/\" rel=\"nofollow\">catalog page<\/a> for this recording.\n\nM4B format available"],"date":["2006-10-03"],"year":["2006"],"subject":["librivox;  literature;  audiobook;  children;  elephant; hope"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2006-10-03 13:03:19"],"updater":["librivoxbooks","librivoxbooks"],"updatedate":["2006-10-03 20:50:37","2011-09-18 07:57:46"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"curation":["[curator]malware@archive.org[\/curator][date]20140318002032[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020307"],"ppi":["600"],"ocr":["ABBYY FineReader 9.0"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":29155,"week":198,"month":740}}
+{"downloads":29364,"week":164,"month":750}}

@@ -1,5 +1,5 @@
 {
-"server":"ia902307.us.archive.org",
+"server":"ia802307.us.archive.org",
 "dir":"/29/items/betsey_and_i_0905_librivox",
 "metadata":{"identifier":["betsey_and_i_0905_librivox"],"title":["Betsey and I Are Out"],"creator":["Will Carleton"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> volunteers bring you 11 recordings of <i>Betsey and I Are Out<\/i> by Will Carleton. This was the fortnightly poetry project for March 22nd, 2009.\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox <a href=\"https:\/\/librivox.org\/betsey-and-i-are-out-by-will-carleton\/\" rel=\"nofollow\">catalog page<\/a> for this recording.\n\nFor more free audio books or to become a volunteer reader, visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox.org<\/a>.\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_13\/BetseyAndIAreOut.m4b\" rel=\"nofollow\">Download M4B (30MB)<\/a><br \/>"],"date":["2009-05-02"],"year":["2009"],"subject":["librivox; audiobook; poetry; poem"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2009-05-02 00:03:30"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"updatedate":["2009-05-02 08:57:21"],"updater":["librivoxbooks"],"curation":["[curator]malware@archive.org[\/curator][date]20140323070543[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020515"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":3670,"week":26,"month":97}}
+{"downloads":3699,"week":18,"month":98}}

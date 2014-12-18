@@ -1,5 +1,5 @@
 {
-"server":"ia600500.us.archive.org",
+"server":"ia700500.us.archive.org",
 "dir":"/8/items/clarimonde_0909_librivox",
 "metadata":{"identifier":["clarimonde_0909_librivox"],"title":["Clarimonde"],"creator":["Theophile Gautier"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> recording of Clarimonde, by Theophile Gautier. Read by Joy Chan.\n\nThis is the story of a priest named Romauld, and his all-consuming love for the beautiful courtesan, Clarimonde. (Summary by Joy Chan)\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox <a href=\"https:\/\/librivox.org\/clarimonde-by-theophile-gautier\/\" rel=\"nofollow\">catalog page<\/a> for this recording.\n\nFor more free audio books or to become a volunteer reader, visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox.org<\/a>.\n\n<a href=\"http:\/\/wiki.librivox.org\/index.php\/M4B_Catalog\" rel=\"nofollow\">M4B format available<\/a>"],"date":["2009-09-13"],"year":["2009"],"subject":["audiobook; LibriVox; short story; La Morte Amoureuse; vampires; romance"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2009-09-14 01:26:42"],"addeddate":["2009-09-14 01:17:05"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"updatedate":["2009-09-14 01:48:48"],"updater":["librivoxbooks"],"curation":["[curator]malware@archive.org[\/curator][date]20140321210134[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020508"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":8623,"week":44,"month":175}}
+{"downloads":8672,"week":36,"month":162}}

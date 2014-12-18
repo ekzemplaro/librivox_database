@@ -1,5 +1,5 @@
 {
-"server":"ia802606.us.archive.org",
+"server":"ia902606.us.archive.org",
 "dir":"/25/items/fivelittlepeppers_grownup_1005_librivox",
 "metadata":{"identifier":["fivelittlepeppers_grownup_1005_librivox"],"title":["Five Little Peppers Grown Up"],"creator":["Margaret Sidney"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">Librivox<\/a> recording of <a href=\"https:\/\/librivox.org\/five-little-peppers-grown-up-by-margaret-sidney\/\" rel=\"nofollow\">Five Little Peppers Grown Up<\/a> by Margaret Sidney. \nRead by BookAngel7. \n\nFive Little Peppers Grown Up continues the story of Ben, Polly, Joel, David, and Phronsie Pepper. Together with the Kings, the Whitneys, and other friends old and new, the Peppers learn and teach about life and love as they grow into adulthood. (Summary by Angela)\n\nFor more free audiobooks, or to become a volunteer reader, please visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>.\n\n<a href=\"http:\/\/www.archive.org\/download\/LibrivoxM4bCollectionAudiobooks1a\/FiveLittlePeppersGrownUp.m4b\" rel=\"nofollow\">Download M4B (166MB)<\/a>"],"date":["2010-05-14"],"year":["2010"],"subject":["librivox; audiobooks; fiction; children"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2010-05-15 01:21:33"],"addeddate":["2010-05-14 05:33:12"],"updater":["librivoxbooks","librivoxbooks","librivoxbooks"],"updatedate":["2010-05-15 01:24:42","2010-05-15 01:25:06","2010-05-15 01:26:37"],"curation":["[curator]malware@archive.org[\/curator][date]20140321051407[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020311"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":7230,"week":22,"month":154}}
+{"downloads":7267,"week":27,"month":134}}

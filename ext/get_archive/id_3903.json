@@ -1,5 +1,5 @@
 {
-"server":"ia801408.us.archive.org",
+"server":"ia601408.us.archive.org",
 "dir":"/31/items/childrensshortworks05_1002_librivox",
 "metadata":{"identifier":["childrensshortworks05_1002_librivox"],"title":["Children's Short Works, Vol. 005"],"creator":["Various"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> recording of Children's Short Works Vol. 005. \n\nLibrivox\u2019s Children\u2019s Short Works Collection 005: a collection of 15 short works for children in the public domain read by a variety of Librivox members.\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox <a href=\"https:\/\/librivox.org\/childrens-short-works-vol-005-by-various\/\" rel=\"nofollow\">catalog page<\/a> for this recording.\n\n<a href=\"http:\/\/wiki.librivox.org\/index.php\/M4B_Catalog\" rel=\"nofollow\">M4B format available<\/a>\n\n\nFor more free audio books or to become a volunteer reader, visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox.org<\/a>."],"date":["2010-03-11"],"year":["2010"],"subject":["LibriVox;Audio Books; Children;Short Stories"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2010-03-10 23:02:50"],"addeddate":["2010-03-10 22:48:12"],"updater":["librivoxbooks","librivoxbooks"],"updatedate":["2010-03-11 00:21:57","2010-03-11 00:28:37"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"curation":["[curator]malware@archive.org[\/curator][date]20140321052719[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020512"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":13522,"week":107,"month":356}}
+{"downloads":13672,"week":108,"month":402}}

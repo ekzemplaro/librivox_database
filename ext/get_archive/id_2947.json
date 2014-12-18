@@ -1,5 +1,5 @@
 {
-"server":"ia600401.us.archive.org",
+"server":"ia700401.us.archive.org",
 "dir":"/3/items/thaw_0903_librivox",
 "metadata":{"identifier":["thaw_0903_librivox"],"title":["Thaw"],"creator":["Edward Thomas"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> recording of Thaw, by Edward Thomas.\n\nLibriVox volunteers bring you 11 recordings of <i>Thaw<\/i> by Edward Thomas. This was the weekly poetry project for March 1st, 2009.\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox <a href=\"https:\/\/librivox.org\/thaw-by-edward-thomas\/\" rel=\"nofollow\">catalog page<\/a> for this recording.\n\nFor more free audio books or to become a volunteer reader, visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox.org<\/a>.\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_13\/Thaw.m4b\" rel=\"nofollow\">Download M4B (3MB)<\/a><br \/>"],"date":["2009-03-12"],"year":["2009"],"subject":["librivox; poetry; thomas; spring"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2009-03-13 01:47:26"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"updatedate":["2009-03-13 03:51:01"],"updater":["librivoxbooks"],"curation":["[curator]malware@archive.org[\/curator][date]20140323071333[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020205"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":5170,"week":8,"month":38}}
+{"downloads":5175,"week":5,"month":33}}

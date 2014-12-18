@@ -1,5 +1,5 @@
 {
-"server":"ia700400.us.archive.org",
+"server":"ia600400.us.archive.org",
 "dir":"/15/items/shortpoetry_012_librivox",
 "metadata":{"identifier":["shortpoetry_012_librivox"],"title":["Short Poetry Collection 012"],"mediatype":["audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">Librivox's<\/a> Short Poetry Collection 012: a collection of 20 public-domain poems.  \n\nFor more information on our readers, see our catalog page: <a href=\"http:\/\/librivox.org\/short-poetry-collection-012\/\" rel=\"nofollow\">http:\/\/librivox.org\/short-poetry-collection-012\/<\/a>\n\nFor more free audiobooks, or to become a volunteer reader, please visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>\n\n<a href=\"http:\/\/www.archive.org\/download\/LibrivoxM4bCollectionAudiobooks3\/LibrivoxShortPoetryCollection012.m4b\" rel=\"nofollow\">Download M4B (15mb)<\/a>"],"subject":["librivox; audiobook; literature; poetry"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2006-08-20 20:36:27"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"updatedate":["2006-08-20 20:37:43"],"updater":["librivoxbooks"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"curation":["[curator]malware@archive.org[\/curator][date]20140320125954[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020611"],"ppi":["600"],"ocr":["ABBYY FineReader 9.0"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":52588,"week":368,"month":1281}}
+{"downloads":53018,"week":334,"month":1383}}

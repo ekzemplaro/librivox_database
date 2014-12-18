@@ -1,5 +1,5 @@
 {
-"server":"ia601404.us.archive.org",
+"server":"ia801404.us.archive.org",
 "dir":"/8/items/alice_poem_librivox",
 "metadata":{"identifier":["alice_poem_librivox"],"title":["Alice Pleasance Liddell"],"creator":["Lewis Carroll"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\" rel=\"nofollow\">LibriVox<\/a> volunteers bring you 23 different recordings of Alice Pleasance Liddell. This was the weekly poetry project for the week of June 17th, 2007.  For more information on the readers, please visit the catalog page: <a href=\"http:\/\/librivox.org\/of-alice-in-wonderland-by-lewis-carroll\/\" rel=\"nofollow\">http:\/\/librivox.org\/of-alice-in-wonderland-by-lewis-carroll\/<\/a>.<br \/>(Summary by Karen Savage)\n\nFor more free audiobooks, or to find out how you can volunteer, please visit <a href=\"http:\/\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>.\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_13\/AedhWishesForTheClothsOfHeaven.m4b\" rel=\"nofollow\">Download M4B (4MB)<\/a><br \/>"],"date":["2007-06-26"],"year":["2007"],"subject":["librivox;  audiobook;  literature;  poetry"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2007-06-26 13:33:27"],"updater":["librivoxbooks","librivoxbooks","librivoxbooks","librivoxbooks"],"updatedate":["2007-06-26 14:56:47","2007-06-26 14:59:52","2007-07-02 19:52:53","2007-07-02 19:59:49"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"curation":["[curator]malware@archive.org[\/curator][date]20140323085215[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020308"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":59959,"week":25,"month":134}}
+{"downloads":60000,"week":35,"month":129}}

@@ -1,5 +1,5 @@
 {
-"server":"ia700400.us.archive.org",
+"server":"ia600400.us.archive.org",
 "dir":"/26/items/maerchen_von_myrtenfraeulein_dw_librivox",
 "metadata":{"identifier":["maerchen_von_myrtenfraeulein_dw_librivox"],"title":["Das M\u00e4rchen von dem Myrtenfr\u00e4ulein"],"creator":["Clemens Brentano"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">Librivox<\/a> recording of <a href=\"http:\/\/librivox.org\/das-maerchen-von-dem-myrtenfraeulein-by-clemens-brentano\/\" rel=\"nofollow\">Das M\u00e4rchen von dem Myrtenfr\u00e4ulein<\/a> by Clemens Brentano. \nRead by Dirk and Claudia Weber. \n\nM\u00e4rchen \u00fcber ein Feenwesen, dass in einem Myrtenbaum lebt und einem Prinzen, der das Feenwesen liebt.(Summary by Wassermann)\n\nFor more free audiobooks, or to become a volunteer reader, please visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>.\n\n<a href=\"http:\/\/www.archive.org\/download\/LibrivoxM4bCollectionAudiobooks_7\/MrchenVonDemMyrtenfrulein.m4b\" rel=\"nofollow\">M4B H\u00f6rbuch von gesamtem Buch<\/a>"],"date":["2008-05-01"],"year":["2008"],"subject":["librivox; audiobooks; German; Deutsch; fairy tales; M\u00e4rchen; maerchen"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2008-05-01 23:46:54"],"updater":["librivoxbooks","librivoxbooks","librivoxbooks"],"updatedate":["2008-05-02 01:36:44","2008-05-02 01:49:25","2010-10-09 22:44:04"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"curation":["[curator]malware@archive.org[\/curator][date]20140323082600[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020111"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":8479,"week":16,"month":61}}
+{"downloads":8490,"week":9,"month":62}}

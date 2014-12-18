@@ -1,5 +1,5 @@
 {
-"server":"ia802705.us.archive.org",
+"server":"ia902705.us.archive.org",
 "dir":"/30/items/ballads_bohemian_librivox",
 "metadata":{"identifier":["ballads_bohemian_librivox"],"title":["Ballads of a Bohemian"],"creator":["Robert W. Service"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">Librivox<\/a> recording of Ballads of a Bohemian by Robert W. Service.\n\nBallads of a Bohemian is a collection of poems tied together by the narration of the \"author\" Stephen Poore. The poems speak of bohemian life in Paris before the war, his experiences during World War I and its aftermath.  (Summary by Kristin Hughes)\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox <a href=\"http:\/\/librivox.org\/ballads-of-a-bohemian-by-robert-w-service\/\" rel=\"nofollow\">catalog page<\/a> for this recording.\n\nFor more free audiobooks, or to become a volunteer reader, please visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_14\/BalladsOfABohemian.m4b\" rel=\"nofollow\">Download M4B (138MB)<\/a>"],"subject":["librivox; audiobook; literature; poetry"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2007-03-30 17:42:33"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"updatedate":["2007-03-30 17:44:45"],"updater":["librivoxbooks"],"curation":["[curator]malware@archive.org[\/curator][date]20140318181734[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020412"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":18190,"week":18,"month":66}}
+{"downloads":18229,"week":36,"month":95}}

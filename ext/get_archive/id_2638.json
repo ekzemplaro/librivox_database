@@ -1,5 +1,5 @@
 {
-"server":"ia802606.us.archive.org",
+"server":"ia902606.us.archive.org",
 "dir":"/35/items/childs_new_story_book_sd_0810_librivox",
 "metadata":{"identifier":["childs_new_story_book_sd_0810_librivox"],"title":["Child's New Story Book"],"creator":["Anonymous"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">Librivox<\/a> recording of Child's New Story Book read by Sibella Denton.\n\nShort and sweet stories for children. (Summary by Dr. Heather A. D. Mbaye)\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox <a href=\"https:\/\/librivox.org\/childs-new-story-book\/\" rel=\"nofollow\">catalog page<\/a> for this recording.\n\nFor more free audiobooks or to become a volunteer reader, please visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>\n\n<a href=\"http:\/\/wiki.librivox.org\/index.php\/M4B_Catalog\" rel=\"nofollow\">M4B format available<\/a>"],"date":["2008-10-31"],"year":["2008"],"subject":["librivox;  audiobook;  Short story; children"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2008-10-31 10:15:17"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"updatedate":["2008-10-31 10:40:25"],"updater":["librivoxbooks"],"curation":["[curator]malware@archive.org[\/curator][date]20140311084735[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020014"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":25247,"week":38,"month":161}}
+{"downloads":25307,"week":50,"month":183}}

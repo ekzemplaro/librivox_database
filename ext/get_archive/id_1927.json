@@ -1,5 +1,5 @@
 {
-"server":"ia902604.us.archive.org",
+"server":"ia802604.us.archive.org",
 "dir":"/9/items/iseehisblood_0803_librivox",
 "metadata":{"identifier":["iseehisblood_0803_librivox"],"title":["I see His Blood upon the Rose"],"creator":["Joseph Mary Plunkett"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["LibriVox volunteers bring you 12 different recordings of <em>I see His Blood upon the Rose<\/em> by Joseph Mary Plunkett. This was the weekly poetry project for the week of March 9th, 2008.\n\nFor more information on the readers, please visit the catalog page: <a href=\"http:\/\/librivox.org\/i-see-his-blood-upon-the-rose-by-joseph-mary-plunkett\/\" rel=\"nofollow\">http:\/\/librivox.org\/i-see-his-blood-upon-the-rose-by-joseph-mary-plunkett\/<\/a>.\n\nFor more free audiobooks, or to find out how you can volunteer, please visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>.\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_13\/ISeeHisBloodUponTheRose.m4b\" rel=\"nofollow\">Download M4B (6MB)<\/a><br \/>"],"date":["2008-03-21"],"year":["2008"],"subject":["librivox; audiobook; literature; poetry"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2008-03-21 22:11:42"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"updatedate":["2008-03-21 23:12:33"],"updater":["librivoxbooks"],"curation":["[curator]malware@archive.org[\/curator][date]20140323084616[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020302"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":5799,"week":20,"month":90}}
+{"downloads":5839,"week":30,"month":108}}

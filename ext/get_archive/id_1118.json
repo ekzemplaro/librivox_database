@@ -1,5 +1,5 @@
 {
-"server":"ia700504.us.archive.org",
+"server":"ia600504.us.archive.org",
 "dir":"/1/items/fishers_boy_librivox",
 "metadata":{"identifier":["fishers_boy_librivox"],"title":["The Fisher's Boy"],"creator":["Henry David Thoreau"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["LibriVox volunteers bring you eleven different recordings of the Fisher's Boy by Henry David Thoreau. This was the weekly poetry project for the week of May 13th, 2007.  \n\nFor more information on the readers, please visit the catalog page: <a href=\"http:\/\/librivox.org\/the-fishers-boy-by-henry-david-thoreau\/\" rel=\"nofollow\">http:\/\/librivox.org\/the-fishers-boy-by-henry-david-thoreau\/<\/a>.<br \/>(Summary by Karen Savage)\n\nFor more free audiobooks, or to find out how you can volunteer, please visit <a href=\"http:\/\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>.\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_13\/TheFishersBoy.m4b\" rel=\"nofollow\">Download M4B (6MB)<\/a><br \/>"],"date":["2007-05-20"],"year":["2007"],"subject":["librivox;  audiobook;  literature;  poetry"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2007-05-24 16:47:10"],"updater":["librivoxbooks","librivoxbooks","librivoxbooks"],"updatedate":["2007-05-24 18:13:00","2007-05-24 18:22:52","2007-05-28 17:07:00"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"curation":["[curator]malware@archive.org[\/curator][date]20140323085301[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020215"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":19765,"week":12,"month":50}}
+{"downloads":19778,"week":9,"month":51}}

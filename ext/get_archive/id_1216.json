@@ -1,5 +1,5 @@
 {
-"server":"ia601407.us.archive.org",
+"server":"ia801407.us.archive.org",
 "dir":"/13/items/spanishpoetry_002_librivox",
 "metadata":{"identifier":["spanishpoetry_002_librivox"],"title":["Spanish Poetry Collection 002"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\" rel=\"nofollow\">Librivox's<\/a> Spanish Poetry Collection 002: a collection of 10 Spanish language, public-domain poems.\n\nFor more information on our readers, see our catalog page: <a href=\"http:\/\/librivox.org\/spanish-poetry-collection-002\/\" rel=\"nofollow\">http:\/\/librivox.org\/spanish-poetry-collection-002\/<\/a>\n\nFor more free audiobooks, or to become a volunteer reader, please visit <a href=\"http:\/\/librivox.org\" rel=\"nofollow\">librivox.org<\/a>\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_9\/SpanishPoetry002.m4b\" rel=\"nofollow\">M4B format available<\/a>"],"date":["2008-02-06"],"year":["2008"],"subject":["librivox; audiobook; literature; poetry; spanish"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2008-02-04 22:20:54"],"updater":["librivoxbooks","librivoxbooks"],"updatedate":["2008-02-06 15:36:06","2008-02-06 15:41:16"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"curation":["[curator]malware@archive.org[\/curator][date]20140323084723[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020607"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":27711,"week":48,"month":263}}
+{"downloads":27790,"week":66,"month":269}}

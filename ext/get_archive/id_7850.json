@@ -1,5 +1,5 @@
 {
-"server":"ia601801.us.archive.org",
+"server":"ia801801.us.archive.org",
 "dir":"/31/items/uncle_wiggily_woods_1307_librivox",
 "metadata":{"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"mediatype":["audio"],"title":["Uncle Wiggily in the Woods"],"creator":["Howard R. Garis"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"identifier":["uncle_wiggily_woods_1307_librivox"],"addeddate":["2013-07-07 14:15:14"],"publicdate":["2013-07-07 14:15:40"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> recording of Uncle Wiggily in the Woods, by Howard R. Garis.\n\nHoward Garis, one of the most prolific children's writers of the 20th century, is credited with writing over 1500 Uncle Wiggily stories. In this collection, the loveable old rabbit stays close to home and visits woodland friends. (Summary by Lynne Thompson)\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the <a href=\"http:\/\/librivox.org\/uncle-wiggily-in-the-woods-by-howard-r-garis\/\" rel=\"nofollow\">LibriVox catalog page<\/a> for this recording.\n\nFor more free audio books or to become a volunteer reader, visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox.org<\/a>.\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_11\/UncleWiggilyInTheWoods.m4b\" rel=\"nofollow\">M4B format available<\/a>"],"date":["2013-07-07"],"year":["2013"],"subject":["librivox; audiobook; nature; woodland; bedtime stories; animals; young children"],"licenseurl":["http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"],"curation":["[curator]malware@archive.org[\/curator][date]20140320222316[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020216"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"CC0 1.0 Universal","license_url":"http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/","image_url":"http:\/\/creativecommons.org\/images\/projects\/zero.png","embed_text":"<rdf:RDF xmlns=\"http:\/\/creativecommons.org\/ns#\" xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n   <License rdf:about=\"http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/\">\n      <permits rdf:resource=\"http:\/\/creativecommons.org\/ns#Reproduction\"\/>\n      <permits rdf:resource=\"http:\/\/creativecommons.org\/ns#Distribution\"\/>\n   <\/License>\n<\/rdf:RDF>"},
 "item":
-{"downloads":1684,"week":16,"month":82}}
+{"downloads":1708,"week":15,"month":75}}

@@ -1,5 +1,5 @@
 {
-"server":"ia600500.us.archive.org",
+"server":"ia700500.us.archive.org",
 "dir":"/6/items/slant_book_librivox",
 "metadata":{"identifier":["slant_book_librivox"],"title":["The Slant Book"],"creator":["Peter Newell"],"mediatype":["audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> recording of The Slant Book, by Peter Newell. Read by Denny Sayers.\n\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox <a href=\"http:\/\/librivox.org\/the-slant-book-by-peter-newell\/\" rel=\"nofollow\">catalog page<\/a> for this recording.\n\n\n<a href=\"http:\/\/wiki.librivox.org\/index.php\/M4B_Catalog\" rel=\"nofollow\">M4B format available<\/a>"],"subject":["librivox; literature; children; audiobook; Newell"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2006-06-18 12:51:55"],"updater":["librivoxbooks","librivoxbooks"],"updatedate":["2006-06-18 19:55:08","2011-04-30 18:45:19"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"curation":["[curator]malware@archive.org[\/curator][date]20140318031331[\/date][comment]checked for malware[\/comment]"],"ppi":["600"],"ocr":["ABBYY FineReader 9.0"],"boxid":["OL100020407"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":20933,"week":183,"month":661}}
+{"downloads":21128,"week":151,"month":676}}

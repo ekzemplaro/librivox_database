@@ -1,5 +1,5 @@
 {
-"server":"ia700504.us.archive.org",
+"server":"ia600504.us.archive.org",
 "dir":"/2/items/littleprincess_librivox",
 "metadata":{"identifier":["littleprincess_librivox"],"title":["A Little Princess, by Frances Hodgson Burnett"],"creator":["Frances Hodgson Burnett"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">Librivox<\/a> recording of A Little Princess, by Frances Hodgson Burnett.\n\nRead by <a href=\"http:\/\/kayray.org\/\" rel=\"nofollow\">Kara Shallenberg<\/a>\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the <a href=\"http:\/\/librivox.org\/a-little-princess-by-frances-hodgson-burnett\/\" rel=\"nofollow\">LibriVox catalog page<\/a> for this recording.\n\nFor more information or to become a volunteer reader, please visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>.\n\n<a href=\"http:\/\/www.archive.org\/download\/LibrivoxM4bCollectionAudiobooks2\/LittlePrincess-48kb.m4b\" rel=\"nofollow\">Download M4B (164MB)<\/a>"],"date":["2005-12-11"],"year":["2005"],"subject":["literature; children; audiobook; librivox"],"public":["1"],"publicdate":["2005-12-11 01:05:51"],"addeddate":["2005-12-10 18:36:03"],"adder":["librivoxbooks"],"updater":["unix:etree","librivoxbooks","librivoxbooks","librivoxbooks"],"updatedate":["2006-01-03 12:10:44","2009-02-23 00:42:09","2010-05-21 05:58:00"],"taper":["Librivox"],"source":["Librivox recording of Gutenberg e-text #146"],"type":["sound"],"publisher":["Librivox"],"curation":["[curator]malware@archive.org[\/curator][date]20140320175532[\/date][comment]checked for malware[\/comment]"],"runtime":["7:35.57"],"boxid":["OL100020209"],"ppi":["600"],"ocr":["ABBYY FineReader 9.0"]},
 "files":
@@ -7,4 +7,4 @@
 "misc":
 {"css":"audio","image":"http:\/\/ia700504.us.archive.org\/2\/items\/littleprincess_librivox\/Little_Princess_1003_thumb.jpg","header_image":"http:\/\/ia600501.us.archive.org\/1\/items\/librivoxaudio\/libvox.png","collection-title":"The LibriVox Free Audiobook Collection"},
 "item":
-{"downloads":343843,"week":915,"month":3478}}
+{"downloads":344883,"week":787,"month":3718}}

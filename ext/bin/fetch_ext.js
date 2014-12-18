@@ -12,6 +12,8 @@ var filter_archive_exec=require ("./filter_archive_exec");
 
 var file_json_in=process.argv[2];
 var file_out=process.argv[3];
+var key_min = process.argv[4];
+var key_max = process.argv[5]; 
 
 console.log (file_json_in);
 console.log (file_out);
@@ -28,8 +30,6 @@ if (1 < json_str.length)
 //	var key_min = 8411;
 //	var key_max = 8412;
 //	var key_min = 1000;
-	var key_min = 1;
-	var key_max = 1000;
 
 	console.log ("key_min = " + key_min);
 	console.log ("key_max = " + key_max);

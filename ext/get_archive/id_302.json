@@ -1,5 +1,5 @@
 {
-"server":"ia600506.us.archive.org",
+"server":"ia700506.us.archive.org",
 "dir":"/17/items/song_librivox",
 "metadata":{"identifier":["song_librivox"],"title":["Song"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry"],"subject":["librivox; audiobook; literature; poetry"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">Librivox<\/a>'s weekly poetry project for the week of January 16, 2006: Song, by John Donne.\n\nFor information about our readers, see our catalog page: <a href=\"http:\/\/librivox.org\/song-by-john-donne\/\" rel=\"nofollow\">http:\/\/librivox.org\/song-by-john-donne\/<\/a>\n\nFor more free audiobooks, or to find out how you can volunteer, please visit <a href=\"http:\/\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>.\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_13\/Song.m4b\" rel=\"nofollow\">Download M4B (5MB)<\/a>"],"date":["2006-01-22"],"publicdate":["2006-01-22 10:40:11"],"taper":["LibriVox"],"source":["http:\/\/www.bartleby.com\/101\/196.html"],"creator":["John Donne"],"updatedate":["2006-01-22 10:43:18"],"updater":["librivoxbooks"],"year":["2006"],"runtime":["10.21"],"boxid":["OL100020301"],"ppi":["600"],"ocr":["ABBYY FineReader 9.0"]},
 "reviews":{"info":{"num_reviews":1,"avg_rating":"5.00"},"reviews":[{"reviewbody":"I was reintroduced ot this by Neil Gaiman's \"Stardust\".  \n\nWhat a beautiful poem, even if you don't agree with the author.\n\n","reviewtitle":"A beautiful poem","reviewer":"Timothy Ferguson","reviewdate":"2011-09-20 04:39:53","stars":"5"}]},
@@ -8,4 +8,4 @@
 "misc":
 {"css":"audio","image":"http:\/\/ia700506.us.archive.org\/17\/items\/song_librivox\/Donnes_Song_1108_thumb.jpg","header_image":"http:\/\/ia600501.us.archive.org\/1\/items\/librivoxaudio\/libvox.png","collection-title":"The LibriVox Free Audiobook Collection"},
 "item":
-{"downloads":33398,"week":64,"month":365}}
+{"downloads":33514,"week":98,"month":391}}

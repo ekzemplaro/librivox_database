@@ -1,5 +1,5 @@
 {
-"server":"ia700506.us.archive.org",
+"server":"ia600506.us.archive.org",
 "dir":"/17/items/fire_and_ice_librivox",
 "metadata":{"identifier":["fire_and_ice_librivox"],"title":["Fire and Ice"],"creator":["Robert Frost"],"mediatype":["audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> volunteers bring you twenty-three different recordings of <em>Fire and Ice<\/em>, by Robert Frost. This was the weekly poetry project for the week of August 27th, 2006.\n\nFor more information on our readers, please visit the catalog page at: <a href=\"http:\/\/librivox.org\/fire-and-ice-by-robert-frost\/\" rel=\"nofollow\">http:\/\/librivox.org\/fire-and-ice-by-robert-frost\/<\/a>.\n\nFor more free audiobooks, or to become a volunteer reader, please visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>.\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_13\/FireAndIce.m4b\" rel=\"nofollow\">Download M4B (7MB)<\/a><br \/>"],"subject":["librivox; audiobook; literature; poetry"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2006-09-03 07:04:56"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"updatedate":["2006-09-03 17:49:14"],"updater":["librivoxbooks"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"curation":["[curator]malware@archive.org[\/curator][date]20140320131431[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020412"],"ppi":["600"],"ocr":["ABBYY FineReader 9.0"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":65882,"week":150,"month":756}}
+{"downloads":66146,"week":207,"month":820}}

@@ -1,5 +1,5 @@
 {
-"server":"ia902604.us.archive.org",
+"server":"ia802604.us.archive.org",
 "dir":"/20/items/dream_within_dream_librivox",
 "metadata":{"identifier":["dream_within_dream_librivox"],"title":["A Dream within a Dream"],"creator":["Edgar Allan Poe"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> volunteers bring you 15 different recordings of <em>A Dream within a Dream<\/em> by Edgar Allan Poe. This was the weekly poetry project for the week of April 15th, 2007.\n\nFor more information on our readers, please visit the catalog page at: <a href=\"http:\/\/librivox.org\/a-dream-within-a-dream-by-edgar-allan-poe\/\" rel=\"nofollow\">http:\/\/librivox.org\/a-dream-within-a-dream-by-edgar-allan-poe<\/a>.\n\nFor more free audiobooks, or to become a volunteer reader, please visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">librivox.org<\/a>.\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_13\/DreamWithinADream.m4b\" rel=\"nofollow\">Download M4B (8MB)<\/a><br \/>"],"subject":["librivox; audiobook; literature; poetry"],"licenseurl":["http:\/\/creativecommons.org\/licenses\/publicdomain\/"],"publicdate":["2007-04-27 03:22:43"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"updatedate":["2007-04-27 03:30:29"],"updater":["librivoxbooks"],"curation":["[curator]malware@archive.org[\/curator][date]20140323085323[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020204"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"Public Domain","license_url":"http:\/\/creativecommons.org\/licenses\/publicdomain\/","image_url":"http:\/\/creativecommons.org\/images\/public\/norights.gif","embed_text":"<rdf:RDF xmlns=\"http:\/\/web.resource.org\/cc\/\"\n    xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n<License rdf:about=\"http:\/\/web.resource.org\/cc\/PublicDomain\">\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Reproduction\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/Distribution\" \/>\n   <permits rdf:resource=\"http:\/\/web.resource.org\/cc\/DerivativeWorks\" \/>\n<\/License>\n<\/rdf:RDF>\n"},
 "item":
-{"downloads":67084,"week":135,"month":450}}
+{"downloads":67209,"week":107,"month":493}}

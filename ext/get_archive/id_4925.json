@@ -1,5 +1,5 @@
 {
-"server":"ia802609.us.archive.org",
+"server":"ia902609.us.archive.org",
 "dir":"/13/items/magic_words_sm_librivox",
 "metadata":{"identifier":["magic_words_sm_librivox"],"title":["Magic Words: A Tale for Christmas Time"],"creator":["Emilie Maceroni"],"mediatype":["audio"],"collection":["librivoxaudio","audio_bookspoetry","opensource_audio"],"description":["<a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox<\/a> recording of Magic Words: A Tale for Christmas Time, by Emilie Maceroni. Read by Sean McGaughey.\n\nMagic Words is a Victorian tale of a community and how a few women bring a special kind of Christmas magic to the community-- Magic that can heal wounded hearts. (Introduction by Sean McGaughey)\n\nFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the <a href=\"http:\/\/librivox.org\/magic-words-a-tale-for-christmas-time-by-emilie-maceroni\/\" rel=\"nofollow\">LibriVox catalog page<\/a> for this recording. \n\nFor more free audio books or to become a volunteer reader, visit <a href=\"http:\/\/librivox.org\/\" rel=\"nofollow\">LibriVox.org<\/a>.\n\n<a href=\"http:\/\/archive.org\/download\/LibrivoxM4bCollectionAudiobooks_14\/MagicWords.m4b\" rel=\"nofollow\">Download M4B (31MB)<\/a>"],"date":["2010-12-05"],"year":["2010"],"subject":["Librivox; audiobook; fiction; holiday; Christmas"],"licenseurl":["http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"],"publicdate":["2010-12-05 21:39:04"],"addeddate":["2010-12-05 21:32:11"],"taper":["LibriVox"],"source":["Librivox recording of a public-domain text"],"updatedate":["2010-12-05 21:47:14"],"updater":["librivoxbooks"],"curation":["[curator]malware@archive.org[\/curator][date]20140324052801[\/date][comment]checked for malware[\/comment]"],"boxid":["OL100020206"]},
 "files":
@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"CC0 1.0 Universal","license_url":"http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/","image_url":"http:\/\/creativecommons.org\/images\/projects\/zero.png","embed_text":"<rdf:RDF xmlns=\"http:\/\/creativecommons.org\/ns#\" xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n   <License rdf:about=\"http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/\">\n      <permits rdf:resource=\"http:\/\/creativecommons.org\/ns#Reproduction\"\/>\n      <permits rdf:resource=\"http:\/\/creativecommons.org\/ns#Distribution\"\/>\n   <\/License>\n<\/rdf:RDF>"},
 "item":
-{"downloads":5153,"week":44,"month":169}}
+{"downloads":5228,"week":54,"month":200}}

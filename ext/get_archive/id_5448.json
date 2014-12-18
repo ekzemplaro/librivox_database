@@ -9,4 +9,4 @@
 "creativecommons":
 {"name":"CC0 1.0 Universal","license_url":"http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/","image_url":"http:\/\/creativecommons.org\/images\/projects\/zero.png","embed_text":"<rdf:RDF xmlns=\"http:\/\/creativecommons.org\/ns#\" xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\">\n   <License rdf:about=\"http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/\">\n      <permits rdf:resource=\"http:\/\/creativecommons.org\/ns#Reproduction\"\/>\n      <permits rdf:resource=\"http:\/\/creativecommons.org\/ns#Distribution\"\/>\n   <\/License>\n<\/rdf:RDF>"},
 "item":
-{"downloads":5437,"week":52,"month":157}}
+{"downloads":5492,"week":38,"month":158}}
