@@ -1,19 +1,20 @@
 #! /usr/bin/nodejs
 // ---------------------------------------------------------------
-//	update_ext.js
+//	ext/bin/update_ext.js
 //
-//					Nov/12/2014
+//					Jan/11/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
+var json_different_check = require ("./json_different_check");
 // ---------------------------------------------------------------
 // console.log ("*** 開始 ***");
 
 var file_json_in=process.argv[2];
-var file_out=process.argv[3];
+var file_log=process.argv[3];
 
 console.log (file_json_in);
-console.log (file_out);
+console.log (file_log);
 
 var json_str = fs.readFileSync (file_json_in);
 
@@ -46,7 +47,7 @@ if (1 < json_str.length)
 		str_out += key_number + '\n';
 		}
 
-	fs.writeFile (file_out,str_out);
+	fs.writeFile (file_log,str_out);
 	}
 
 // console.log ("*** 終了 ***");
@@ -126,9 +127,13 @@ https.get(url, function(res) {
 	});
 
 	res.on('end', function() {
+	var hantei = json_different_check.json_different_check_proc (body,file_json);
+	if (hantei != true)
+		{
 	fs.writeFile (file_json,body);
 	var json_str_ft = convert_proc (body);
 	fs.writeFile (file_ft_json,json_str_ft);
+		}
 	});
 
 }).on('error', function(ee) {

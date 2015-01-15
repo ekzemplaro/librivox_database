@@ -2,10 +2,11 @@
 // ---------------------------------------------------------------
 //	ext/bin/fetch_archive_exec.js
 //
-//					Nov/24/2014
+//					Jan/12/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
+var json_different_check = require ("./json_different_check");
 // ---------------------------------------------------------------
 exports.filter_archive_exec_proc = function (key,data_unit)
 {
@@ -27,7 +28,8 @@ exports.filter_archive_exec_proc = function (key,data_unit)
 // ---------------------------------------------------------------
 function archive_fetch_exec_proc (url,key)
 {
-	var file_json = key + '.json';
+//	var file_json = key + '.json';
+	var file_json = '../get_archive/' + key + '.json';
 
 //	console.log (url);
 //	console.log (file_json);
@@ -43,8 +45,14 @@ https.get(url, function(res) {
 	});
 
 	res.on('end', function() {
-	fs.writeFile (file_json,body);
 
+	var hantei = json_different_check.json_different_check_proc
+		(body,file_json);
+
+	if (hantei != true)
+		{
+		console.log ("*** archive *** different ***");
+	fs.writeFile (file_json,body);
 // <!DOCTYPE html>
 
 	var head_portion = body.substr (0,9);
@@ -53,9 +61,18 @@ https.get(url, function(res) {
 		{
 	var data_aa = JSON.parse (body);
 	var data_shorten = filter_arhive_shorten_proc (key,data_aa);
-	var file_shorten_json = "is_" + file_json.substring (3);
+	var file_shorten_json = file_json.replace ("id_","is_");
+	console.log ("file_shorten_json = " + file_shorten_json);
+
+//	var file_shorten_json = "is_" + file_json.substring (3);
 		var json_str_out = JSON.stringify (data_shorten);
 		fs.writeFile (file_shorten_json,json_str_out);
+		}
+
+		}
+	else
+		{
+		console.log ("*** archive *** equal ***");
 		}
 	});
 

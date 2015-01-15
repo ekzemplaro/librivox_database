@@ -1,8 +1,0 @@
-mv ex*.json ../data
-mv ft*.json ../filter_ext
-#
-mv id*.json ../get_archive
-mv is*.json ../filter_archive
-#
-../bin/post_process.sh
-#
