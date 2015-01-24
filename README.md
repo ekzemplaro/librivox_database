@@ -1,4 +1,4 @@
-						Oct/30/2014
+						Jan/24/2015
 Scripts to create JSON
 
 combined.json is used for librivox_statistics
@@ -10,16 +10,11 @@ db_catalog.json is used for librivox_catalog
 How to update JSON.
 
 
-1)	cd ext
+1)	make clean
 	make
 
-		combined.json is created in gen_combined
-
-2)	cd catalog
-	make clean
-	make
-
-		db_catalog.json is created in db_merge
+		combined.json is created in ext/gen_combined
+		db_catalog.json is created in catalog/db_merge
 
 End
 
