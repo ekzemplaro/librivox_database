@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	ext/bin/fetch_archive_exec.js
 //
-//					Jan/12/2015
+//					Jan/27/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -17,7 +17,7 @@ exports.filter_archive_exec_proc = function (key,data_unit)
 	uua = uua.replace ("www.archive.org","archive.org");
 	uua = uua.replace ("http:","https:");
 
-	if (uua != "")
+	if ((uua != "") && (uua.indexOf ("archive.org") != -1))
 		{
 		url =  uua + '&output=json';
 		archive_fetch_exec_proc (url,key)
@@ -53,10 +53,8 @@ https.get(url, function(res) {
 		{
 		console.log ("*** archive *** different ***");
 	fs.writeFile (file_json,body);
-// <!DOCTYPE html>
 
 	var head_portion = body.substr (0,9);
-//	console.log (head_portion);
 	if (head_portion !== "<!DOCTYPE")
 		{
 	var data_aa = JSON.parse (body);
@@ -64,7 +62,6 @@ https.get(url, function(res) {
 	var file_shorten_json = file_json.replace ("id_","is_");
 	console.log ("file_shorten_json = " + file_shorten_json);
 
-//	var file_shorten_json = "is_" + file_json.substring (3);
 		var json_str_out = JSON.stringify (data_shorten);
 		fs.writeFile (file_shorten_json,json_str_out);
 		}

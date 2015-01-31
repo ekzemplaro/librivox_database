@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	gen_genres.js
 //
-//					Mar/23/2014
+//					Jan/29/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -93,18 +93,18 @@ function filter_proc (data_aa)
 				}
 			else
 				{
-			console.log ("*** error ***" + key);
+			console.log ("*** genres error ***" + key);
 				}
 				}
 			else
 				{
-			console.log ("*** error ***" + key);
+			console.log ("*** genres error ***" + key);
 //			console.log (data_aa.books[it]["genres"].length);
 				}
 			}
 		else
 			{
-			console.log ("*** error ***" + key);
+			console.log ("*** genres error ***" + key);
 			}
 		}
 

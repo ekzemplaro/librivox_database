@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	gen_authors.js
 //
-//					Mar/22/2014
+//					Jan/29/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -99,12 +99,12 @@ function filter_proc (data_aa)
 				}
 			else
 				{
-			console.log ("*** error ***" + key);
+			console.log ("*** authors error *** " + key);
 				}
 			}
 		else
 			{
-			console.log ("*** error ***" + key);
+			console.log ("*** authors error *** " + key);
 			}
 		}
 

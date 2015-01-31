@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	gen_languages.js
 //
-//					Mar/23/2014
+//					Jan/29/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -88,7 +88,7 @@ function filter_proc (data_aa)
 			}
 		else
 			{
-			console.log ("*** error ***" + key);
+			console.log ("*** languages error *** " + key);
 			}
 		}
 
