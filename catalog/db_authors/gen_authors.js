@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	gen_authors.js
 //
-//					Jan/29/2015
+//					Feb/01/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -80,18 +80,19 @@ function filter_proc (data_aa)
 
 	for (var it in data_aa.books)
 		{
-		var key = 'id_' + data_aa.books[it].id
+		var book_cur = data_aa.books[it];
+		var key = 'id_' + book_cur.id
 		var unit_aa = new Object ();
 
-		if ("authors" in data_aa.books[it])
+		if ("authors" in book_cur)
 			{
-			if (data_aa.books[it].authors[0] != null)
+			if (book_cur.authors[0] != null)
 				{
-			if ("id" in data_aa.books[it].authors[0])
+			if ("id" in book_cur.authors[0])
 				{
-		var id_author = data_aa.books[it].authors[0].id;
-		unit_aa['last_name'] = data_aa.books[it].authors[0].last_name;
-		unit_aa['first_name'] = data_aa.books[it].authors[0].first_name;
+		var id_author = book_cur.authors[0].id;
+		unit_aa['last_name'] = book_cur.authors[0].last_name;
+		unit_aa['first_name'] = book_cur.authors[0].first_name;
 
 		var key = "a" + id_author;
 		data_bb[key] = unit_aa;
@@ -99,7 +100,10 @@ function filter_proc (data_aa)
 				}
 			else
 				{
+	if (0 < book_cur["url_iarchive"].length)
+			{
 			console.log ("*** authors error *** " + key);
+			}
 				}
 			}
 		else

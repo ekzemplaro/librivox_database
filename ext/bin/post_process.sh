@@ -2,7 +2,7 @@
 #
 #	post_process.sh
 #
-#						Apr/13/2014
+#						Feb/14/2015
 #
 EXT="/home/uchida/librivox/api/new_api/ext"
 BIN=$EXT"/bin"
@@ -21,6 +21,7 @@ $BIN/merge_json.js $FILTER_ARCHIVE"/list.txt" \
 #
 $BIN/gen_combined.js $GEN_COMBINED/merged_librivox.json \
 	$GEN_COMBINED/merged_archive.json \
+	$GEN_COMBINED/wiki.json \
 	$GEN_COMBINED/combined.json
 #
 #

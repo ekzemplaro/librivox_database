@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	ext/bin/fetch_archive_exec.js
 //
-//					Jan/27/2015
+//					Jan/31/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -51,7 +51,7 @@ https.get(url, function(res) {
 
 	if (hantei != true)
 		{
-		console.log ("*** archive *** different ***");
+//		console.log ("*** archive *** different ***");
 	fs.writeFile (file_json,body);
 
 	var head_portion = body.substr (0,9);
@@ -60,7 +60,8 @@ https.get(url, function(res) {
 	var data_aa = JSON.parse (body);
 	var data_shorten = filter_arhive_shorten_proc (key,data_aa);
 	var file_shorten_json = file_json.replace ("id_","is_");
-	console.log ("file_shorten_json = " + file_shorten_json);
+
+//	console.log ("file_shorten_json = " + file_shorten_json);
 
 		var json_str_out = JSON.stringify (data_shorten);
 		fs.writeFile (file_shorten_json,json_str_out);
@@ -69,7 +70,7 @@ https.get(url, function(res) {
 		}
 	else
 		{
-		console.log ("*** archive *** equal ***");
+//		console.log ("*** archive *** equal ***");
 		}
 	});
 

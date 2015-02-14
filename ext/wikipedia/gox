@@ -1,0 +1,2 @@
+#
+./wiki_txt_to_json.js wiki.txt wiki.json

@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	gen_genres.js
 //
-//					Jan/29/2015
+//					Feb/01/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -79,32 +79,36 @@ function filter_proc (data_aa)
 
 	for (var it in data_aa.books)
 		{
-		var key = 'id_' + data_aa.books[it].id
+		var book_cur = data_aa.books[it];
+		var key = 'id_' + book_cur.id
 		var unit_aa = new Object ();
 
-		if ("genres" in data_aa.books[it])
+
+		if ("genres" in book_cur)
 			{
-			if (0 < data_aa.books[it]["genres"].length)
+			if (0 < book_cur["genres"].length)
 				{
 
-			if ("name" in data_aa.books[it]["genres"][0])
+			if ("name" in book_cur["genres"][0])
 				{
-			genre = data_aa.books[it]["genres"][0]["name"];
+			genre = book_cur["genres"][0]["name"];
 				}
 			else
 				{
-			console.log ("*** genres error ***" + key);
+			console.log ("*** genres error *** " + key);
 				}
 				}
 			else
 				{
-			console.log ("*** genres error ***" + key);
-//			console.log (data_aa.books[it]["genres"].length);
+			if (0 < book_cur["url_iarchive"].length)
+				{
+			console.log ("*** genres error *** " + key);
+				}
 				}
 			}
 		else
 			{
-			console.log ("*** genres error ***" + key);
+			console.log ("*** genres error *** " + key);
 			}
 		}
 
