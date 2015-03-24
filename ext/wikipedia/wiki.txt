@@ -1,19 +1,22 @@
-b7600	1
-b7687	0
-b7757	1
-b7833	0
-b7933	0
-b7991	0
-b8035	1
-b8046	0
-b8157	1
-b8207	1
-b8303	1
-b8412	1
-b8563	0
-b8777	0
-b8835	1
-b8917	0
-b8965	0
-b9052	0
-b9599	0
+b7600	1	ekzemplaro
+b7687	0	ekzemplaro
+b7757	1	ekzemplaro
+b7833	0	ekzemplaro
+b7933	0	ekzemplaro
+b7991	0	ekzemplaro
+b8035	1	ekzemplaro
+b8046	0	ekzemplaro
+b8157	1	ekzemplaro
+b8207	1	ekzemplaro
+b8303	1	ekzemplaro
+b8412	1	ekzemplaro
+b8563	0	ekzemplaro
+b8777	0	ekzemplaro
+b8835	1	ekzemplaro
+b8917	0	ekzemplaro
+b8965	0	ekzemplaro
+b9052	0	ekzemplaro
+b9599	0	ekzemplaro
+b7483	1	TimoleonWash
+b7570	2	TimoleonWash
+b8815	2	TimoleonWash

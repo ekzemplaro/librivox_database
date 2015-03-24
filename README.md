@@ -1,4 +1,4 @@
-						Jan/24/2015
+						Mar/24/2015
 Scripts to create JSON
 
 combined.json is used for librivox_statistics
@@ -15,6 +15,14 @@ How to update JSON.
 
 		combined.json is created in ext/gen_combined
 		db_catalog.json is created in catalog/db_merge
+
+
+The meaning of the column wiki
+
+	-1 ---> Not checked yet.
+	0 ---> Checked. No link to Wikipedia
+	1 --> Checked. Exists link to Wikipedia.
+	2 --> Checked. Exists link to Wikipedia plus exists link from Wikipedia.
 
 End
 
