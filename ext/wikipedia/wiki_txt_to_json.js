@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	wiki_txt_to_json.js
 //
-//					Feb/14/2015
+//					Mar/26/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -16,13 +16,17 @@ function convert_proc (file_in)
 
 	var lines_in = ("" + data).split ("\n");
 
-	for (var it=0; it< lines_in.length; it++)
+	for (var it in lines_in)
 		{
-		if (2 < lines_in[it].length)
+		var line = lines_in[it]; 
+		if (line.substring (0,1) != "#")
 			{
-			var rr = lines_in[it].split ("\t");
+			if (2 < line.length)
+				{
+				var rr = line.split ("\t");
 
-			data_aa[rr[0]] = {"status": rr[1]};
+				data_aa[rr[0]] = {"status": rr[1]};
+				}
 			}
 		}
 
