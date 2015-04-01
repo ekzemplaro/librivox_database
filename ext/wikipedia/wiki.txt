@@ -1,3 +1,14 @@
+# ---------------------------------------------
+#	wiki.txt
+#
+#							Apr/01/2015
+#	
+#	-1 ---> Not checked yet
+#	0 ---> Checked. No link to Wikipedia
+#	1 --> Checked. Exists link to Wikipedia
+#	2 --> Checked. Exists link to Wikipedia plus exists link from Wikipedia
+#
+# ---------------------------------------------
 b7600	1	ekzemplaro
 b7687	0	ekzemplaro
 b7757	1	ekzemplaro
@@ -115,4 +126,90 @@ b8367	2X	mahne
 b4116	2X	mahne
 b5924	2X	mahne
 b8278	2X	mahne
+# ---------------------------------------------
+b7540	2	TimoleonWash
+b3868	2	TimoleonWash
+b9230	2	TimoleonWash
+# ---------------------------------------------
+b627	2	TimoleonWash
+b714	2	TimoleonWash
+b1989	2	TimoleonWash
+b3666	2	TimoleonWash
+# ---------------------------------------------
+b9766	2	mahne
+b9575	0	mahne
+b7691	0	mahne
+b9608	2	mahne
+b9621	2	mahne
+b9619	2	mahne
+b9618	2	mahne
+b9617	2	mahne
+b9616	2	mahne
+b8847	2	mahne
+b8490	2	mahne
+b6232	2	mahne
+b3204	2	mahne
+b2502	2	mahne
+b2443	2	mahne
+b7885	0	mahne
+b9610	2	mahne
+b8687	0	mahne
+b9397	0	mahne
+b9743	0	mahne
+b9703	0	mahne
+b9742	2	mahne
+b6223	2	mahne
+b8556	2	mahne
+b9527	0	mahne
+b8943	0	mahne
+b8984	2	mahne
+b9558	0	mahne
+b2293	2	mahne
+b9707	2	mahne
+b950	2	mahne
+b9571	2	mahne
+b8163	2	mahne
+b9639	0	mahne
+b9710	2	mahne
+b9718	2	mahne
+b793	2	mahne
+b9072	2	mahne
+b9252	2	mahne
+b9733	2	mahne
+b8902	2	mahne
+b9687	0	mahne
+b9450	2	mahne
+b9688	2X	mahne
+b9465	0	mahne
+b8220	0	mahne
+b9682	0	mahne
+b9655	0	mahne
+b9572	0	mahne
+b9313	0	mahne
+b9699	2	mahne
+b9646	2	mahne
+b9435	2	mahne
+b9626	0	mahne
+b9530	0	mahne
+b9701	2X	mahne
+b9691	2	mahne
+b162	2	mahne
+b210	2	mahne
+b9692	2	mahne
+b9569	2	mahne
+b9441	2	mahne
+b8932	2	mahne
+b3314	2	mahne
+b8753	2	mahne
+b8511	2	mahne
+b8352	2	mahne
+b8179	2	mahne
+b8098	2	mahne
+b7897	2	mahne
+b7843	2	mahne
+b7773	2	mahne
+b9583	2	mahne
+b7972	0	mahne
+b9494	0	mahne
+b9597	0	mahne
 # ---------------------------------------------

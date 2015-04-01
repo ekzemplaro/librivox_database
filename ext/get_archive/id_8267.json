@@ -8,10 +8,10 @@
     
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <script src="//archive.org/includes/jquery-1.10.2.min.js" type="text/javascript"></script>
-    <script src="//archive.org/includes/analytics.js?v=65430" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=65501" type="text/javascript"></script>
     <script src="//archive.org/includes/bootstrap.min.js" type="text/javascript"></script>
-    <script src="/includes/archive.js?v=65430" type="text/javascript"></script>
-    <link href="//archive.org/includes/archive.min.css?v=65430" rel="stylesheet" media="screen" type="text/css"/>
+    <script src="/includes/archive.js?v=65501" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.min.css?v=65501" rel="stylesheet" media="screen" type="text/css"/>
     <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
       </head>
   <body class="navia ">
@@ -67,7 +67,7 @@
             
             <div class="linx">
             <h5>Top</h5>
-                              <a href="/details/americana" title="American Libraries">American Libraries</a>                              <a href="/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                              <a href="/details/universallibrary" title="Universal Library">Universal Library</a>                              <a href="/details/opensource" title="Community Texts">Community Texts</a>                              <a href="/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                              <a href="/details/iacl" title="Children's Library">Children's Library</a>                              <a href="/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                          </div>
+                              <a href="/details/americana" title="American Libraries">American Libraries</a>                              <a href="/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                              <a href="/details/universallibrary" title="Universal Library">Universal Library</a>                              <a href="/details/opensource" title="Community Texts">Community Texts</a>                              <a href="/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                              <a href="/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                              <a href="/details/iacl" title="Children's Library">Children's Library</a>                          </div>
 
                         
                         
@@ -222,7 +222,7 @@
             
             <div class="linx">
             <h5 class="hidden-xs">&nbsp;</h5>
-                              <a href="/details/atari_2600_library" title="Atari 2600">Atari 2600</a>                              <a href="/details/vintagesoftware" title="Vintage Software">Vintage Software</a>                              <a href="/details/vectrex" title="Vectrex">Vectrex</a>                              <a href="/details/open_source_software" title="Community Software">Community Software</a>                              <a href="/details/sega_genesis_library" title="Sega Genesis">Sega Genesis</a>                              <a href="/details/gamegear_library" title="Sega Game Gear">Sega Game Gear</a>                              <a href="/details/atari_7800_library" title="Atari 7800">Atari 7800</a>                          </div>
+                              <a href="/details/vintagesoftware" title="Vintage Software">Vintage Software</a>                              <a href="/details/open_source_software" title="Community Software">Community Software</a>                              <a href="/details/atari_2600_library" title="Atari 2600">Atari 2600</a>                              <a href="/details/vectrex" title="Vectrex">Vectrex</a>                              <a href="/details/sega_genesis_library" title="Sega Genesis">Sega Genesis</a>                              <a href="/details/gamegear_library" title="Sega Game Gear">Sega Game Gear</a>                              <a href="/details/atari_7800_library" title="Atari 7800">Atari 7800</a>                          </div>
 
                         
                         
@@ -379,43 +379,43 @@ If you would like to report this problem as an error report,
     </div><!--/#wrap-->
         
     <!-- Timing ...
-     rendered on: www30.us.archive.org
+     rendered on: www14.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
   0.0000   0.0000         petabox start   usr/local/petabox/www/sf/details.php:15:require_once
                                              |setup.inc:26:require_once
                                              |www/common/setup.php:294:log
-  0.0007   0.0007      call get_redis()   usr/local/petabox/www/sf/details.php:74:getItem
+  0.0029   0.0029      call get_redis()   usr/local/petabox/www/sf/details.php:74:getItem
                                              |details.php:193:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1301:log
-  0.0059   0.0052      redis_read start   usr/local/petabox/www/sf/details.php:74:getItem
+  0.0092   0.0063      redis_read start   usr/local/petabox/www/sf/details.php:74:getItem
                                              |details.php:193:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1400:log
-  0.0119   0.0060     redis_read finish   usr/local/petabox/www/sf/details.php:74:getItem
+  0.0130   0.0038     redis_read finish   usr/local/petabox/www/sf/details.php:74:getItem
                                              |details.php:193:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1405:log
-  0.0314   0.0195   begin session_start   usr/local/petabox/www/sf/details.php:74:getItem
+  0.0295   0.0165   begin session_start   usr/local/petabox/www/sf/details.php:74:getItem
                                              |details.php:247:exitItemNotFetched404
                                              |common/Error.inc:56:head
                                              |Nav.inc:76:__construct
                                              |Nav.inc:208:session_start
                                              |Cookies.inc:61:log
-  0.0317   0.0003    done session_start   usr/local/petabox/www/sf/details.php:74:getItem
+  0.0299   0.0004    done session_start   usr/local/petabox/www/sf/details.php:74:getItem
                                              |details.php:247:exitItemNotFetched404
                                              |common/Error.inc:56:head
                                              |Nav.inc:76:__construct
                                              |Nav.inc:208:session_start
                                              |Cookies.inc:67:log
-  0.0424   0.0107              bug dump   usr/local/petabox/www/sf/details.php:74:getItem
+  0.0406   0.0108              bug dump   usr/local/petabox/www/sf/details.php:74:getItem
                                              |details.php:247:exitItemNotFetched404
                                              |common/Error.inc:69:fatal
                                              |setup.php:90:footer
@@ -430,9 +430,9 @@ If you would like to report this problem as an error report,
 if(window.archive_analytics) {
   var v=window.archive_analytics.values;
   v['cache_bust']=Math.random();
-  v['server_ms']=42;
-  v['server_name']="www30.us.archive.org";
-          v['ui3']=1427374444;
+  v['server_ms']=40;
+  v['server_name']="www14.us.archive.org";
+          v['ui3']=1427883085;
     v['service']= (v['ui3'] ? 'ao_2' : 'ao');
   }
 </script>
