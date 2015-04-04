@@ -9751,7 +9751,15 @@
 ../data/ex_9775.json
 ../data/ex_9776.json
 ../data/ex_9777.json
+../data/ex_9778.json
+../data/ex_9779.json
 ../data/ex_978.json
+../data/ex_9780.json
+../data/ex_9781.json
+../data/ex_9782.json
+../data/ex_9783.json
+../data/ex_9784.json
+../data/ex_9785.json
 ../data/ex_979.json
 ../data/ex_98.json
 ../data/ex_980.json

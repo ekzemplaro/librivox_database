@@ -1,4 +1,4 @@
-						Mar/24/2015
+						Apr/04/2015
 Scripts to create JSON
 
 combined.json is used for librivox_statistics
@@ -19,10 +19,11 @@ How to update JSON.
 
 The meaning of the column wiki
 
-	-1 ---> Not checked yet.
-	0 ---> Checked. No link to Wikipedia
-	1 --> Checked. Exists link to Wikipedia.
-	2 --> Checked. Exists link to Wikipedia plus exists link from Wikipedia.
+	-1 ---> Not checked yet
+	0 ---> Checked. No link to & from Wikipedia
+	1 --> Checked. Exists link to Wikipedia
+	2 --> Checked. Exists link from Wikipedia
+	3 --> Checked. Exist links to & from Wikipedia
 
 End
 
