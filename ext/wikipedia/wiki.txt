@@ -1,7 +1,7 @@
 # ---------------------------------------------
 #	wiki.txt
 #
-#							Apr/04/2015
+#							Apr/15/2015
 #	
 #	-1 ---> Not checked yet
 #	0 ---> Checked. No link to & from Wikipedia
@@ -260,4 +260,142 @@ b6608	3	TimoleonWash
 b1436	0	TimoleonWash
 b2850	0	TimoleonWash
 b6955	0	TimoleonWash
+# ---------------------------------------------
+b2464	2	TimoleonWash
+b382	2	TimoleonWash
+b7387	2	TimoleonWash
+b7872	2	TimoleonWash
+# ---------------------------------------------
+b3390	3	TimoleonWash
+b6658	3	TimoleonWash
+b399	3	TimoleonWash
+b573	3	TimoleonWash
+b3189	3	TimoleonWash
+b4411	3	TimoleonWash
+# ---------------------------------------------
+b9462	0	mahne
+b9676	0	mahne
+b6682	3	mahne
+b9605	3	mahne
+b8884	0	mahne
+b9744	3	mahne
+b214	3	mahne
+b9495	0	mahne
+b9631	0	mahne
+b9455	3	mahne
+b6016	2	mahne
+b9756	0	mahne
+b8927	0	mahne
+b8689	0	mahne
+b9398	0	mahne
+b9783	0	mahne
+b8770	0	mahne
+b3420	3	mahne
+b4597	3	mahne
+b6189	3	mahne
+b7435	3	mahne
+b9777	3	mahne
+b9670	0	mahne
+b9408	0	mahne
+b9695	0	mahne
+b8868	3	mahne
+b941	3	mahne
+b9663	0	mahne
+b7641	0	mahne
+b9726	0	mahne
+b9770	3	mahne
+b9326	0	mahne
+b6364	0	mahne
+b9427	0	mahne
+b9377	3	mahne
+b8581	3	mahne
+b8810	3	mahne
+b8834	3	mahne
+b9739	0	mahne
+b9394	0	mahne
+b9760	0	mahne
+# ---------------------------------------------
+b924	3	TimoleonWash
+b9222	3	TimoleonWash
+b5688	3	TimoleonWash
+b845	3	TimoleonWash
+b6082	3	TimoleonWash
+b53	3	TimoleonWash
+b8420	3	TimoleonWash
+b5310	3	TimoleonWash
+b876	3	TimoleonWash
+b1950	3	TimoleonWash
+b6771	3	TimoleonWash
+b1411	3	TimoleonWash
+b4590	3	TimoleonWash
+b9600	3	TimoleonWash
+b7810	3	TimoleonWash
+b578	3	TimoleonWash
+b4159	3	TimoleonWash
+b2102	3	TimoleonWash
+b2571	3	TimoleonWash
+b510	3	TimoleonWash
+b4934	3	TimoleonWash
+b6992	3	TimoleonWash
+b2591	3	TimoleonWash
+b6729	3	TimoleonWash
+b316	3	TimoleonWash
+b4600	3	TimoleonWash
+b4676	3	TimoleonWash
+# ---------------------------------------------
+b9329	0	mahne
+b9656	0	mahne
+b9803	0	mahne
+b8559	0	mahne
+b9258	3	mahne
+b9785	0	mahne
+b9060	3	mahne
+b5704	3	mahne
+b5713	3	mahne
+b5285	3	mahne
+b4280	3	mahne
+b3054	3	mahne
+b7624	0	mahne
+b9773	0	mahne
+b9787	3	mahne
+b8215	3	mahne
+b9754	3	mahne
+b9662	3	mahne
+b9384	3	mahne
+b9208	3	mahne
+b9339	0	mahne
+# ---------------------------------------------
+b8759	0	mahne
+b8004	0	mahne
+b6931	0	mahne
+b6312	0	mahne
+b6179	0	mahne
+b8391	3	mahne
+b1377	3	mahne
+b836	3	mahne
+b9690	0	mahne
+b7414	0	mahne
+b8548	0	mahne
+b9714	0	mahne
+b9678	0	mahne
+b9233	3	mahne
+b9352	0	mahne
+b8825	0	mahne
+b9066	0	mahne
+b9601	1	mahne
+# ---------------------------------------------
+b9625	3	TimoleonWash
+b1931	3	TimoleonWash
+b3590	3	TimoleonWash
+b659	3	TimoleonWash
+b3325	3	TimoleonWash
+b5605	3	TimoleonWash
+b5630	3	TimoleonWash
+b5618	3	TimoleonWash
+b5040	3	TimoleonWash
+b5290	3	TimoleonWash
+b6987	3	TimoleonWash
+b426	3	TimoleonWash
+b914	3	TimoleonWash
+b597	3	TimoleonWash
 # ---------------------------------------------
