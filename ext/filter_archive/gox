@@ -1,10 +1,15 @@
 #
 #for id in {8001..8002}
 #for id in {8001..8010}
-#for id in {3000..4999}
 #for id in {1000..2999}
 #for id in {8200..8400}
-for id in {1..8400}
+#for id in {1..8400}
+#for id in {1..9900}
+#for id in {8980..9400}
+#for id in {9400..9890}
+#for id in {7000..8980}
+#for id in {3000..6999}
+for id in {1..2999}
 do
 	json_in='../get_archive/id_'$id'.json'
 	if [ -e $json_in ]; then

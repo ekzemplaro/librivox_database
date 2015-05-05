@@ -1,1 +1,1 @@
-{if (2 < $NF){print $1"\t"$NF"\tTimoleonWash"}}
+{if (2 < NF){print $1"\t"$NF"\tTimoleonWash"}}

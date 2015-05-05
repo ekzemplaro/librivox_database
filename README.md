@@ -1,4 +1,4 @@
-						Apr/04/2015
+						May/02/2015
 Scripts to create JSON
 
 combined.json is used for librivox_statistics
@@ -24,6 +24,15 @@ The meaning of the column wiki
 	1 --> Checked. Exists link to Wikipedia
 	2 --> Checked. Exists link from Wikipedia
 	3 --> Checked. Exist links to & from Wikipedia
+
+LibriVox API is uded
+Example:
+	curl -k https://librivox.org/api/feed/audiobooks/?id=1000&extended=1&format=json
+
+Arhive.org API is used
+Example:
+
+	curl 'http://archive.org/details/loss_titanic_ah_librivox&output=json'
 
 End
 

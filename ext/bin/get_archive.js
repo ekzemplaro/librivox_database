@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	get_archive.js
 //
-//					Nov/11/2014
+//					May/02/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -110,6 +110,9 @@ function filter_arhive_shorten_proc (key,data_aa)
 //	console.log (data_aa.item.downloads);
 
 	unit_aa['publicdate'] = data_aa.metadata.publicdate[0];
+	unit_aa['title'] = data_aa.metadata.title[0];
+
+/*
 	unit_aa['downloads'] = 0;
 
 	if ('item' in data_aa)
@@ -119,6 +122,7 @@ function filter_arhive_shorten_proc (key,data_aa)
 		unit_aa['downloads'] = data_aa.item.downloads;
 			}
 		}
+*/
 
 	data_shorten[key] = unit_aa;
 

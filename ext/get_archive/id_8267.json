@@ -8,10 +8,10 @@
     
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <script src="//archive.org/includes/jquery-1.10.2.min.js" type="text/javascript"></script>
-    <script src="//archive.org/includes/analytics.js?v=65714" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=65955" type="text/javascript"></script>
     <script src="//archive.org/includes/bootstrap.min.js" type="text/javascript"></script>
-    <script src="/includes/archive.js?v=65714" type="text/javascript"></script>
-    <link href="//archive.org/includes/archive.min.css?v=65714" rel="stylesheet" media="screen" type="text/css"/>
+    <script src="/includes/archive.js?v=65955" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.min.css?v=65955" rel="stylesheet" media="screen" type="text/css"/>
     <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
       </head>
   <body class="navia ">
@@ -67,7 +67,7 @@
             
             <div class="linx">
             <h5>Top</h5>
-                              <a href="/details/americana" title="American Libraries">American Libraries</a>                              <a href="/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                              <a href="/details/universallibrary" title="Universal Library">Universal Library</a>                              <a href="/details/opensource" title="Community Texts">Community Texts</a>                              <a href="/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                              <a href="/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                              <a href="/details/iacl" title="Children's Library">Children's Library</a>                          </div>
+                              <a href="/details/americana" title="American Libraries">American Libraries</a>                              <a href="/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                              <a href="/details/universallibrary" title="Universal Library">Universal Library</a>                              <a href="/details/opensource" title="Community Texts">Community Texts</a>                              <a href="/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                              <a href="/details/iacl" title="Children's Library">Children's Library</a>                              <a href="/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                          </div>
 
                         
                         
@@ -84,7 +84,7 @@
             
             <div class="linx">
             <h5 class="hidden-xs">&nbsp;</h5>
-                          </div>
+                              <a href="/details/sciencespo" title="Bibliothèque de Sciences Po">Bibliothèque de Sciences Po</a>                              <a href="/details/autores" title="Autores">Autores</a>                          </div>
 
                         
                         
@@ -176,7 +176,7 @@
             
             <div class="linx">
             <h5 class="hidden-xs">&nbsp;</h5>
-                              <a href="/details/radioprograms" title="Radio Programs">Radio Programs</a>                              <a href="/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                          </div>
+                              <a href="/details/radioprograms" title="Radio Programs">Radio Programs</a>                              <a href="/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                              <a href="/details/piratepartiesinternational" title="Pirate Parties International">Pirate Parties International</a>                          </div>
 
                         
                         
@@ -206,8 +206,8 @@
                     <div class="col-sm-2 col-xs-7 col-sm-push-2">
             
             <div class="linx">
-            <h5>Top</h5>
-                              <a href="/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a>                              <a href="/details/softwaresites" title="Software Sites">Software Sites</a>                              <a href="/details/tucows" title="Tucows Software Library">Tucows Software Library</a>                              <a href="/details/cdbbsarchive" title="Shareware CD">Shareware CD</a>                              <a href="/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a>                              <a href="/details/library_magnavox_odyssey2" title="Magnavox Odyssey 2">Magnavox Odyssey 2</a>                              <a href="/details/bally_astrocade_library" title="Bally Astrocade">Bally Astrocade</a>                          </div>
+            <h5>&nbsp;</h5>
+                          </div>
 
                         
                         
@@ -222,7 +222,7 @@
             
             <div class="linx">
             <h5 class="hidden-xs">&nbsp;</h5>
-                              <a href="/details/vintagesoftware" title="Vintage Software">Vintage Software</a>                              <a href="/details/atari_2600_library" title="Atari 2600">Atari 2600</a>                              <a href="/details/open_source_software" title="Community Software">Community Software</a>                              <a href="/details/vectrex" title="Vectrex">Vectrex</a>                              <a href="/details/sega_genesis_library" title="Sega Genesis">Sega Genesis</a>                              <a href="/details/gamegear_library" title="Sega Game Gear">Sega Game Gear</a>                              <a href="/details/atari_7800_library" title="Atari 7800">Atari 7800</a>                          </div>
+                          </div>
 
                         
                         
@@ -342,7 +342,7 @@
 
               
                       <li class="dropdown dropdown-ia pull-right">
-              <a id="beta" href="/services/exit.php" _target="top" data-target="#feedback-modal" onclick="return AJS.modal_beta(this,{feedback_only:false})" data-toggle="tooltip" data-placement="bottom" data-container="body" title="Welcome to our beta site!  Give us feedback or exit this beta."><span class="iconochive-beta"></span></a>
+              <a id="beta" href="/services/exit.php" _target="top" data-target="#feedback-modal" onclick="return AJS.modal_beta(this,{feedback_only:false})" data-toggle="tooltip" data-placement="bottom" data-container="body" title="Welcome to our new site!  Give us feedback or exit to classic."><span class="iconochive-exit"></span></a>
             </li>
                           
               
@@ -364,11 +364,13 @@
 
       
       
+
+            
+
       <!-- Begin page content -->
       <div class="container container-ia">
         <a href="#maincontent" class="hidden-for-screen-readers">Skip to main content</a>
         
-      
           <div style="margin-left:20px; margin-right:20px; text-align:center; font: bold 9pt Arial, Helvetica, sans-serif;">The item is not available due to issues with the item's content.<br/>
 If you would like to report this problem as an error report,
  you may do so <a href="/report-new.php?identifier=blackythecrow_1312_librivox&referer=http://archive.org/details/blackythecrow_1312_librivox">here</a>.<br/><br/></div>
@@ -376,108 +378,48 @@ If you would like to report this problem as an error report,
     </div><!--/#wrap-->
         
     <!-- Timing ...
-     rendered on: www10.us.archive.org
- seconds diff sec                message   stack(file:line:function)
+     rendered on: www28.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
 =========================================================
-  0.0000   0.0000          petabox start   usr/local/petabox/www/sf/details.php:15:require_once
+  0.0000   0.0000         petabox start   usr/local/petabox/www/sf/details.php:17:require_once
                                              |setup.inc:26:require_once
-                                             |www/common/setup.php:294:log
-  0.0073   0.0073       call get_redis()   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:193:getItem
+                                             |www/common/setup.php:329:log
+  0.0024   0.0024      call get_redis()   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:195:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1301:log
-  0.0139   0.0066       redis_read start   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:193:getItem
+  0.0107   0.0083      redis_read start   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:195:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1400:log
-  0.0181   0.0042      redis_read finish   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:193:getItem
+  0.0132   0.0025     redis_read finish   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:195:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1405:log
-  0.0187   0.0006           locate start   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:61:parseMetadata
-                                             |Item.inc:92:get_obj
-                                             |Metadata.inc:192:get_json_obj
-                                             |Metadata.inc:1566:fill_cache
-                                             |Metadata.inc:2015:locateUDP
-                                             |Locator.inc:67:log
-  0.0205   0.0018          locate finish   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:61:parseMetadata
-                                             |Item.inc:92:get_obj
-                                             |Metadata.inc:192:get_json_obj
-                                             |Metadata.inc:1566:fill_cache
-                                             |Metadata.inc:2015:locateUDP
-                                             |Locator.inc:195:log
-  0.0228   0.0024     meta_xml_get start   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:61:parseMetadata
-                                             |Item.inc:92:get_obj
-                                             |Metadata.inc:192:get_json_obj
-                                             |Metadata.inc:1566:fill_cache
-                                             |Metadata.inc:2141:log
-  0.0562   0.0333    meta_xml_get finish   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:61:parseMetadata
-                                             |Item.inc:92:get_obj
-                                             |Metadata.inc:192:get_json_obj
-                                             |Metadata.inc:1566:fill_cache
-                                             |Metadata.inc:2155:log
-  0.0564   0.0002    meta_xml_read start   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:61:parseMetadata
-                                             |Item.inc:92:get_obj
-                                             |Metadata.inc:192:get_json_obj
-                                             |Metadata.inc:1566:fill_cache
-                                             |Metadata.inc:2191:xml_to_json
-                                             |Metadata.inc:3216:log
-  0.0567   0.0003   meta_xml_read finish   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:61:parseMetadata
-                                             |Item.inc:92:get_obj
-                                             |Metadata.inc:192:get_json_obj
-                                             |Metadata.inc:1566:fill_cache
-                                             |Metadata.inc:2191:xml_to_json
-                                             |Metadata.inc:3495:log
-  0.0676   0.0109      redis_write start   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:61:parseMetadata
-                                             |Item.inc:92:get_obj
-                                             |Metadata.inc:192:get_json_obj
-                                             |Metadata.inc:1566:fill_cache
-                                             |Metadata.inc:2332:log
-  0.0690   0.0014     redis_write finish   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:61:parseMetadata
-                                             |Item.inc:92:get_obj
-                                             |Metadata.inc:192:get_json_obj
-                                             |Metadata.inc:1566:fill_cache
-                                             |Metadata.inc:2338:log
-  0.0850   0.0160    begin session_start   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:247:exitItemNotFetched404
+  0.0390   0.0258   begin session_start   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:249:exitItemNotFetched404
                                              |common/Error.inc:56:head
-                                             |Nav.inc:76:__construct
-                                             |Nav.inc:208:session_start
+                                             |Nav.inc:71:__construct
+                                             |Nav.inc:222:session_start
                                              |Cookies.inc:61:log
-  0.0852   0.0003     done session_start   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:247:exitItemNotFetched404
+  0.0394   0.0004    done session_start   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:249:exitItemNotFetched404
                                              |common/Error.inc:56:head
-                                             |Nav.inc:76:__construct
-                                             |Nav.inc:208:session_start
+                                             |Nav.inc:71:__construct
+                                             |Nav.inc:222:session_start
                                              |Cookies.inc:67:log
-  0.0947   0.0095               bug dump   usr/local/petabox/www/sf/details.php:74:getItem
-                                             |details.php:247:exitItemNotFetched404
+  0.0469   0.0075              bug dump   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:249:exitItemNotFetched404
                                              |common/Error.inc:69:fatal
-                                             |setup.php:90:footer
-                                             |setup.php:147:footer
-                                             |Nav.inc:2575:dump
+                                             |setup.php:123:footer
+                                             |setup.php:180:footer
+                                             |Nav.inc:2665:dump
                                              |Bug.inc:115:log
     -->
     <script>
@@ -487,9 +429,9 @@ If you would like to report this problem as an error report,
 if(window.archive_analytics) {
   var v=window.archive_analytics.values;
   v['cache_bust']=Math.random();
-  v['server_ms']=94;
-  v['server_name']="www10.us.archive.org";
-          v['ui3']=1429095082;
+  v['server_ms']=46;
+  v['server_name']="www28.us.archive.org";
+            v['ui3']=1430815556;
     v['service']= (v['ui3'] ? 'ao_2' : 'ao');
   }
 </script>
