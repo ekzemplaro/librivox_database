@@ -8,14 +8,14 @@
     
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <script src="//archive.org/includes/jquery-1.10.2.min.js" type="text/javascript"></script>
-    <script src="//archive.org/includes/analytics.js?v=65955" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=66342" type="text/javascript"></script>
     <script src="//archive.org/includes/bootstrap.min.js" type="text/javascript"></script>
-    <script src="/includes/archive.js?v=65955" type="text/javascript"></script>
-    <link href="//archive.org/includes/archive.min.css?v=65955" rel="stylesheet" media="screen" type="text/css"/>
+    <script src="/includes/archive.js?v=66342" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.min.css?v=66342" rel="stylesheet" type="text/css"/>
     <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
       </head>
   <body class="navia ">
-      
+    
     <!-- Wraps all page content -->
     <div id="wrap">
       
@@ -25,7 +25,7 @@
         <div class="row toprow web" style="max-width:1000px;margin:auto;">
           <div class="col-xs-12">
             <div class="wayback-txt">
-              Search the history of over 456 billion              pages on the Internet.
+              Search the history of over 479 billion              pages on the Internet.
             </div>
             <div class="roundbox7 wayback-main">
               <div class="row">
@@ -51,7 +51,7 @@
             
             <div class="linx">
               <h5>Featured</h5>
-              <a href="/details/texts"><span class="iconochive-texts"></span> All Texts</a>
+              <a href="https://archive.org/details/texts"><span class="iconochive-texts"></span> All Texts</a>
               <a href="/search.php?query=mediatype:texts&sort=-publicdate"><span class="iconochive-latest"></span> This Just In</a>
                               <a href="/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a>                              <a href="/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a>                              <a href="/details/genealogy" title="Genealogy">Genealogy</a>                              <a href="/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a>                              <a href="/details/additional_collections" title="Additional Collections">Additional Collections</a>                          </div>
 
@@ -84,7 +84,7 @@
             
             <div class="linx">
             <h5 class="hidden-xs">&nbsp;</h5>
-                              <a href="/details/sciencespo" title="Bibliothèque de Sciences Po">Bibliothèque de Sciences Po</a>                              <a href="/details/autores" title="Autores">Autores</a>                          </div>
+                          </div>
 
                         
                         
@@ -99,7 +99,7 @@
             
             <div class="linx">
               <h5>Featured</h5>
-              <a href="/details/movies"><span class="iconochive-movies"></span> All Video</a>
+              <a href="https://archive.org/details/movies"><span class="iconochive-movies"></span> All Video</a>
               <a href="/search.php?query=mediatype:movies&sort=-publicdate"><span class="iconochive-latest"></span> This Just In</a>
                               <a href="/details/prelinger" title="Prelinger Archives">Prelinger Archives</a>                              <a href="/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a>                              <a href="/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a>                              <a href="/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a>                          </div>
 
@@ -145,7 +145,7 @@
             
             <div class="linx">
               <h5>Featured</h5>
-              <a href="/details/audio"><span class="iconochive-audio"></span> All Audio</a>
+              <a href="https://archive.org/details/audio"><span class="iconochive-audio"></span> All Audio</a>
               <a href="/search.php?query=mediatype:audio&sort=-publicdate"><span class="iconochive-latest"></span> This Just In</a>
                               <a href="/details/GratefulDead" title="Grateful Dead">Grateful Dead</a>                              <a href="/details/netlabels" title="Netlabels">Netlabels</a>                              <a href="/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a>                              <a href="/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a>                          </div>
 
@@ -176,7 +176,7 @@
             
             <div class="linx">
             <h5 class="hidden-xs">&nbsp;</h5>
-                              <a href="/details/radioprograms" title="Radio Programs">Radio Programs</a>                              <a href="/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                              <a href="/details/piratepartiesinternational" title="Pirate Parties International">Pirate Parties International</a>                          </div>
+                              <a href="/details/radioprograms" title="Radio Programs">Radio Programs</a>                              <a href="/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                              <a href="/details/liquidfrequencytest" title="Liquid Frequency Test">Liquid Frequency Test</a>                              <a href="/details/musicforthemountain" title="Music for the Mountain">Music for the Mountain</a>                          </div>
 
                         
                         
@@ -191,7 +191,7 @@
             
             <div class="linx">
               <h5>Featured</h5>
-              <a href="/details/software"><span class="iconochive-software"></span> All Software</a>
+              <a href="https://archive.org/details/software"><span class="iconochive-software"></span> All Software</a>
               <a href="/search.php?query=mediatype:software&sort=-publicdate"><span class="iconochive-latest"></span> This Just In</a>
                               <a href="/details/tosec" title="Old School Emulation">Old School Emulation</a>                              <a href="/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a>                              <a href="/details/historicalsoftware" title="Historical Software">Historical Software</a>                              <a href="/details/classicpcgames" title="Classic PC Games">Classic PC Games</a>                              <a href="/details/softwarelibrary" title="Software Library">Software Library</a>                          </div>
 
@@ -206,8 +206,8 @@
                     <div class="col-sm-2 col-xs-7 col-sm-push-2">
             
             <div class="linx">
-            <h5>&nbsp;</h5>
-                          </div>
+            <h5>Top</h5>
+                              <a href="/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a>                              <a href="/details/softwaresites" title="Software Sites">Software Sites</a>                              <a href="/details/tucows" title="Tucows Software Library">Tucows Software Library</a>                              <a href="/details/cdbbsarchive" title="Shareware CD">Shareware CD</a>                              <a href="/details/open_source_software" title="Community Software">Community Software</a>                              <a href="/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a>                              <a href="/details/library_magnavox_odyssey2" title="Magnavox Odyssey 2">Magnavox Odyssey 2</a>                          </div>
 
                         
                         
@@ -222,7 +222,7 @@
             
             <div class="linx">
             <h5 class="hidden-xs">&nbsp;</h5>
-                          </div>
+                              <a href="/details/vintagesoftware" title="Vintage Software">Vintage Software</a>                              <a href="/details/bally_astrocade_library" title="Bally Astrocade">Bally Astrocade</a>                              <a href="/details/atari_2600_library" title="Atari 2600">Atari 2600</a>                              <a href="/details/vectrex" title="Vectrex">Vectrex</a>                              <a href="/details/sega_genesis_library" title="Sega Genesis">Sega Genesis</a>                              <a href="/details/gamegear_library" title="Sega Game Gear">Sega Game Gear</a>                              <a href="/details/atari_7800_library" title="Atari 7800">Atari 7800</a>                          </div>
 
                         
                         
@@ -237,7 +237,7 @@
             
             <div class="linx">
               <h5>Featured</h5>
-              <a href="/details/image"><span class="iconochive-image"></span> All Image</a>
+              <a href="https://archive.org/details/image"><span class="iconochive-image"></span> All Image</a>
               <a href="/search.php?query=mediatype:image&sort=-publicdate"><span class="iconochive-latest"></span> This Just In</a>
                               <a href="/details/flickrcommons" title="Flickr Commons">Flickr Commons</a>                              <a href="/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a>                              <a href="/details/coverartarchive" title="Cover Art">Cover Art</a>                              <a href="/details/maps_usgs" title="USGS Maps">USGS Maps</a>                          </div>
 
@@ -290,22 +290,22 @@
           </form>
           
                       <li class="dropdown dropdown-ia pull-left">
-              <a title="Web" class="navia-link web" data-top-kind="web" href="/web/" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-web"></span></a>
+              <a title="Web" class="navia-link web" data-top-kind="web" href="https://archive.org/web/" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-web"></span></a>
             </li>
                       <li class="dropdown dropdown-ia pull-left">
-              <a title="Texts" class="navia-link texts" data-top-kind="texts" href="/details/texts" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-texts"></span></a>
+              <a title="Texts" class="navia-link texts" data-top-kind="texts" href="https://archive.org/details/texts" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-texts"></span></a>
             </li>
                       <li class="dropdown dropdown-ia pull-left">
-              <a title="Video" class="navia-link movies" data-top-kind="movies" href="/details/movies" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-movies"></span></a>
+              <a title="Video" class="navia-link movies" data-top-kind="movies" href="https://archive.org/details/movies" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-movies"></span></a>
             </li>
                       <li class="dropdown dropdown-ia pull-left">
-              <a title="Audio" class="navia-link audio" data-top-kind="audio" href="/details/audio" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-audio"></span></a>
+              <a title="Audio" class="navia-link audio" data-top-kind="audio" href="https://archive.org/details/audio" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-audio"></span></a>
             </li>
                       <li class="dropdown dropdown-ia pull-left">
-              <a title="Software" class="navia-link software" data-top-kind="software" href="/details/software" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-software"></span></a>
+              <a title="Software" class="navia-link software" data-top-kind="software" href="https://archive.org/details/software" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-software"></span></a>
             </li>
                       <li class="dropdown dropdown-ia pull-left rightmost">
-              <a title="Image" class="navia-link image" data-top-kind="image" href="/details/image" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-image"></span></a>
+              <a title="Image" class="navia-link image" data-top-kind="image" href="https://archive.org/details/image" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-image"></span></a>
             </li>
                         
           <li class="navbar-brand-li"><a class="navbar-brand" href="https://archive.org/" target="_top"><span class="iconochive-logo"></span></a></li>
@@ -321,17 +321,17 @@
                 </button>
                 <div class="navbar-collapse collapse" id="nav-hamburger-menu" aria-expanded="false">
                   <ul class="nav navbar-nav">
-                    <li><a target="_top" href="/about/">ABOUT</a></li>
-                    <li><a target="_top" href="/about/contact.php">CONTACT</a></li>
+                    <li><a target="_top" href="https://archive.org/about/">ABOUT</a></li>
+                    <li><a target="_top" href="https://archive.org/about/contact.php">CONTACT</a></li>
                     <li><a target="_top" href="//blog.archive.org">BLOG</a></li>
-                    <li><a target="_top" href="/projects">PROJECTS</a></li>
+                    <li><a target="_top" href="https://archive.org/projects">PROJECTS</a></li>
                     <!-- <li><a target="_top" href="#coming-soon">SERVICES</a></li> -->
-                    <li><a target="_top" href="/donate" class="donate"><span class="iconochive-heart"></span>&nbsp;DONATE</a></li>
-                    <li><a target="_top" href="/help">HELP</a></li>
-                    <li><a target="_top" href="/about/terms.php">TERMS</a></li>
-                    <li><a target="_top" href="/about/jobs.php">JOBS</a></li>
-                    <li><a target="_top" href="/about/volunteerpositions.php">VOLUNTEER</a></li>
-                    <li><a target="_top" href="/about/bios.php">PEOPLE</a></li>
+                    <li><a target="_top" href="https://archive.org/donate" class="donate"><span class="iconochive-heart"></span>&nbsp;DONATE</a></li>
+                    <li><a target="_top" href="https://archive.org/help">HELP</a></li>
+                    <li><a target="_top" href="https://archive.org/about/terms.php">TERMS</a></li>
+                    <li><a target="_top" href="https://archive.org/about/jobs.php">JOBS</a></li>
+                    <li><a target="_top" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+                    <li><a target="_top" href="https://archive.org/about/bios.php">PEOPLE</a></li>
                   </ul>
                 </div>
                 <!-- /.navbar-collapse -->
@@ -352,7 +352,7 @@
 
 
           <li class="dropdown dropdown-ia pull-right">
-            <a href="/create" style="padding-left:0" _target="top" data-toggle="tooltip" data-placement="bottom" title="Upload"><span class="iconochive-upload"></span></a>
+            <a href="https://archive.org/create" style="padding-left:0" _target="top" data-toggle="tooltip" data-placement="bottom" title="Upload"><span class="iconochive-upload"></span></a>
           </li>
               
                       <li id="nav-search" class="dropdown dropdown-ia pull-right leftmost"><a href="https://archive.org/search.php" title="Search" data-toggle="tooltip" data-placement="bottom" onclick="return AJS.search(this)"><span class="iconochive-search"></span></a></li>
@@ -378,48 +378,48 @@ If you would like to report this problem as an error report,
     </div><!--/#wrap-->
         
     <!-- Timing ...
-     rendered on: www28.us.archive.org
+     rendered on: www30.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
   0.0000   0.0000         petabox start   usr/local/petabox/www/sf/details.php:17:require_once
                                              |setup.inc:26:require_once
-                                             |www/common/setup.php:329:log
-  0.0024   0.0024      call get_redis()   usr/local/petabox/www/sf/details.php:76:getItem
-                                             |details.php:195:getItem
+                                             |www/common/setup.php:328:log
+  0.0011   0.0011      call get_redis()   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:194:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1301:log
-  0.0107   0.0083      redis_read start   usr/local/petabox/www/sf/details.php:76:getItem
-                                             |details.php:195:getItem
+  0.0076   0.0064      redis_read start   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:194:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1400:log
-  0.0132   0.0025     redis_read finish   usr/local/petabox/www/sf/details.php:76:getItem
-                                             |details.php:195:getItem
+  0.0107   0.0031     redis_read finish   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:194:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1405:log
-  0.0390   0.0258   begin session_start   usr/local/petabox/www/sf/details.php:76:getItem
-                                             |details.php:249:exitItemNotFetched404
-                                             |common/Error.inc:56:head
-                                             |Nav.inc:71:__construct
-                                             |Nav.inc:222:session_start
+  0.0158   0.0051   begin session_start   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:248:exitItemNotFetched404
+                                             |common/Error.inc:50:head
+                                             |Nav.inc:52:__construct
+                                             |Nav.inc:162:session_start
                                              |Cookies.inc:61:log
-  0.0394   0.0004    done session_start   usr/local/petabox/www/sf/details.php:76:getItem
-                                             |details.php:249:exitItemNotFetched404
-                                             |common/Error.inc:56:head
-                                             |Nav.inc:71:__construct
-                                             |Nav.inc:222:session_start
+  0.0161   0.0003    done session_start   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:248:exitItemNotFetched404
+                                             |common/Error.inc:50:head
+                                             |Nav.inc:52:__construct
+                                             |Nav.inc:162:session_start
                                              |Cookies.inc:67:log
-  0.0469   0.0075              bug dump   usr/local/petabox/www/sf/details.php:76:getItem
-                                             |details.php:249:exitItemNotFetched404
-                                             |common/Error.inc:69:fatal
-                                             |setup.php:123:footer
-                                             |setup.php:180:footer
-                                             |Nav.inc:2665:dump
+  0.0255   0.0094              bug dump   usr/local/petabox/www/sf/details.php:76:getItem
+                                             |details.php:248:exitItemNotFetched404
+                                             |common/Error.inc:63:fatal
+                                             |setup.php:124:footer
+                                             |setup.php:181:footer
+                                             |Nav.inc:2115:dump
                                              |Bug.inc:115:log
     -->
     <script>
@@ -429,11 +429,11 @@ If you would like to report this problem as an error report,
 if(window.archive_analytics) {
   var v=window.archive_analytics.values;
   v['cache_bust']=Math.random();
-  v['server_ms']=46;
-  v['server_name']="www28.us.archive.org";
-            v['ui3']=1430815556;
-    v['service']= (v['ui3'] ? 'ao_2' : 'ao');
-  }
+  v['server_ms']=25;
+  v['server_name']="www30.us.archive.org";
+  v['service']='ao_2';
+  v['ui3']=1433321159;
+      }
 </script>
       </div>
   </body>
