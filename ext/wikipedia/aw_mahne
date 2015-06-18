@@ -1,1 +1,3 @@
-{print $1"\t"$NF"\tmahne"}
+#{print $1"\t"$NF"\tmahne"}
+{print $1"\t"3"\tmahne"}
+#{print $1"\t"0"\tmahne"}
