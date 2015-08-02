@@ -8,10 +8,10 @@
     
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <script src="//archive.org/includes/jquery-1.10.2.min.js" type="text/javascript"></script>
-    <script src="//archive.org/includes/analytics.js?v=565293f" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=647d3cf" type="text/javascript"></script>
     <script src="//archive.org/includes/bootstrap.min.js" type="text/javascript"></script>
-    <script src="/includes/archive.js?v=565293f" type="text/javascript"></script>
-    <link href="//archive.org/includes/archive.min.css?v=565293f" rel="stylesheet" type="text/css"/>
+    <script src="/includes/archive.js?v=647d3cf" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.min.css?v=647d3cf" rel="stylesheet" type="text/css"/>
     <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
       </head>
   <body class="navia ">
@@ -27,7 +27,7 @@
         <div class="row toprow web" style="max-width:1000px;margin:auto;">
           <div class="col-xs-12">
             <div class="wayback-txt">
-              Search the history of over 485 billion              pages on the Internet.
+              Search the history of over 430 billion              pages on the Internet.
             </div>
             <div class="roundbox7 wayback-main">
               <div class="row">
@@ -86,7 +86,7 @@
             
             <div class="linx">
             <h5 class="hidden-xs">&nbsp;</h5>
-                              <a href="https://archive.org/details/presidentialmuseumandlibrary" title="Presidential Museum and Library, Malacañan Palace">Presidential Museum and Library, Malacañan Palace</a>                          </div>
+                          </div>
 
                         
                         
@@ -208,8 +208,8 @@
                     <div class="col-sm-2 col-xs-7 col-sm-push-2">
             
             <div class="linx">
-            <h5>Top</h5>
-                              <a href="https://archive.org/details/businesscase" title="Business Case">Business Case</a>                          </div>
+            <h5>&nbsp;</h5>
+                          </div>
 
                         
                         
@@ -380,44 +380,44 @@ If you would like to report this problem as an error report,
     </div><!--/#wrap-->
         
     <!-- Timing ...
-     rendered on: www27.us.archive.org
+     rendered on: www13.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
-  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/details.php:17:require_once
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/details.php:18:require_once
                                              |setup.inc:26:require_once
                                              |www/common/setup.php:328:log
-  0.0017   0.0017      call get_redis()   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:194:getItem
+  0.0032   0.0032      call get_redis()   var/cache/petabox/petabox/www/sf/details.php:77:getItem
+                                             |details.php:195:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1301:log
-  0.0117   0.0100      redis_read start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:194:getItem
+  0.0107   0.0075      redis_read start   var/cache/petabox/petabox/www/sf/details.php:77:getItem
+                                             |details.php:195:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1400:log
-  0.0177   0.0060     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:194:getItem
+  0.0175   0.0068     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:77:getItem
+                                             |details.php:195:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1405:log
-  0.0212   0.0035   begin session_start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:235:exitItemNotFetched404
+  0.0227   0.0052   begin session_start   var/cache/petabox/petabox/www/sf/details.php:77:getItem
+                                             |details.php:236:exitItemNotFetched404
                                              |common/Error.inc:50:head
                                              |Nav.inc:52:__construct
                                              |Nav.inc:162:session_start
                                              |Cookies.inc:61:log
-  0.0214   0.0003    done session_start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:235:exitItemNotFetched404
+  0.0230   0.0002    done session_start   var/cache/petabox/petabox/www/sf/details.php:77:getItem
+                                             |details.php:236:exitItemNotFetched404
                                              |common/Error.inc:50:head
                                              |Nav.inc:52:__construct
                                              |Nav.inc:162:session_start
                                              |Cookies.inc:67:log
-  0.0288   0.0074              bug dump   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:235:exitItemNotFetched404
+  0.0413   0.0183              bug dump   var/cache/petabox/petabox/www/sf/details.php:77:getItem
+                                             |details.php:236:exitItemNotFetched404
                                              |common/Error.inc:63:fatal
                                              |setup.php:124:footer
                                              |setup.php:181:footer
@@ -431,10 +431,10 @@ If you would like to report this problem as an error report,
 if(window.archive_analytics) {
   var v=window.archive_analytics.values;
   v['cache_bust']=Math.random();
-  v['server_ms']=28;
-  v['server_name']="www27.us.archive.org";
+  v['server_ms']=41;
+  v['server_name']="www13.us.archive.org";
   v['service']='ao_2';
-  v['ui3']=1435826755;
+  v['ui3']=1438516613;
       }
 </script>
       </div>

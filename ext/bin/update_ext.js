@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	ext/bin/update_ext.js
 //
-//					Jan/24/2015
+//					Aug/02/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -57,7 +57,8 @@ function absent_number_check_proc (nn_max,data_aa,keys_number)
 	console.log ("nn_max = " + nn_max);
 
 //	var nn_min = nn_max - 4000;
-	var nn_min = 1000;
+//	var nn_min = 1000;
+	var nn_min = 1;
 
 	console.log ("nn_min = " + nn_min);
 

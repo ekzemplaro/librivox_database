@@ -1,7 +1,7 @@
 # ---------------------------------------------
 #	wiki.txt
 #
-#							Jun/11/2015
+#							Jul/19/2015
 #	
 #	-1 ---> Not checked yet
 #	0 ---> Checked. No link to & from Wikipedia
@@ -41,7 +41,6 @@ b100	3	TimoleonWash
 b177	3	TimoleonWash
 b693	3	TimoleonWash
 b1589	3	TimoleonWash
-b5169	2	TimoleonWash
 b7639	3	TimoleonWash
 # ---------------------------------------------
 b86	3	mahne
@@ -124,10 +123,10 @@ b1727	3	mahne
 # ---------------------------------------------
 # Edited on Apr/26/2015
 b1440	3	mahne
-b8367	2	mahne
-b4116	2	mahne
-b5924	2	mahne
-b8278	2	mahne
+b8367	3	mahne
+b4116	3	mahne
+b5924	3	mahne
+b8278	3	mahne
 # ---------------------------------------------
 b7540	3	TimoleonWash
 b3868	3	TimoleonWash
@@ -193,7 +192,7 @@ b9646	3	mahne
 b9435	3	mahne
 b9626	0	mahne
 b9530	0	mahne
-b9701	2	mahne
+b9701	3	mahne
 b9691	3	mahne
 b162	3	mahne
 b210	3	mahne
@@ -262,10 +261,10 @@ b1436	0	TimoleonWash
 b2850	0	TimoleonWash
 b6955	0	TimoleonWash
 # ---------------------------------------------
-b2464	2	TimoleonWash
-b382	2	TimoleonWash
-b7387	2	TimoleonWash
-b7872	2	TimoleonWash
+b2464	3	TimoleonWash
+b382	3	TimoleonWash
+b7387	3	TimoleonWash
+b7872	3	TimoleonWash
 # ---------------------------------------------
 b3390	3	TimoleonWash
 b6658	3	TimoleonWash
@@ -284,7 +283,7 @@ b214	3	mahne
 b9495	0	mahne
 b9631	0	mahne
 b9455	3	mahne
-b6016	2	mahne
+b6016	3	mahne
 b9756	0	mahne
 b8927	0	mahne
 b8689	0	mahne
