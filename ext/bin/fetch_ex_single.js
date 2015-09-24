@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	ext/bin/fetch_ex_single.js
 //
-//					Jan/24/2015
+//					Sep/24/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -12,18 +12,13 @@ var json_different_check = require ("./json_different_check");
 // [6]:
 exports.fetch_ex_single_proc = function (key_number)
 {
-	var url_head='https://librivox.org/api/feed/audiobooks/?id='
-	var url_tail='&extended=1&format=json'
-
 	var key = key_number.toString(10);
 
-	url = url_head + key + url_tail;
-
-	fetch_ex_single_exec_proc (url,key);
+	fetch_ex_single_exec_proc (key);
 }
 
 // ---------------------------------------------------------------
-function fetch_ex_single_exec_proc (url,key)
+function fetch_ex_single_exec_proc (key)
 {
 	var file_json = "ex_" + key + '.json';
 	var file_ft_json = "ft_" + key + '.json';
@@ -32,7 +27,18 @@ function fetch_ex_single_exec_proc (url,key)
 
 	var https = require('https');
 
-https.get(url, function(res) {
+	var path_head='/api/feed/audiobooks/?id='
+	var path_tail='&extended=1&format=json'
+
+	var path_aa = path_head + key + path_tail;
+	var options = {
+	host: 'librivox.org',
+	port: 443,
+	path: path_aa,
+	rejectUnauthorized: false,
+};
+
+https.get(options, function(res) {
 	var body = '';
 	res.setEncoding('utf8');
 	
