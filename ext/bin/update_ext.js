@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	ext/bin/update_ext.js
 //
-//					Sep25/2015
+//					Sep26/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -34,8 +34,8 @@ if (1 < json_str.length)
 	var key_max = keys_number[ll_keys - 1];
 	console.log ("key_max = " + key_max);
 
-//	for (var it=1;  it < 10; it++)
-	for (var it=1;  it < 210; it++)
+//	for (var it=1;  it < 210; it++)
+	for (var it=1;  it < 10; it++)
 		{
 		keys_number.push (key_max + it);
 		}
