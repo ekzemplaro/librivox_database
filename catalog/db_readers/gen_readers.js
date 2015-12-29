@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	gen_readers.js
 //
-//					Mar/22/2014
+//					Dec/27/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -57,15 +57,25 @@ function process01 (file_json_in)
 
 var json_str = fs.readFileSync (file_json_in);
 
+if (json_str.toString().substr (0,1) != '<')
+{
 if (5 < json_str.length)
 	{
+	try
+		{
 	var data_aa = JSON.parse (json_str);
 
 	if (! ("error" in data_aa))
 		{
 		var data_bb=readers_filter_proc (data_aa);
 		}
+		}
+	catch (e)
+		{
+		console.log ("*** error *** process01 ***");
+		}
 	}
+}
 
 	return	data_bb;
 }

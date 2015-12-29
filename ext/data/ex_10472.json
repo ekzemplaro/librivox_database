@@ -1,1 +1,136 @@
-{"books":{"14":{"id":"10472","title":"Parallel Lives of the Noble Greeks and Romans Vol. 4","description":"\n\nadd summary from first post just before cataloging","url_text_source":"https:\/\/archive.org\/details\/plutarchslives04plutuoft","language":"English","copyright_year":"1918","num_sections":"15","url_rss":"http:\/\/librivox.org\/rss\/10472","url_zip_file":"","url_project":"https:\/\/en.wikipedia.org\/wiki\/Parallel_Lives","url_librivox":"","url_other":null,"totaltime":"","totaltimesecs":0,"authors":[{"id":"13","first_name":"Lucius Mestrius","last_name":"Plutarchus","dob":"c. 46","dod":"c. 120"}],"url_iarchive":"","sections":[{"id":"357927","section_number":"1","title":"Alcibiades pt. 1","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357928","section_number":"2","title":"Alcibiades pt. 2","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357929","section_number":"3","title":"Alcibiades pt 3","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357930","section_number":"4","title":"Coriolanus pt 1","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357931","section_number":"5","title":"Coriolanus pt 2","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357932","section_number":"6","title":"Coriolanus pt 3","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357933","section_number":"7","title":"Comparison of Alcibiades & Coriolanus","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357934","section_number":"8","title":"Lysander pt 1","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357935","section_number":"9","title":"Lysander pt 2","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357936","section_number":"10","title":"Lysander pt 3","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357937","section_number":"11","title":"Sulla pt 1","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357938","section_number":"12","title":"Sulla pt 2","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357939","section_number":"13","title":"Sulla pt 3","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357940","section_number":"14","title":"Sulla pt 4","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"357941","section_number":"15","title":"Comparison of Lysander & Sulla","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]}],"genres":[{"id":"4","name":"Classics (Antiquity)"},{"id":"80","name":"Biography & Autobiography"},{"id":"113","name":"Antiquity"}],"translators":[{"id":"6588","first_name":" Bernadotte","last_name":"Perrin","dob":"1847","dod":"1920"}]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Tue,%2029%20Dec%202015%2011%3A24%3A04%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D10472%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Tue, 29 Dec 2015 11:24:04 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>

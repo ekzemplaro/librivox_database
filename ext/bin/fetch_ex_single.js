@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	ext/bin/fetch_ex_single.js
 //
-//					Sep/24/2015
+//					Dec/23/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -54,7 +54,16 @@ https.get(options, function(res) {
 		{
 		console.log ("*** different ***");
 		fs.writeFile (file_json,body);
+		try
+			{
 		var json_str_ft = convert_to_ft_proc (body);
+			}
+		catch (e)
+			{
+		console.log ("*** error ***");
+		console.log ("key = " + key);
+			}
+
 		fs.writeFile (file_ft_json,json_str_ft);
 		}
 	else

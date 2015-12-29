@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	merge_json.js
 //
-//					Nov/08/2013
+//					Dec/29/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -28,8 +28,18 @@ for (var it=0; it< lines_in.length; it++)
 	var json_str_in = fs.readFileSync (file_json_in);
 	if (1 < json_str_in.length)
 		{
+	if (json_str_in.toString().substr (0,3) != 'und')
+		{
+		try
+			{
 		var data_in = JSON.parse (json_str_in);
 		data_merged=merge_proc (data_merged,data_in);
+			}
+		catch (e)
+			{
+			console.log ("*** error ***" + lines_in[it]);
+			}
+		}
 		}
 		}
 	}

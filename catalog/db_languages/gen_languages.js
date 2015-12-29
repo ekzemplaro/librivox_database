@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	gen_languages.js
 //
-//					Jan/29/2015
+//					Dec/27/2015
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -57,7 +57,11 @@ function process01 (file_json_in)
 
 	var json_str = fs.readFileSync (file_json_in);
 
+	if (json_str.toString().substr (0,1) != '<')
+	{
 	if (5 < json_str.length)
+		{
+		try
 		{
 		var data_aa = JSON.parse (json_str);
 
@@ -66,6 +70,12 @@ function process01 (file_json_in)
 			language=filter_proc (data_aa);
 			}
 		}
+		catch (e)
+			{
+			console.log ("*** error *** process01 ***");
+			}
+		}
+	}
 
 	return	language;
 }
