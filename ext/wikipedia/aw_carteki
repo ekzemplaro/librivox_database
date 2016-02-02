@@ -1,0 +1,4 @@
+#{print $1"\t"$NF"\tcarteki"}
+{print $1"\t"3"\tcarteki"}
+#{print $1"\t"0"\tcarteki"}
+#{print $1"\t"2"\tcarteki"}
