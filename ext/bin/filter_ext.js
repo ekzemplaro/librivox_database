@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------
 //	filter_ext.js
 //
-//					Mar/28/2014
+//					Feb/07/2016
 //
 // ---------------------------------------------------------------
 var fs = require("fs");
@@ -42,7 +42,17 @@ function filter_proc (data_aa)
 //		console.log (data_aa.books[it].url_librivox);
 //		console.log (data_aa.books[it].url_iarchive);
 
-		var key = 'id_' + data_aa.books[it].id
+		var idx = data_aa.books[it].id
+		if (idx.length == 3)
+			{
+			idx = '0' + idx
+			}
+		else if (idx.length == 2)
+			{
+			idx = '00' + idx
+			}
+
+		var key = 'id_' + idx
 		var unit_aa = new Object ();
 		unit_aa['title'] = data_aa.books[it].title;
 		unit_aa['language'] = data_aa.books[it].language;

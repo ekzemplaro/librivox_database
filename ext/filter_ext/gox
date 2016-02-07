@@ -6,11 +6,11 @@
 #for id in {5000..8400}
 #for id in {3000..4999}
 #for id in {1000..2999}
-#for id in {1..999}
 #for id in {8200..8379}
 #for id in {8200..8399}
 #for id in {8000..8420}
-for id in {7000..8000}
+# for id in {7000..8000}
+for id in {1..999}
 do
 	json_in='../data/ex_'$id'.json'
 	json_out='ft_'$id'.json'

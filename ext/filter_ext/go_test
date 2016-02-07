@@ -1,1 +1,12 @@
-./filter_ext.js ../data/ex_8001.json ft_8001.json
+#
+#../bin/filter_ext.js ../data/ex_8001.json ft_8001.json
+#
+#../bin/filter_ext.js ../data/ex_47.json ft_47.json
+#../bin/filter_ext.js ../data/ex_97.json ft_97.json
+#../bin/filter_ext.js ../data/ex_99.json ft_99.json
+#../bin/filter_ext.js ../data/ex_479.json ft_479.json
+#
+for idx in '464' '486' '583' '667' '878' '893' '897' '906'
+do
+../bin/filter_ext.js '../data/ex_'$idx'.json' 'ft_'$idx'.json'
+done 
