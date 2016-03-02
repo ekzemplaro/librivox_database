@@ -8,10 +8,10 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <script src="//archive.org/includes/jquery-1.10.2.min.js" type="text/javascript"></script>
-    <script src="//archive.org/includes/analytics.js?v=2350078" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=554aedg" type="text/javascript"></script>
     <script src="//archive.org/includes/bootstrap.min.js" type="text/javascript"></script>
-    <script src="/includes/archive.js?v=2350078" type="text/javascript"></script>
-    <link href="//archive.org/includes/archive.min.css?v=2350078" rel="stylesheet" type="text/css"/>
+    <script src="/includes/archive.js?v=554aedg" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.min.css?v=554aedg" rel="stylesheet" type="text/css"/>
     <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
       </head>
   <body class="navia ">
@@ -29,7 +29,7 @@
                   <div class="row toprow web" style="max-width:1000px;margin:auto;">
                     <div class="col-xs-12">
                       <div class="wayback-txt">
-                        Search the history of over 464 billion                        pages on the Internet.
+                        Search the history of over 466 billion                        pages on the Internet.
                       </div>
                       <div class="roundbox7 wayback-main">
                         <div class="row">
@@ -68,7 +68,7 @@
                         
                           <div class="linx">
                             <h5>Top</h5>
-                                                          <a href="https://archive.org/details/americana" title="American Libraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a>                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                                                      </div>
+                                                          <a href="https://archive.org/details/americana" title="American Libraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                                                          <a href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a>                                                      </div>
 
                           
                                               </div><!--/.col-sm-2-->
@@ -163,7 +163,7 @@
                         
                           <div class="linx">
                             <h5 class="hidden-xs">&nbsp;</h5>
-                                                          <a href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a>                                                          <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                      </div>
+                                                          <a href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a>                                                          <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                          <a href="https://archive.org/details/transatlantic-poetry" title="Transatlantic Poetry">Transatlantic Poetry</a>                                                          <a href="https://archive.org/details/Dorsia" title="Dorsia">Dorsia</a>                                                          <a href="https://archive.org/details/JimBoyerBand" title="Jim Boyer Band">Jim Boyer Band</a>                                                          <a href="https://archive.org/details/SaveOurCity" title="Save Our City">Save Our City</a>                                                          <a href="https://archive.org/details/GRASS2MOUTH" title="GRASS2MOUTH">GRASS2MOUTH</a>                                                      </div>
 
                           
                                               </div><!--/.col-sm-2-->
@@ -351,43 +351,43 @@ If you would like to report this problem as an error report,
     </div><!--/#wrap-->
     
     <!-- Timing ...
-     rendered on: www26.us.archive.org
+     rendered on: www30.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
   0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/details.php:18:require
                                              |common/ia:55:require_once
                                              |setup.php:326:log
-  0.0033   0.0033      call get_redis()   var/cache/petabox/petabox/www/sf/details.php:76:getItem
+  0.0030   0.0030      call get_redis()   var/cache/petabox/petabox/www/sf/details.php:76:getItem
                                              |details.php:193:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1289:log
-  0.1325   0.1292      redis_read start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
+  0.0093   0.0063      redis_read start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
                                              |details.php:193:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1387:log
-  0.1735   0.0410     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:76:getItem
+  0.0119   0.0027     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:76:getItem
                                              |details.php:193:getItem
                                              |common/Item.inc:61:parseMetadata
                                              |Item.inc:92:get_obj
                                              |Metadata.inc:192:get_json_obj
                                              |Metadata.inc:1392:log
-  0.1900   0.0165   begin session_start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
+  0.0139   0.0020   begin session_start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
                                              |details.php:234:exitItemNotFetched404
                                              |common/Error.inc:50:head
                                              |Nav.inc:58:__construct
                                              |Nav.inc:138:session_start
                                              |Cookies.inc:61:log
-  0.1904   0.0004    done session_start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
+  0.0142   0.0003    done session_start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
                                              |details.php:234:exitItemNotFetched404
                                              |common/Error.inc:50:head
                                              |Nav.inc:58:__construct
                                              |Nav.inc:138:session_start
                                              |Cookies.inc:67:log
-  0.2295   0.0391              bug dump   var/cache/petabox/petabox/www/sf/details.php:76:getItem
+  0.0208   0.0066              bug dump   var/cache/petabox/petabox/www/sf/details.php:76:getItem
                                              |details.php:234:exitItemNotFetched404
                                              |common/Error.inc:63:fatal
                                              |setup.php:92:footer
@@ -403,10 +403,10 @@ if (window.archive_analytics) {
   var vs = window.archive_analytics.get_data_packets();
   for (var i in vs) {
     vs[i]['cache_bust']=Math.random();
-    vs[i]['server_ms']=229;
-    vs[i]['server_name']="www26.us.archive.org";
+    vs[i]['server_ms']=20;
+    vs[i]['server_name']="www30.us.archive.org";
     vs[i]['service']='ao_2';
-    vs[i]['ui3']=1454807296;
+    vs[i]['ui3']=1456802656;
               }
   if(window.flights){
     window.flights.init();

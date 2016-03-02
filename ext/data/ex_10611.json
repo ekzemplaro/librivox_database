@@ -1,1 +1,136 @@
-{"books":{"53":{"id":"10611","title":"Children of the Night","description":"This is a collection of poems by Edwin Arlington Robinson, titled the Children of the Night, and including, besides the famous title poem, several ballads, and poems dedicated to other authors and poets. - Summary by Carolin","url_text_source":"http:\/\/www.gutenberg.org\/ebooks\/313","language":"English","copyright_year":"1905","num_sections":"54","url_rss":"http:\/\/librivox.org\/rss\/10611","url_zip_file":"","url_project":"","url_librivox":"","url_other":null,"totaltime":"","totaltimesecs":0,"authors":[{"id":"591","first_name":"Edwin Arlington","last_name":"Robinson","dob":"1869","dod":"1935"}],"url_iarchive":"","sections":[{"id":"361803","section_number":"1","title":"The Children of the Night","listen_url":"https:\/\/librivox.org\/uploads\/carolin\/childrenofthenight_01_robinson_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10344","display_name":"Jacquelyn Bengfort"}]},{"id":"361804","section_number":"2","title":"Three Quatrains","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361805","section_number":"3","title":"The World","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361806","section_number":"4","title":"An Old Story","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361807","section_number":"5","title":"Ballade of a Ship","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361808","section_number":"6","title":"Ballade by the Fire","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361809","section_number":"7","title":"Ballade of Broken Flutes","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361810","section_number":"8","title":"Ballade of Dead Friends","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361811","section_number":"9","title":"Her Eyes","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361812","section_number":"10","title":"Two Men","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361813","section_number":"11","title":"Villanelle of Change","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361814","section_number":"12","title":"John Evereldown","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361815","section_number":"13","title":"Luke Havergal","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361816","section_number":"14","title":"The House on the Hill","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361817","section_number":"15","title":"Richard Cory","listen_url":"https:\/\/librivox.org\/uploads\/carolin\/childrenofthenight_15_robinson_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10344","display_name":"Jacquelyn Bengfort"}]},{"id":"361818","section_number":"16","title":"Two Octaves","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361819","section_number":"17","title":"Calvary","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361820","section_number":"18","title":"Dear Friends","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361821","section_number":"19","title":"The Story of the Ashes and the Flame","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361822","section_number":"20","title":"For Some Poems by Matthew Arnold","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361823","section_number":"21","title":"Amaryllis","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361824","section_number":"22","title":"Kosmos","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361825","section_number":"23","title":"Zola","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361826","section_number":"24","title":"The Pity of the Leaves","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361827","section_number":"25","title":"Aaron Stark","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361828","section_number":"26","title":"The Garden","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361829","section_number":"27","title":"Cliff Klingenhagen","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361830","section_number":"28","title":"Charles Carville's Eyes","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361831","section_number":"29","title":"The Dead Village","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361832","section_number":"30","title":"Boston","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361833","section_number":"31","title":"Two Sonnets","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361834","section_number":"32","title":"The Clerks","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361835","section_number":"33","title":"Fleming Helphenstine","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361836","section_number":"34","title":"For a Book by Thomas Hardy","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361837","section_number":"35","title":"Thomas Hood","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361838","section_number":"36","title":"The Miracle","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361839","section_number":"37","title":"Horace to Leuconoe","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361840","section_number":"38","title":"Reuben Bright","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361841","section_number":"39","title":"The Altar","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361842","section_number":"40","title":"The Tavern","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361843","section_number":"41","title":"Sonnet","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361844","section_number":"42","title":"George Crabbe","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361845","section_number":"43","title":"Credo","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361846","section_number":"44","title":"On the Night of a Friend's Wedding","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361847","section_number":"45","title":"Sonnet","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361848","section_number":"46","title":"Verlaine","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361849","section_number":"47","title":"Sonnet","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361850","section_number":"48","title":"Supremacy","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361851","section_number":"49","title":"The Night Before","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361852","section_number":"50","title":"Walt Whitman","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361853","section_number":"51","title":"The Chorus of Old Men in 'Aegeus'","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361854","section_number":"52","title":"The Wilderness","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361855","section_number":"53","title":"Octaves","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"361856","section_number":"54","title":"Two Quatrains","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]}],"genres":[{"id":"25","name":"Poetry"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Wed,%2002%20Mar%202016%2003%3A24%3A05%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D10611%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Wed, 02 Mar 2016 03:24:05 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>

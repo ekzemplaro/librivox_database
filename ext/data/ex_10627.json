@@ -1,1 +1,136 @@
-{"books":{"17":{"id":"10627","title":"Pagan Papers","description":"We join our thoughtful author on a dreamy stroll at dusk through the English countryside, and listen to his nonchalant, slightly scattered musings on the human condition. What to do about relatives who are in the way? What is the proper punishment for a bookbinder who takes too long at his job? Are free libraries an unmixed blessing? Can nothing make it worth our while not to quarrel with our fellows? Which is more desirable: memory or forgetfulness? Are we irrevocably cut off from the natural world, or might there still be a way back to it? All these questions, and more, are explored within. Published in 1898, this collection of essays was Kenneth Grahame's first complied work. His wry and witty humor and examination of life, which would later be celebrated in his famous novel, The Wind in the Willows, shines through here.  - Summary by Mary Kay and Goodreads","url_text_source":"http:\/\/www.gutenberg.org\/ebooks\/5319","language":"English","copyright_year":"1893","num_sections":"18","url_rss":"http:\/\/librivox.org\/rss\/10627","url_zip_file":"","url_project":"","url_librivox":"","url_other":null,"totaltime":"","totaltimesecs":0,"authors":[{"id":"1222","first_name":"Kenneth","last_name":"Grahame","dob":"1859","dod":"1932"}],"url_iarchive":"","sections":[{"id":"362196","section_number":"1","title":"The Romance of the Road","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362197","section_number":"2","title":"The Romance of the Rail","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362198","section_number":"3","title":"Non Libri Sed Liberi","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362199","section_number":"4","title":"Loafing","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362200","section_number":"5","title":"Cheap Knowledge","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362201","section_number":"6","title":"The Rural Pan: An April Essay","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362202","section_number":"7","title":"Marginalia","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362203","section_number":"8","title":"The Eternal Whither","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362211","section_number":"9","title":"Deus Terminus","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362204","section_number":"10","title":"Of Smoking","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362205","section_number":"11","title":"An Autumn Encounter","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362206","section_number":"12","title":"The White Poppy","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362207","section_number":"13","title":"A Bohemian in Exile: A Reminiscence","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362208","section_number":"14","title":"Justifiable Homicide","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362209","section_number":"15","title":"The Fairy Wicket","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362210","section_number":"16","title":"Aboard the Galley","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362212","section_number":"17","title":"The Lost Centaur","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"362213","section_number":"18","title":"Orion","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]}],"genres":[{"id":"84","name":"Essays & Short Works"},{"id":"89","name":"Humor"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Tue,%2001%20Mar%202016%2003%3A24%3A05%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D10627%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Tue, 01 Mar 2016 03:24:05 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>
