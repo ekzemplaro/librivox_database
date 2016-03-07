@@ -1,1 +1,136 @@
-{"books":{"19":{"id":"10323","title":"Short Ghost and Horror Collection 028","description":"A collection of twenty stories featuring ghoulies, ghosties, long-leggedy beasties and things that go bump in the night.  Expect shivers up your spine, the stench of human flesh, and the occasional touch of wonder.","url_text_source":"","language":"English","copyright_year":"0","num_sections":"20","url_rss":"http:\/\/librivox.org\/rss\/10323","url_zip_file":"","url_project":"","url_librivox":"https:\/\/forum.librivox.org\/viewtopic.php?f=28&t=58689","url_other":null,"totaltime":"","totaltimesecs":0,"authors":[{"id":"18","first_name":"","last_name":"Various","dob":"","dod":""}],"url_iarchive":"","sections":[{"id":"353495","section_number":"1","title":"Lost Hearts","listen_url":"https:\/\/librivox.org\/uploads\/bart\/ghohor028_losthearts_mrjames_nc.128kb_.mp3","language":"English","playtime":"1457","file_name":null,"readers":[{"reader_id":"6311","display_name":"TRUEBRIT"}]},{"id":"353496","section_number":"2","title":"They","listen_url":"https:\/\/librivox.org\/uploads\/bart\/ghohor028_they_kipling_ta_128kb.mp3","language":"English","playtime":"3604","file_name":null,"readers":[{"reader_id":"10289","display_name":"Tony Addison"}]},{"id":"353497","section_number":"3","title":"MS. Found in a Bottle","listen_url":"https:\/\/librivox.org\/uploads\/bart\/ghohor028_msfoundinbottle_poe_ta_128kb.mp3","language":"English","playtime":"2750","file_name":null,"readers":[{"reader_id":"10289","display_name":"Tony Addison"}]},{"id":"353498","section_number":"4","title":"The Monkey's Paw","listen_url":"https:\/\/librivox.org\/uploads\/bart\/ghohor028_monekyspaw_wwjacobs_dm_128kb.mp3","language":"English","playtime":"1430","file_name":null,"readers":[{"reader_id":"10459","display_name":"Dillon McFarlane"}]},{"id":"353499","section_number":"5","title":"The Woman In Green","listen_url":"https:\/\/librivox.org\/uploads\/bart\/ghohor028_womaningreen_pu_jdb_128kb.mp3","language":"English","playtime":"300","file_name":null,"readers":[{"reader_id":"10396","display_name":"John Burlinson"}]},{"id":"353500","section_number":"6","title":"The Tell-Tale Heart","listen_url":"https:\/\/librivox.org\/uploads\/bart\/ghohor028_telltaleheart_poe_jo_128kb.mp3","language":"English","playtime":"1218","file_name":null,"readers":[{"reader_id":"10531","display_name":"J. Olpecre"}]},{"id":"353501","section_number":"7","title":"The Masqued Red Death","listen_url":"https:\/\/librivox.org\/uploads\/bart\/ghohor028_masquereddeath_poe_jo_128kb.mp3","language":"English","playtime":"1286","file_name":null,"readers":[{"reader_id":"10531","display_name":"J. Olpecre"}]},{"id":"353502","section_number":"8","title":"The Black Cat","listen_url":"https:\/\/librivox.org\/uploads\/bart\/ghohor028_theblackcat_poe_jo_128kb.mp3","language":"English","playtime":"2154","file_name":null,"readers":[{"reader_id":"10531","display_name":"J. Olpecre"}]},{"id":"354913","section_number":"9","title":"The Yellow Paper","listen_url":"https:\/\/librivox.org\/uploads\/bart\/ghohor028_yellowwallpaper_gilman_mkc_128kb.mp3","language":"English","playtime":"2277","file_name":null,"readers":[{"reader_id":"10621","display_name":"Maya KC"}]},{"id":"354914","section_number":"10","title":"Thou Art The Man","listen_url":"https:\/\/librivox.org\/uploads\/bart\/ghohor028_thouarttheman_poe_ts_128kb.mp3","language":"English","playtime":"2087","file_name":null,"readers":[{"reader_id":"6717","display_name":"Tony Scheinman"}]},{"id":"354915","section_number":"11","title":"","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"354916","section_number":"12","title":"","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"354917","section_number":"13","title":"","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"354918","section_number":"14","title":"","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"354919","section_number":"15","title":"","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"354920","section_number":"16","title":"","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"354921","section_number":"17","title":"","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"354922","section_number":"18","title":"","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"354923","section_number":"19","title":"","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"354924","section_number":"20","title":"","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]}],"genres":[{"id":"16","name":"Horror & Supernatural Fiction"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Mon,%2007%20Mar%202016%2010%3A24%3A06%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D10323%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Mon, 07 Mar 2016 10:24:06 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>
