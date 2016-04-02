@@ -8,10 +8,10 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <script src="//archive.org/includes/jquery-1.10.2.min.js" type="text/javascript"></script>
-    <script src="//archive.org/includes/analytics.js?v=554aedg" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=fc593e5" type="text/javascript"></script>
     <script src="//archive.org/includes/bootstrap.min.js" type="text/javascript"></script>
-    <script src="/includes/archive.js?v=554aedg" type="text/javascript"></script>
-    <link href="//archive.org/includes/archive.min.css?v=554aedg" rel="stylesheet" type="text/css"/>
+    <script src="/includes/archive.js?v=fc593e5" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.min.css?v=fc593e5x" rel="stylesheet" type="text/css"/>
     <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
       </head>
   <body class="navia ">
@@ -20,7 +20,7 @@
     <!-- Wraps all page content -->
     <div id="wrap">
       
-        
+                
         <div id="navwrap1">
           <div id="navwrap2">
 
@@ -29,7 +29,7 @@
                   <div class="row toprow web" style="max-width:1000px;margin:auto;">
                     <div class="col-xs-12">
                       <div class="wayback-txt">
-                        Search the history of over 469 billion                        pages on the Internet.
+                        Search the history of over 472 billion                        pages on the Internet.
                       </div>
                       <div class="roundbox7 wayback-main">
                         <div class="row">
@@ -68,7 +68,7 @@
                         
                           <div class="linx">
                             <h5>Top</h5>
-                                                          <a href="https://archive.org/details/americana" title="American Libraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a>                                                          <a href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                                                      </div>
+                                                          <a href="https://archive.org/details/americana" title="American Libraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a>                                                          <a href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a>                                                      </div>
 
                           
                                               </div><!--/.col-sm-2-->
@@ -83,7 +83,7 @@
                         
                           <div class="linx">
                             <h5 class="hidden-xs">&nbsp;</h5>
-                                                          <a href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a>                                                      </div>
+                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                                                      </div>
 
                           
                                               </div><!--/.col-sm-2-->
@@ -163,7 +163,7 @@
                         
                           <div class="linx">
                             <h5 class="hidden-xs">&nbsp;</h5>
-                                                          <a href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a>                                                          <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                          <a href="https://archive.org/details/Dorsia" title="Dorsia">Dorsia</a>                                                          <a href="https://archive.org/details/transatlantic-poetry" title="Transatlantic Poetry">Transatlantic Poetry</a>                                                          <a href="https://archive.org/details/JimBoyerBand" title="Jim Boyer Band">Jim Boyer Band</a>                                                          <a href="https://archive.org/details/SaveOurCity" title="Save Our City">Save Our City</a>                                                          <a href="https://archive.org/details/GRASS2MOUTH" title="GRASS2MOUTH">GRASS2MOUTH</a>                                                      </div>
+                                                          <a href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a>                                                          <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                          <a href="https://archive.org/details/transatlantic-poetry" title="Transatlantic Poetry">Transatlantic Poetry</a>                                                      </div>
 
                           
                                               </div><!--/.col-sm-2-->
@@ -256,13 +256,6 @@
             <div class="navbar navbar-inverse navbar-static-top" role="navigation">
               <div id="nav-tophat-helper" class="hidden-xs"></div>
               <ul class="nav navbar-nav">
-                <form id="nav-search-in" method="post" role="search" action="https://archive.org/searchresults.php" target="_top">
-                  <label for="search-bar-2" class="sr-only">Search the Archive</label>
-                  <input id="search-bar-2" placeholder="Universal Access to Knowledge" type="text" autofocus="autofocus" name="search" value=""/>
-                  <input type="submit" value="Search"/>
-                  <button id="nav-search-x"  type="button" class="close ghost" title="cancel search" alt="cancel search"><span class="sr-only">Cancel Search</span><span aria-hidden="true">&times;</span></button>
-                </form>
-
                                   <li class="dropdown dropdown-ia pull-left">
                     <a title="Web" class="navia-link web" data-top-kind="web" href="https://archive.org/web/" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-web"  aria-hidden="true"></span><span class="sr-only">web</span></a>
                   </li>
@@ -299,9 +292,8 @@
                           <li><a target="_top" href="https://archive.org/about/contact.php">CONTACT</a></li>
                           <li><a target="_top" href="//blog.archive.org">BLOG</a></li>
                           <li><a target="_top" href="https://archive.org/projects">PROJECTS</a></li>
-                          <!-- <li><a target="_top" href="#coming-soon">SERVICES</a></li> -->
-                          <li><a target="_top" href="https://archive.org/donate" class="donate"><span class="iconochive-heart"  aria-hidden="true"></span><span class="sr-only">heart</span>&nbsp;DONATE</a></li>
                           <li><a target="_top" href="https://archive.org/help">HELP</a></li>
+                          <li><a target="_top" href="https://archive.org/donate">DONATE</a></li>
                           <li><a target="_top" href="https://archive.org/about/terms.php">TERMS</a></li>
                           <li><a target="_top" href="https://archive.org/about/jobs.php">JOBS</a></li>
                           <li><a target="_top" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
@@ -314,22 +306,32 @@
 
 
 
-                                  <li class="dropdown dropdown-ia pull-right">
-                    <a id="beta" href="/services/exit.php" _target="top" data-target="#feedback-modal" onclick="return AJS.modal_beta(this,{feedback_only:false})" data-toggle="tooltip" data-placement="bottom" data-container="body" title="Welcome to our new site!  Give us feedback or exit to classic."><span class="iconochive-exit"  aria-hidden="true"></span><span class="sr-only">exit</span></a>
+
+                                  <li id="nav-search" class="dropdown dropdown-ia pull-right">
+                    <a href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span></a>
+                    <div>
+                      <form method="post" role="search" action="https://archive.org/searchresults.php" target="_top">
+                        <label for="search-bar-2" class="sr-only">Search the Archive</label>
+                        <input id="search-bar-2" placeholder="Search" type="text" name="search" value=""/>
+                        <input type="submit" value="Search"/>
+                      </form>
+                    </div>
                   </li>
                 
-
                 <li class="dropdown dropdown-ia pull-right">
-                                      <a href="https://archive.org/account/login.php" style="padding-right:0" _target="top"><span class="iconochive-person"  aria-hidden="true"></span><span class="sr-only">person</span><span class="hidden-xs-span">Sign In</span></a>
-                                  </li>
-
-
-                <li class="dropdown dropdown-ia pull-right">
-                  <a href="https://archive.org/create" style="padding-left:0" _target="top" data-toggle="tooltip" data-placement="bottom" title="Upload"><span class="iconochive-upload"  aria-hidden="true"></span><span class="sr-only">upload</span></a>
+                  <a id="glyphme" href="https://archive.org/donate" _target="top" data-toggle="tooltip" data-placement="bottom" title="Donate"><img src="https://archive.org/images/gift.png"></a>
                 </li>
 
-                                  <li id="nav-search" class="dropdown dropdown-ia pull-right leftmost"><a href="https://archive.org/search.php" title="Search" data-toggle="tooltip" data-placement="bottom" onclick="return AJS.search(this)"><span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span></a></li>
-                
+
+                <li class="dropdown dropdown-ia pull-right">
+                  <a href="https://archive.org/create" _target="top" data-toggle="tooltip" data-placement="bottom" title="Upload"><span class="iconochive-upload"  aria-hidden="true"></span><span class="sr-only">upload</span></a>
+                </li>
+
+
+                <li class="dropdown dropdown-ia pull-right leftmost">
+                                      <a href="https://archive.org/account/login.php" style="padding-right:0" _target="top"><span class="iconochive-person"  aria-hidden="true"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+                                  </li>
+
                               </ul>
             </div><!--/.navbar-->
 
@@ -351,84 +353,48 @@ If you would like to report this problem as an error report,
     </div><!--/#wrap-->
     
     <!-- Timing ...
-     rendered on: www27.us.archive.org
+     rendered on: www15.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
-  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/details.php:18:require
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/details.php:1:require
                                              |common/ia:55:require_once
-                                             |setup.php:326:log
-  0.0018   0.0018      call get_redis()   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:193:getItem
+                                             |setup.php:313:log
+  0.0037   0.0037      call get_redis()   var/cache/petabox/petabox/www/sf/details.php:59:getItem
+                                             |details.php:176:getItem
                                              |common/Item.inc:63:parseMetadata
                                              |Item.inc:95:get_obj
-                                             |Metadata.inc:204:get_json_obj
-                                             |Metadata.inc:1276:log
-  0.0110   0.0092      redis_read start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:193:getItem
+                                             |Metadata.inc:205:get_json_obj
+                                             |Metadata.inc:1279:log
+  0.0088   0.0051      redis_read start   var/cache/petabox/petabox/www/sf/details.php:59:getItem
+                                             |details.php:176:getItem
                                              |common/Item.inc:63:parseMetadata
                                              |Item.inc:95:get_obj
-                                             |Metadata.inc:204:get_json_obj
-                                             |Metadata.inc:1374:log
-  0.0133   0.0023     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:193:getItem
+                                             |Metadata.inc:205:get_json_obj
+                                             |Metadata.inc:1377:log
+  0.0126   0.0038     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:59:getItem
+                                             |details.php:176:getItem
                                              |common/Item.inc:63:parseMetadata
                                              |Item.inc:95:get_obj
-                                             |Metadata.inc:204:get_json_obj
-                                             |Metadata.inc:1379:log
-  0.0152   0.0019      start db connect   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:63:parseMetadata
-                                             |Item.inc:95:get_obj
-                                             |Metadata.inc:204:get_json_obj
-                                             |Metadata.inc:1538:fill_cache
-                                             |Metadata.inc:1985:loadHostData
-                                             |Hosts.inc:43:connectNoRetryNoFatal
-                                             |DB.inc:114:conn
-                                             |DB.inc:937:log
-  0.0270   0.0118                got db   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:63:parseMetadata
-                                             |Item.inc:95:get_obj
-                                             |Metadata.inc:204:get_json_obj
-                                             |Metadata.inc:1538:fill_cache
-                                             |Metadata.inc:1985:loadHostData
-                                             |Hosts.inc:43:connectNoRetryNoFatal
-                                             |DB.inc:114:conn
-                                             |DB.inc:983:log
-  0.3693   0.3423          locate start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:63:parseMetadata
-                                             |Item.inc:95:get_obj
-                                             |Metadata.inc:204:get_json_obj
-                                             |Metadata.inc:1538:fill_cache
-                                             |Metadata.inc:1989:locateUDP
-                                             |Locator.inc:68:log
-  0.4679   0.0986         locate finish   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:193:getItem
-                                             |common/Item.inc:63:parseMetadata
-                                             |Item.inc:95:get_obj
-                                             |Metadata.inc:204:get_json_obj
-                                             |Metadata.inc:1538:fill_cache
-                                             |Metadata.inc:1989:locateUDP
-                                             |Locator.inc:198:log
-  0.4767   0.0088   begin session_start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:234:exitItemNotFetched404
+                                             |Metadata.inc:205:get_json_obj
+                                             |Metadata.inc:1382:log
+  0.0151   0.0025   begin session_start   var/cache/petabox/petabox/www/sf/details.php:59:getItem
+                                             |details.php:217:exitItemNotFetched404
                                              |common/Error.inc:50:head
-                                             |Nav.inc:58:__construct
-                                             |Nav.inc:138:session_start
+                                             |Nav.inc:59:__construct
+                                             |Nav.inc:129:session_start
                                              |Cookies.inc:61:log
-  0.4770   0.0003    done session_start   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:234:exitItemNotFetched404
+  0.0153   0.0003    done session_start   var/cache/petabox/petabox/www/sf/details.php:59:getItem
+                                             |details.php:217:exitItemNotFetched404
                                              |common/Error.inc:50:head
-                                             |Nav.inc:58:__construct
-                                             |Nav.inc:138:session_start
+                                             |Nav.inc:59:__construct
+                                             |Nav.inc:129:session_start
                                              |Cookies.inc:67:log
-  0.4848   0.0079              bug dump   var/cache/petabox/petabox/www/sf/details.php:76:getItem
-                                             |details.php:234:exitItemNotFetched404
+  0.0264   0.0110              bug dump   var/cache/petabox/petabox/www/sf/details.php:59:getItem
+                                             |details.php:217:exitItemNotFetched404
                                              |common/Error.inc:63:fatal
-                                             |setup.php:92:footer
-                                             |setup.php:164:footer
-                                             |Nav.inc:1382:dump
+                                             |setup.php:79:footer
+                                             |setup.php:151:footer
+                                             |Nav.inc:1388:dump
                                              |Bug.inc:120:log
     -->
     <script>
@@ -439,11 +405,10 @@ if (window.archive_analytics) {
   var vs = window.archive_analytics.get_data_packets();
   for (var i in vs) {
     vs[i]['cache_bust']=Math.random();
-    vs[i]['server_ms']=484;
-    vs[i]['server_name']="www27.us.archive.org";
+    vs[i]['server_ms']=26;
+    vs[i]['server_name']="www15.us.archive.org";
     vs[i]['service']='ao_2';
-    vs[i]['ui3']=1457346260;
-              }
+      }
   if(window.flights){
     window.flights.init();
   }
