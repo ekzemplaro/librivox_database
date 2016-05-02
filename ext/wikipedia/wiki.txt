@@ -1,7 +1,7 @@
 # ---------------------------------------------
 #	wiki.txt
 #
-#						Feb/02/2016
+#						Apr/14/2016
 #	
 #	-1 ---> Not checked yet
 #	0 ---> Checked. No link to & from Wikipedia
@@ -2062,7 +2062,7 @@ b71	3	mahne
 b7190	3	mahne
 # ---------------------------------------------
 #
-#	Jan/21/2015
+#	Jan/21/2016
 #
 b4733	3	mahne
 b4819	3	mahne
@@ -2087,4 +2087,132 @@ b6630	3	mahne
 b667	3	mahne
 b6694	3	mahne
 b6862	3	mahne
+# ---------------------------------------------
+#	Apr/14/2016
+#
+b7261	3	mahne
+b7295	3	mahne
+b7304	3	mahne
+b7318	3	mahne
+b7343	3	mahne
+b7369	3	mahne
+b7372	3	mahne
+b7382	3	mahne
+b7393	3	mahne
+b7394	3	mahne
+b7406	3	mahne
+b7433	3	mahne
+b7439	3	mahne
+b7506	3	mahne
+b7590	3	mahne
+b7647	3	mahne
+b7721	3	mahne
+b7741	3	mahne
+b780	3	mahne
+b786	3	mahne
+b7860	3	mahne
+b788	3	mahne
+b7995	3	mahne
+b8097	3	mahne
+b8133	3	mahne
+b8140	3	mahne
+b8151	3	mahne
+b8157	3	mahne
+b8165	3	mahne
+b817	3	mahne
+b8197	3	mahne
+b8249	3	mahne
+b8264	3	mahne
+b8329	3	mahne
+b8355	3	mahne
+b8387	3	mahne
+b8418	3	mahne
+b8475	3	mahne
+b8504	3	mahne
+b8565	3	mahne
+b8650	3	mahne
+b8654	3	mahne
+b8678	3	mahne
+b869	3	mahne
+b875	3	mahne
+b8751	3	mahne
+b8762	3	mahne
+b877	3	mahne
+b879	3	mahne
+b8795	3	mahne
+b891	3	mahne
+b8944	3	mahne
+b8963	3	mahne
+b8974	3	mahne
+b8986	3	mahne
+b9047	3	mahne
+b9104	3	mahne
+b9136	3	mahne
+b9137	3	mahne
+b9154	3	mahne
+b9170	3	mahne
+b9270	3	mahne
+b9276	3	mahne
+b9290	3	mahne
+b9311	3	mahne
+b9317	3	mahne
+b9320	3	mahne
+b9338	3	mahne
+b9359	3	mahne
+b94	3	mahne
+b9400	3	mahne
+b9405	3	mahne
+b9419	3	mahne
+b944	3	mahne
+b9443	3	mahne
+b9449	3	mahne
+b9485	3	mahne
+b9518	3	mahne
+b9549	3	mahne
+b9582	3	mahne
+b960	3	mahne
+b9611	3	mahne
+b9667	3	mahne
+b9686	3	mahne
+b9715	3	mahne
+b9731	3	mahne
+b9737	3	mahne
+b9790	3	mahne
+b9796	3	mahne
+b9816	3	mahne
+b9819	3	mahne
+b9828	3	mahne
+b9831	3	mahne
+b990	3	mahne
+b993	3	mahne
+b994	3	mahne
+b9943	3	mahne
+b9945	3	mahne
+b998	3	mahne
+b9992	3	mahne
+# ---------------------------------------------
+#	Apr/14/2016
+#
+b7240	3	mahne
+b7257	3	mahne
+b7322	3	mahne
+b7397	3	mahne
+b7524	3	mahne
+b7670	3	mahne
+b7817	3	mahne
+b8016	3	mahne
+b8217	3	mahne
+b8232	3	mahne
+b8430	3	mahne
+b8522	3	mahne
+b854	3	mahne
+b8616	3	mahne
+b884	3	mahne
+b9256	3	mahne
+b9309	3	mahne
+b9448	3	mahne
+b9523	3	mahne
+b9675	3	mahne
+b978	3	mahne
+b9805	3	mahne
 # ---------------------------------------------
