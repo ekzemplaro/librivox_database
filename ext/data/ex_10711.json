@@ -1,1 +1,136 @@
-{"books":{"14":{"id":"10711","title":"Friendly Fairies","description":"To be added - Summary by ShiNeko","url_text_source":"https:\/\/www.gutenberg.org\/ebooks\/11315","language":"English","copyright_year":"1919","num_sections":"15","url_rss":"http:\/\/librivox.org\/rss\/10711","url_zip_file":"","url_project":"","url_librivox":"","url_other":null,"totaltime":"","totaltimesecs":0,"authors":[{"id":"2370","first_name":"Johnny","last_name":"Gruelle","dob":"1880","dod":"1938"}],"url_iarchive":"","sections":[{"id":"364589","section_number":"1","title":"The Three Little Gnomes","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10686","display_name":"Bridget Herbes"}]},{"id":"364590","section_number":"2","title":"The Happy Rattle","listen_url":"https:\/\/librivox.org\/uploads\/smijen\/friendlyfairies_2_gruelle_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10859","display_name":"larryhayes7"}]},{"id":"364591","section_number":"3","title":"Recipe for a Happy Day","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10754","display_name":"Jacqui Castle"}]},{"id":"364592","section_number":"4","title":"Grandfather Skeeter-Hawk's story","listen_url":"https:\/\/librivox.org\/uploads\/smijen\/friendlyfairies_4_gruelle_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10859","display_name":"larryhayes7"}]},{"id":"364593","section_number":"5","title":"Crow Talk","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"8447","display_name":"Anastasiia Solokha"}]},{"id":"364594","section_number":"6","title":"The Fairy Ring","listen_url":"https:\/\/librivox.org\/uploads\/smijen\/friendlyfairies_06_gruelle_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10754","display_name":"Jacqui Castle"}]},{"id":"364595","section_number":"7","title":"Mr. and Mrs. Thumbkins","listen_url":"https:\/\/librivox.org\/uploads\/smijen\/friendlyfairies_07_gruelle_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10244","display_name":"BettyB"}]},{"id":"364596","section_number":"8","title":"The Old Rough Stone and the Gnarled Tree","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10835","display_name":"Jessilee"}]},{"id":"364597","section_number":"9","title":"Sally Migrundy","listen_url":"http:\/\/uploads.librivox.org\/smijen\/friendlyfairies_09_gruelle_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10831","display_name":"Danny Wacorngler"}]},{"id":"364598","section_number":"10","title":"How Johnny Cricket Saw Santa Claus","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"364599","section_number":"11","title":"The Twin Sisters","listen_url":"https:\/\/librivox.org\/uploads\/smijen\/friendlyfairies_11_gruelle_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10261","display_name":"Kathleen Moore"}]},{"id":"364600","section_number":"12","title":"Little Thumbkin's Good Deed","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"364601","section_number":"13","title":"The Wishbone","listen_url":"https:\/\/librivox.org\/uploads\/smijen\/friendlyfairies_13_gruelle_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10831","display_name":"Danny Wacorngler"}]},{"id":"364602","section_number":"14","title":"Tim Tim Tamytam","listen_url":"http:\/\/uploads.librivox.org\/smijen\/friendlyfairies_14_gruelle_128kbps.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10792","display_name":"Molly Lynn"}]},{"id":"364603","section_number":"15","title":"A Change of Coats","listen_url":"https:\/\/librivox.org\/uploads\/smijen\/friendlyfairies_15_gruelle_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"1649","display_name":"Kalynda"}]}],"genres":[{"id":"39","name":"Myths, Legends & Fairy Tales"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Sat,%2002%20Jul%202016%2021%3A24%3A04%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D10711%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Sat, 02 Jul 2016 21:24:04 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>

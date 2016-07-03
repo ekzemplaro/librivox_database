@@ -1,1 +1,136 @@
-{"books":{"19":{"id":"10887","title":"Tension","description":"When the role of \u2018Lady Superintendent\u2019 becomes available at the Commercial and Technical College for South West England, the calm and capable Pauline Marchrose is the successful applicant. This is good news for Sir Julian, the college director, who greatly admires her diligence and ability. Mark Easter, Sir Julian\u2019s agent, feels admiration for her too, which rapidly becomes romantic attraction. But Mark already has a wife, albeit in name only. And Sir Julian\u2019s wife, Lady Edna Rossiter, discovers that Pauline Marchrose is the same woman who jilted her cousin Clarence after he was paralysed in an accident. A manipulative,self-righteous and interfering woman, she has little interest in the truth of the story, and she uses her position and influence to start a whispering campaign against Pauline. In a small community this soon creates an atmosphere of suspicion and tension which threatens her whole future. - Summary by Helen Taylor","url_text_source":"https:\/\/archive.org\/details\/tension00delagoog","language":"English","copyright_year":"1920","num_sections":"20","url_rss":"http:\/\/librivox.org\/rss\/10887","url_zip_file":"","url_project":"","url_librivox":"","url_other":null,"totaltime":"","totaltimesecs":0,"authors":[{"id":"3238","first_name":"E. M.","last_name":"Delafield","dob":"1890","dod":"1943"}],"url_iarchive":"","sections":[{"id":"370706","section_number":"1","title":"Chapter I","listen_url":"https:\/\/librivox.org\/uploads\/kathrinee\/tension_01_delafield.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370707","section_number":"2","title":"Chapter II","listen_url":"https:\/\/librivox.org\/uploads\/kathrinee\/tension_02_delafield.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370708","section_number":"3","title":"Chapter III","listen_url":"https:\/\/librivox.org\/uploads\/kathrinee\/tension_03_delafield.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370709","section_number":"4","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370710","section_number":"5","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370711","section_number":"6","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370712","section_number":"7","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370713","section_number":"8","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370714","section_number":"9","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370715","section_number":"10","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370716","section_number":"11","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370717","section_number":"12","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370718","section_number":"13","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370719","section_number":"14","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370720","section_number":"15","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370721","section_number":"16","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370722","section_number":"17","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370723","section_number":"18","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370724","section_number":"19","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]},{"id":"370725","section_number":"20","title":null,"listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9136","display_name":"Helen Taylor"}]}],"genres":[{"id":"15","name":"General Fiction"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Sat,%2002%20Jul%202016%2021%3A24%3A04%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D10887%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Sat, 02 Jul 2016 21:24:04 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>

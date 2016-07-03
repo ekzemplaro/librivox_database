@@ -1,1 +1,136 @@
-{"books":{"23":{"id":"10949","title":"Noughts and Crosses: Stories, Studies and Sketches","description":"This is a collection of short, well-written, engaging stories written by \"Q\", the pen name of the prolific and eccentric Sir Arthur Thomas Quiller-Couch. - Summary by Amy Gramour","url_text_source":"http:\/\/www.gutenberg.org\/ebooks\/15865","language":"English","copyright_year":"1891","num_sections":"24","url_rss":"http:\/\/librivox.org\/rss\/10949","url_zip_file":"","url_project":"","url_librivox":"https:\/\/forum.librivox.org\/viewtopic.php?f=28&t=61143","url_other":null,"totaltime":"","totaltimesecs":0,"authors":[{"id":"910","first_name":"Sir Arthur Thomas","last_name":"Quiller-Couch","dob":"1863","dod":"1944"}],"url_iarchive":"","sections":[{"id":"372459","section_number":"1","title":"The Omnibus","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372460","section_number":"2","title":"Fortunio","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372461","section_number":"3","title":"The Outlandish Ladies","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372462","section_number":"4","title":"Statement of Gabriel Foot, Highwayman","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372463","section_number":"5","title":"The Return of Joanna","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372464","section_number":"6","title":"Psyche","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372465","section_number":"7","title":"The Countess of Bellarmine","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372466","section_number":"8","title":"A Cottage in Troy\u2014I. A. Happy Voyage","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372467","section_number":"9","title":"A Cottage in Troy\u2014II. These-An'-That's Wife","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372468","section_number":"10","title":"A Cottage in Troy\u2014III. \"Doubles\" and Quits","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372469","section_number":"11","title":"A Cottage in Troy\u2014IV. The Boy by the Beach","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372470","section_number":"12","title":"Old Aeson","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372471","section_number":"13","title":"Stories of Bleakirk\u2014I. The Affair of Bleakirk-on-Sands","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372472","section_number":"14","title":"Stories of Bleakirk\u2014II. The Constant Post-Boy.","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372473","section_number":"15","title":"A Dark Mirror","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372474","section_number":"16","title":"The Small People","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372475","section_number":"17","title":"The Mayor of Gantick","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372476","section_number":"18","title":"The Doctor's Foundling","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372477","section_number":"19","title":"The Gifts of Feodor Himkoff","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372478","section_number":"20","title":"Yorkshire Dick","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372479","section_number":"21","title":"The Carol","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372480","section_number":"22","title":"The Paradise of Choice","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372481","section_number":"23","title":"Beside the Bee Hives","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372482","section_number":"24","title":"The Magic Shadow","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]}],"genres":[{"id":"20","name":"Literary Fiction"},{"id":"53","name":"Published 1800 -1900"},{"id":"76","name":"Single Author Collections"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Sat,%2002%20Jul%202016%2015%3A24%3A06%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D10949%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Sat, 02 Jul 2016 15:24:06 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>

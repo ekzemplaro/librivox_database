@@ -1,1 +1,136 @@
-{"books":{"11":{"id":"10934","title":"Nell and Her Grandfather","description":"If you have heard of the Dickens novel, The Old Curiosity Shop, and remember Nell Trent, the beautiful and virtuous young girl of \"not quite fourteen\", an orphan, who lived with her maternal grandfather in his shop of odds and ends, then you will understand that these stories take place in the same time period as the book and have the same lovable and quirky characters. Not written by Dickens, of course, they try and succeed in my mind to carry on our enjoyment of hearing of the escapades of the people and England we love.    - Summary by Phil Chenevert","url_text_source":"http:\/\/www.gutenberg.org\/ebooks\/52125","language":"English","copyright_year":"1908","num_sections":"12","url_rss":"http:\/\/librivox.org\/rss\/10934","url_zip_file":"","url_project":"","url_librivox":"","url_other":null,"totaltime":"","totaltimesecs":0,"authors":[{"id":"19","first_name":"","last_name":"Anonymous","dob":"","dod":""}],"url_iarchive":"","sections":[{"id":"372061","section_number":"1","title":"The Old Curiosity Shop","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"5717","display_name":"Phil Chenevert"}]},{"id":"372062","section_number":"2","title":"Driven from Home","listen_url":"https:\/\/librivox.org\/uploads\/philchenevert\/nellandhergrandfather_02_anonymous_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"5796","display_name":"Linette Geisel"}]},{"id":"372063","section_number":"3","title":"In the Open Country","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372064","section_number":"4","title":"The Village School","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372065","section_number":"5","title":"The Caravan","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372066","section_number":"6","title":"The Wax-work Show","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372067","section_number":"7","title":"Nell the Bread-Winner","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372068","section_number":"8","title":"Trouble for Nell","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372069","section_number":"9","title":"Flying from Temptation","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372070","section_number":"10","title":"A Bed of Ashes","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372071","section_number":"11","title":"A Friend in Need","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"372072","section_number":"12","title":"Peace after Storm","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]}],"genres":[{"id":"54","name":"Published 1900 onward"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Sat,%2002%20Jul%202016%2015%3A24%3A06%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D10934%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Sat, 02 Jul 2016 15:24:06 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>
