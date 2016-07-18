@@ -1,1 +1,136 @@
-{"books":{"4":{"id":"10813","title":"Dad's Trip to Brisbane (from Our New Selection)","description":"\"The wheat was in, and Dad decided to take a trip to Brisbane. For seven or eight years he had been thinking of that trip, but something or other always came to prevent his going. According to Dad himself, the farm would suffer if he went away for a month; there would be no one to look after it, no one to manage. According to us there would be no one to look on while the cows were being milked; no one to stand in the paddock all day while the hay was being raked and carted and stacked; no one to fuss round and be a nuisance to Dave while he sold a draft of fats to a butcher, or drove a profitable deal with the pig-buyers; no one to yell boisterously for the whereabouts of any of us when we chanced to be concealed from view for a moment or two by a dray, or a hay-stack, or something; no one to annoy the men who worked hardest, and to incite them to strike and seek employment elsewhere; no one to molest Regan\u2019s bull when it came round our way; no one to take the gun down when little Billy Bearup came to see Sarah; no one to sool the dogs on to travelling stock and challenge the big dusty drovers to get down and be obliterated; and no one to aggravate Dave and Joe to blasphemy and rebellion. \nYes; we would miss Dad when he went away. Still, we encouraged him to go. We were not selfish. We said it would be a pleasant change to him. We said nothing of the pleasure it would be to ourselves. We thought only of Dad. Some families never think of their father at all. We never forgot Dad for a day. He was never out of our minds.\" - Summary by Steele Rudd","url_text_source":"http:\/\/gutenberg.net.au\/ebooks05\/0500131h.html","language":"English","copyright_year":"1903","num_sections":"5","url_rss":"http:\/\/librivox.org\/rss\/10813","url_zip_file":"http:\/\/www.archive.org\/download\/\/dadstripbrisbane_1605_librivox\/dadstripbrisbane_1605_librivox_64kb_mp3.zip","url_project":"","url_librivox":"http:\/\/librivox.org\/dads-trip-to-brisbane-by-steele-rudd\/","url_other":null,"totaltime":"00:50:58","totaltimesecs":3058,"authors":[{"id":"10892","first_name":"Steele","last_name":"Rudd","dob":"1868","dod":"1935"}],"url_iarchive":"http:\/\/archive.org\/details\/dadstripbrisbane_1605_librivox","sections":[{"id":"368065","section_number":"1","title":"How Dad Fell Out With Daly","listen_url":"https:\/\/librivox.org\/uploads\/annise\/dadstriptobrisbane_01_rudd.mp3","language":"English","playtime":"430","file_name":"dadstripbrisbane_01_rudd_128kb.mp3","readers":[{"reader_id":"8879","display_name":"Son of the Exiles"}]},{"id":"368066","section_number":"2","title":"Dad's Trip to Brisbane","listen_url":"https:\/\/librivox.org\/uploads\/annise\/dadstriptobrisbane_02_rudd.mp3","language":"English","playtime":"456","file_name":"dadstripbrisbane_02_rudd_128kb.mp3","readers":[{"reader_id":"8879","display_name":"Son of the Exiles"}]},{"id":"368067","section_number":"3","title":"The Great Metropolis","listen_url":"https:\/\/librivox.org\/uploads\/annise\/dadstriptobrisbane_03_rudd.mp3","language":"English","playtime":"981","file_name":"dadstripbrisbane_03_rudd_128kb.mp3","readers":[{"reader_id":"8879","display_name":"Son of the Exiles"}]},{"id":"368068","section_number":"4","title":"Seeing The City","listen_url":"https:\/\/librivox.org\/uploads\/annise\/dadstriptobrisbane_04_rudd.mp3","language":"English","playtime":"849","file_name":"dadstripbrisbane_04_rudd_128kb.mp3","readers":[{"reader_id":"8879","display_name":"Son of the Exiles"}]},{"id":"368069","section_number":"5","title":"The Return Home","listen_url":"https:\/\/librivox.org\/uploads\/annise\/dadstriptobrisbane_05_rudd.mp3","language":"English","playtime":"342","file_name":"dadstripbrisbane_05_rudd_128kb.mp3","readers":[{"reader_id":"8879","display_name":"Son of the Exiles"}]}],"genres":[{"id":"12","name":"Family Life"},{"id":"19","name":"Humorous Fiction"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Sun,%2017%20Jul%202016%2003%3A24%3A05%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D10813%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Sun, 17 Jul 2016 03:24:05 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>

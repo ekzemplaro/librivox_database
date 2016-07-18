@@ -1,1 +1,136 @@
-{"books":{"16":{"id":"9090","title":"Spontaneous Activity in Education","description":"Maria Montessori saw that children gained a sense of satisfaction through doing work of their own choosing, and that the role of the adult was to allow this natural ability of the child to flourish through careful design of the environment, and the development of freedom within a positive structure. Through examples of her observations Montessori details the reasoning behind her methods. This book is translated from its original in Italian. - Summary by Grace En-Tien Chang","url_text_source":"http:\/\/www.gutenberg.org\/ebooks\/24727","language":"English","copyright_year":"1917","num_sections":"17","url_rss":"http:\/\/librivox.org\/rss\/9090","url_zip_file":"","url_project":"","url_librivox":"","url_other":null,"totaltime":"","totaltimesecs":0,"authors":[{"id":"2454","first_name":"Maria","last_name":"Montessori","dob":"1870","dod":"1952"}],"url_iarchive":"","sections":[{"id":"317537","section_number":"1","title":"Chapter I (Part 1)","listen_url":"https:\/\/librivox.org\/uploads\/lynnet\/spontaneousactivity_01_montessori_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9413","display_name":"Grace Byrne"}]},{"id":"317538","section_number":"2","title":"Chapter I (Part 2)","listen_url":"http:\/\/uploads.librivox.org\/lynnet\/spontaneousactivity_02_montessori_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9413","display_name":"Grace Byrne"}]},{"id":"317539","section_number":"3","title":"Chapter II (Part 1)","listen_url":"https:\/\/librivox.org\/uploads\/lynnet\/spontaneousactivity_03_montessori_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"9413","display_name":"Grace Byrne"}]},{"id":"317540","section_number":"4","title":"Chapter II (Part 2)","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"317541","section_number":"5","title":"Chapter III (Part 1)","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"317542","section_number":"6","title":"Chapter III (Part 2)","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"317543","section_number":"7","title":"Chapter IV","listen_url":"https:\/\/librivox.org\/uploads\/lynnet\/spontaneousactivity_07_montessori_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10463","display_name":"VfkaBT"}]},{"id":"317544","section_number":"8","title":"Chapter V","listen_url":"https:\/\/librivox.org\/uploads\/lynnet\/spontaneousactivity_08_montessori_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10244","display_name":"BettyB"}]},{"id":"317545","section_number":"9","title":"Chapter VI","listen_url":"https:\/\/librivox.org\/uploads\/lynnet\/spontaneousactivity_09_montessori_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10544","display_name":"Mike T."}]},{"id":"317546","section_number":"10","title":"Chapter VII","listen_url":"https:\/\/librivox.org\/uploads\/lynnet\/spontaneousactivity_10_montessori_128kbs.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"10544","display_name":"Mike T."}]},{"id":"317547","section_number":"11","title":"Chapter VIII (Part 1)","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"317548","section_number":"12","title":"Chapter VIII (Part 1)","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"317549","section_number":"13","title":"Chapter IX (Part 1)","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"317550","section_number":"14","title":"Chapter IX (Part 1)","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]},{"id":"317551","section_number":"15","title":"Chapter IX (Part 2)","listen_url":"https:\/\/librivox.org\/uploads\/lynnet\/spontaneousactivity_15_montessori_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"5756","display_name":"Mich_elle"}]},{"id":"317552","section_number":"16","title":"Chapter IX (Part 3)","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"5756","display_name":"Mich_elle"}]},{"id":"317553","section_number":"17","title":"Chapter IX (Part 4)","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[]}],"genres":[{"id":"83","name":"Education"}],"translators":[{"id":"10759","first_name":"Florence","last_name":"Simmonds","dob":"","dod":""}]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Mon,%2018%20Jul%202016%2010%3A24%3A05%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D9090%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Mon, 18 Jul 2016 10:24:05 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>

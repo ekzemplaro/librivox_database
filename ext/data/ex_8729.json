@@ -1,1 +1,136 @@
-{"books":{"11":{"id":"8729","title":"\u00c0 margem da hist\u00f3ria","description":"\u00c0 margem da hist\u00f3ria foi a primeira das obras p\u00f3stumas de Euclides da Cunha, tentando recolher os muitos textos esparsos e in\u00e9ditos do autor ap\u00f3s sua morte inesperada e violenta. A maior parte do livro se comp\u00f5e das anota\u00e7\u00f5es feitas pelo autor para um livro, nunca terminado, acerca da Amaz\u00f4nia, a ser intitulado \"Terra Sem Hist\u00f3ria\". No volume encontram-se tamb\u00e9m compilados outros estudos variados. - Summary by Leni<\/p>","url_text_source":"http:\/\/www.dominiopublico.gov.br\/pesquisa\/DetalheObraForm.do?select_action=&co_obra=43224","language":"Portuguese","copyright_year":"1922","num_sections":"12","url_rss":"http:\/\/librivox.org\/rss\/8729","url_zip_file":"","url_project":"","url_librivox":"","url_other":null,"totaltime":"","totaltimesecs":0,"authors":[{"id":"2174","first_name":"Euclides da","last_name":"Cunha","dob":"1866","dod":"1909"}],"url_iarchive":"","sections":[{"id":"307163","section_number":"1","title":"Impress\u00f5es gerais","listen_url":"https:\/\/librivox.org\/uploads\/leni\/margemdahistoria_01_cunha_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]},{"id":"307164","section_number":"2","title":"Rios em abandono","listen_url":"https:\/\/librivox.org\/uploads\/leni\/margemdahistoria_02_cunha_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]},{"id":"307165","section_number":"3","title":"Um clima caluniado","listen_url":"https:\/\/librivox.org\/uploads\/leni\/margemdahistoria_03_cunha_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]},{"id":"307166","section_number":"4","title":"Os caucheros","listen_url":"https:\/\/librivox.org\/uploads\/leni\/margemdahistoria_04_cunha_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]},{"id":"307167","section_number":"5","title":"Judas-Ahsverus","listen_url":"https:\/\/librivox.org\/uploads\/leni\/margemdahistoria_05_cunha_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]},{"id":"307168","section_number":"6","title":"Brasileiros","listen_url":"https:\/\/librivox.org\/uploads\/leni\/margemdahistoria_06_cunha_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]},{"id":"307169","section_number":"7","title":"Transacreana","listen_url":"https:\/\/librivox.org\/uploads\/leni\/margemdahistoria_07_cunha_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]},{"id":"307170","section_number":"8","title":"Via\u00e7\u00e3o Sul-Americana","listen_url":"https:\/\/librivox.org\/uploads\/leni\/margemdahistoria_08_cunha_128kb.mp3","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]},{"id":"307171","section_number":"9","title":"Martin Garcia","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]},{"id":"307172","section_number":"10","title":"O primado do Pac\u00edfico","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]},{"id":"307173","section_number":"11","title":"Esbo\u00e7o de hist\u00f3ria pol\u00edtica: da Independ\u00eancia a Rep\u00fablica","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]},{"id":"307174","section_number":"12","title":"Estrelas indecifr\u00e1veis","listen_url":null,"language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2961","display_name":"Leni"}]}],"genres":[{"id":"108","name":"Travel & Geography"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Mon,%2018%20Jul%202016%2010%3A24%3A05%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D8729%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Mon, 18 Jul 2016 10:24:05 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>
