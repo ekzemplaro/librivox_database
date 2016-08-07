@@ -1,1 +1,136 @@
-{"books":{"2":{"id":"10076","title":"Persians (version 2)","description":"The earliest of Aeschylus' plays to survive is \"The Persians\" (Persai), performed in 472 BC and based on experiences in Aeschylus's own life, specifically the Battle of Salamis.  It is unique among surviving Greek tragedies in that it describes a recent historical event.  \"The Persians\" focuses on the popular Greek theme of hubris by blaming Persia's loss on the pride of its king.  It is the second and only surviving part of a now otherwise lost trilogy that won the first prize at the dramatic competitions in Athens\u2019 City Dionysia festival in 472 BCE, with Pericles serving as choregos. The first play in the trilogy was called \"Phineus\"; it presumably dealt with Jason and the Argonauts' rescue of King Phineus from the torture that the monstrous harpies inflicted at the behest of Zeus. The subject of the third play, \"Glaucus,\" was either a mythical Corinthian king who was devoured by his horses because he angered the goddess Aphrodite or a Boeotian farmer who ate a magical herb that transformed him into a sea deity with the gift of prophecy.  In \"The Persians,\" Xerxes invites the gods' enmity for his hubristic expedition against Greece in 480\/79 BCE; the focus of the drama is the defeat of Xerxes' navy at Salamis.  Aeschylus himself had fought the Persians at Marathon (490 BC). He may also have fought at Salamis, just eight years before the play was performed.  Summary by Wikipedia (edited by Expatriate)<\/p>","url_text_source":"http:\/\/www.gutenberg.org\/ebooks\/8714","language":"English","copyright_year":"1908","num_sections":"3","url_rss":"http:\/\/librivox.org\/rss\/10076","url_zip_file":"http:\/\/www.archive.org\/download\/\/thepersians_1507_librivox\/thepersians_1507_librivox_64kb_mp3.zip","url_project":"https:\/\/en.wikipedia.org\/wiki\/The_Persians","url_librivox":"http:\/\/librivox.org\/the-persians-by-aeschylus-2\/","url_other":null,"totaltime":"01:07:40","totaltimesecs":4060,"authors":[{"id":"478","first_name":"","last_name":"Aeschylus","dob":"c. 525\/524","dod":"456\/455 BC"}],"url_iarchive":"http:\/\/archive.org\/details\/thepersians_1507_librivox","sections":[{"id":"346083","section_number":"1","title":"Part I","listen_url":"https:\/\/librivox.org\/uploads\/maryannspiegel\/persians_01_aeschylus_128kb.mp3","language":"English","playtime":"1415","file_name":"persians_01_aeschylus_128kb.mp3","readers":[{"reader_id":"8713","display_name":"Expatriate"}]},{"id":"346084","section_number":"2","title":"Part II","listen_url":"https:\/\/librivox.org\/uploads\/maryannspiegel\/persians_02_aeschylus_128kb.mp3","language":"English","playtime":"1192","file_name":"persians_02_aeschylus_128kb.mp3","readers":[{"reader_id":"8713","display_name":"Expatriate"}]},{"id":"346085","section_number":"3","title":"Part III","listen_url":"https:\/\/librivox.org\/uploads\/maryannspiegel\/persians_03_aeschylus_128kb.mp3","language":"English","playtime":"1453","file_name":"persians_03_aeschylus_128kb.mp3","readers":[{"reader_id":"8713","display_name":"Expatriate"}]}],"genres":[{"id":"61","name":"Tragedy"}],"translators":[{"id":"6491","first_name":" Edmund Doidge Anderson","last_name":"Morshead","dob":"1849","dod":"1912"}]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Tue,%2026%20Jul%202016%2021%3A24%3A05%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D10076%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Tue, 26 Jul 2016 21:24:05 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>

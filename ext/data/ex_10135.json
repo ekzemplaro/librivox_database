@@ -1,1 +1,136 @@
-{"books":{"1":{"id":"10135","title":"Thing in the Attic (version 2)","description":"\"Honath and his fellow arch-doubters did not believe in the Giants, and for this they were cast into Hell. And when survival depended upon unwavering faith in their beliefs, they saw that there were Giants, after all....\"  The Thing in the Attic is a Science Fiction story by James Blish with a well developed story line and great characters that you find yourself pulling for as they struggle to understand and survive in 'hell'.  Do they have tails? yes they do.  Do they live in the treetops? you bet they do. Are they 'people'? Well, I will let you decide that.   The strange beings and environment that you expect from Blish are all here and they challenge you to adapt your thinking to keep up with the action.  And of course there is an ending that is definitely not expected.  Listen and enjoy this story of a strange world far in the future of the human race.   - Summary by Phil Chenevert<\/p>","url_text_source":"http:\/\/www.gutenberg.org\/ebooks\/32447","language":"English","copyright_year":"1954","num_sections":"2","url_rss":"http:\/\/librivox.org\/rss\/10135","url_zip_file":"http:\/\/www.archive.org\/download\/\/thethingintheattic_1507_librivox\/thethingintheattic_1507_librivox_64kb_mp3.zip","url_project":"","url_librivox":"http:\/\/librivox.org\/the-thing-in-the-attic-version-2-by-james-b-blish\/","url_other":null,"totaltime":"01:35:10","totaltimesecs":5710,"authors":[{"id":"1162","first_name":"James B.","last_name":"Blish","dob":"1921","dod":"1975"}],"url_iarchive":"http:\/\/archive.org\/details\/thethingintheattic_1507_librivox","sections":[{"id":"347518","section_number":"1","title":"Part 1","listen_url":"https:\/\/librivox.org\/uploads\/philchenevert\/thethingintheattic_01_blish_128kb.mp3","language":"English","playtime":"2665","file_name":"thethingintheattic_01_blish_128kb.mp3","readers":[{"reader_id":"5717","display_name":"Phil Chenevert"}]},{"id":"347519","section_number":"2","title":"Part 2","listen_url":"https:\/\/librivox.org\/uploads\/philchenevert\/thethingintheattic_02_blish_128kb.mp3","language":"English","playtime":"3045","file_name":"thethingintheattic_02_blish_128kb.mp3","readers":[{"reader_id":"5717","display_name":"Phil Chenevert"}]}],"genres":[{"id":"30","name":"Science Fiction"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Sun,%2024%20Jul%202016%2003%3A24%3A05%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D10135%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Sun, 24 Jul 2016 03:24:05 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>
