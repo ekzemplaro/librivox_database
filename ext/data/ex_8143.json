@@ -1,1 +1,136 @@
-{"books":{"3":{"id":"8143","title":"Sandmann","description":"<br>Der Student Nathanael glaubt in einem Wetterglash\u00e4ndler namens Coppola einen Mann wieder zu erkennen, der in seiner Kindheit als Advokat Coppelius regelm\u00e4\u00dfig abends seinen Vater besuchte und mit diesem offenbar alchimistische Experimente machte, bei denen der Vater schlie\u00dflich bei einer Explosion starb. Dieser Coppelius war f\u00fcr den kleinen Nathanael nur \"Der Sandmann\" - die Personifizierung einer schaurig-schrecklichen Figur aus einem Ammenm\u00e4rchen, der den Kindern die Augen ausrei\u00dft. Er hat mit diesem Manne Furchtbares erlebt und leidet nun erneut unter dem Kindheitstrauma. Seine Verlobte Clara und deren Bruder Lothar versuchen, ihm aus seinen d\u00fcsteren Stimmungen herauszuhelfen, doch verf\u00e4llt Nathanael immer wieder in wirre Fantasien, und er f\u00fchlt sich von Clara missverstanden. So kommt es, dass er sich in Olimpia verliebt, die ziemlich merkw\u00fcrdige Tochter seines Professors Spalanzani. Als sich schlie\u00dflich auf dramatische Weise herausstellt, welche ganz besondere Bewandtnis es mit dieser Olimpia hat, verf\u00e4llt er abermals in den Wahnsinn - doch noch einmal scheint es so, als k\u00f6nne die Liebe Claras ihn heilen...\n<br><\/br>\nDer Schauerroman \"Der Sandmann\" ist eines der bedeutendsten und \"dank\" der Arbeit von Generationen von Deutschlehrern eines der bekanntesten Werke E.T.A. Hoffmanns. Es bietet so viele Deutungsans\u00e4tze und somit auch verschiedene Interpretationen, dass Hoffmann selbst sich gewundert haben soll, was er da alles in der Erz\u00e4hlung verarbeitet habe.<br>\n(Zusammenfassung von Karlsson) <br\/>","url_text_source":"http:\/\/gutenberg.spiegel.de\/buch\/3093\/1","language":"German","copyright_year":"1819","num_sections":"4","url_rss":"http:\/\/librivox.org\/rss\/8143","url_zip_file":"http:\/\/www.archive.org\/download\/\/sandmann_1308_librivox\/sandmann_1308_librivox_64kb_mp3.zip","url_project":"http:\/\/de.wikipedia.org\/wiki\/Der_Sandmann_(Hoffmann)","url_librivox":"http:\/\/librivox.org\/der-sandmann-by-e-t-a-hoffmann\/","url_other":null,"totaltime":"01:37:22","totaltimesecs":5842,"authors":[{"id":"969","first_name":"E. T. A.","last_name":"Hoffmann","dob":"1776","dod":"1822"}],"url_iarchive":"http:\/\/archive.org\/details\/sandmann_1308_librivox","sections":[{"id":"292441","section_number":"1","title":"Abschnitt 1","listen_url":"https:\/\/librivox.org\/uploads\/hokuspokus\/sandmann_1_hoffmann.mp3","language":"English","playtime":"1427","file_name":"sandmann_1_hoffmann_128kb.mp3","readers":[{"reader_id":"5055","display_name":"Karlsson"}]},{"id":"292442","section_number":"2","title":"Abschnitt 2","listen_url":"https:\/\/librivox.org\/uploads\/hokuspokus\/sandmann_2_hoffmann.mp3","language":"English","playtime":"521","file_name":"sandmann_2_hoffmann_128kb.mp3","readers":[{"reader_id":"5055","display_name":"Karlsson"}]},{"id":"292443","section_number":"3","title":"Abschnitt 3","listen_url":"https:\/\/librivox.org\/uploads\/hokuspokus\/sandmann_3_hoffmann.mp3","language":"English","playtime":"2064","file_name":"sandmann_3_hoffmann_128kb.mp3","readers":[{"reader_id":"5055","display_name":"Karlsson"}]},{"id":"292444","section_number":"4","title":"Abschnitt 4","listen_url":"https:\/\/librivox.org\/uploads\/hokuspokus\/sandmann_4_hoffmann.mp3","language":"English","playtime":"1830","file_name":"sandmann_4_hoffmann_128kb.mp3","readers":[{"reader_id":"5055","display_name":"Karlsson"}]}],"genres":[{"id":"5","name":"Crime & Mystery Fiction"},{"id":"11","name":"Myths, Legends & Fairy Tales"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Tue,%2027%20Sep%202016%2021%3A24%3A03%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D8143%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Tue, 27 Sep 2016 21:24:03 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>

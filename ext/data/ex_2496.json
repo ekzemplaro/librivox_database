@@ -1,1 +1,61 @@
-{"books":{"3":{"id":"2496","title":"Songs from the Ghetto","description":"<br \/>A collection of 29 of Rosenfeld's poems (Lider-Bukh)- gouped into 3 chapters - Songs of labor, National Songs and Miscellaneous. Transliteration and prose translation by Leo Wiener, 1862-1939. Rosenfeld's are some of the earliest and best American Yiddish literature and verse reflections of the Jewish immigrant experience. He immigrated to New York City from Russian Poland in 1886 and worked in sweatshops as a tailor. His works reflect his experiences and call for social justice. (Summary by fink)<br \/><br \/>","url_text_source":"http:\/\/www.archive.org\/details\/songsfromghettow00roseuoft","language":"English","copyright_year":"1898","num_sections":"4","url_rss":"http:\/\/librivox.org\/rss\/2496","url_zip_file":"","url_project":"","url_librivox":"","url_other":null,"totaltime":"","totaltimesecs":0,"authors":[{"id":"2000","first_name":"Morris","last_name":"Rosenfeld","dob":"1862","dod":"1923"}],"url_iarchive":"","sections":[{"id":"166309","section_number":"0","title":"Introduction","listen_url":"http:\/\/upload.librivox.org\/share\/uploads\/rg\/songsfromtheghetto_00_rosenfeld.mp3","language":"English","playtime":"129","file_name":null,"readers":[{"reader_id":"2999","display_name":"Joseph Finkberg"}]},{"id":"166310","section_number":"1","title":"Chapter 1 - Songs of Labor","listen_url":"http:\/\/upload.librivox.org\/share\/uploads\/rg\/songsfromtheghetto_01_rosenfeld.mp3","language":"English","playtime":"1767","file_name":null,"readers":[{"reader_id":"2999","display_name":"Joseph Finkberg"}]},{"id":"166311","section_number":"2","title":"Chapter 2 - National Songs","listen_url":"","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2999","display_name":"Joseph Finkberg"}]},{"id":"166312","section_number":"3","title":"Chapter 3 - Miscellaneous","listen_url":"","language":"English","playtime":"0","file_name":null,"readers":[{"reader_id":"2999","display_name":"Joseph Finkberg"}]}],"genres":[{"id":"25","name":"Poetry"}],"translators":[{"id":"6656","first_name":" Leo","last_name":"Wiener","dob":"1862","dod":"1939"}]}}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Database Error</title>
+<style type="text/css">
+
+::selection{ background-color: #E13300; color: white; }
+::moz-selection{ background-color: #E13300; color: white; }
+::webkit-selection{ background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	-webkit-box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Unable to connect to your database server using the provided settings.</p><p>Filename: core/Loader.php</p><p>Line Number: 346</p>	</div>
+</body>
+</html>

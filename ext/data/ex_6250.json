@@ -1,1 +1,136 @@
-{"books":{"3":{"id":"6250","title":"Chymical Wedding of Christian Rosenkreutz","description":"The Chymical Wedding of Christian Rosenkreutz was edited in 1616 in Strasbourg (annexed by France in 1681). It is the third of the original manifestos of the mysterious \"Fraternity of the Rose Cross\" (Rosicrucians).<p><strong>NOTE: It was translated into English for the first time in 1690 by E. Foxcroft. This translation became the source for many of the modern attempts to improve the original. The translation presented here is that of E. Foxcroft.<\/strong><p>Although the book first appeared in 1616, the story takes place over 150 years earlier. It is an allegoric romance (story) divided into Seven Days, or Seven Journeys, like Genesis, and tells us about the way Christian Rosenkreuz was invited to go to a wonderful castle full of miracles, in order to assist the Chymical Wedding of the king and the queen, that is, the husband and the bride. The story begins on an evening near Easter. In the final chapter\u2014the seventh day\u2014CRC is knighted; the year is 1459. It was on Easter-day 1459 that the Constitutions of the Freemasons of Strasburg was first signed in Regensburg, with a second signed shortly afterwards in Strasburg. The Gutenberg Bible began printing in Mainz, Germany in 1455, and the first Bible in German, the Mentel Bible, was printed in Strasburg in 1466. The invitation to the royal wedding includes the Monas Hieroglyphica associated with John Dee. (Summary by Wikipedia.org) ","url_text_source":"http:\/\/www.crcsite.org\/wedding1.htm","language":"English","copyright_year":"1690","num_sections":"4","url_rss":"http:\/\/librivox.org\/rss\/6250","url_zip_file":"http:\/\/www.archive.org\/download\/chymical_wedding_1201_librivox\/chymical_wedding_1201_librivox_64kb_mp3.zip","url_project":"http:\/\/en.wikipedia.org\/wiki\/Chymical_Wedding_of_Christian_Rosenkreutz","url_librivox":"http:\/\/librivox.org\/the-chymical-wedding-of-christian-rosenkreutz-by-anonymous\/","url_other":null,"totaltime":"3:23:36","totaltimesecs":12216,"authors":[{"id":"19","first_name":"","last_name":"Anonymous","dob":"","dod":""}],"url_iarchive":"http:\/\/www.archive.org\/details\/chymical_wedding_1201_librivox","sections":[{"id":"86472","section_number":"1","title":"Day 1 &amp; 2","listen_url":"","language":"English","playtime":"2763","file_name":null,"readers":[{"reader_id":"6687","display_name":"KirksVoice"}]},{"id":"86473","section_number":"2","title":"Day 3","listen_url":"","language":"English","playtime":"3333","file_name":null,"readers":[{"reader_id":"6687","display_name":"KirksVoice"}]},{"id":"86474","section_number":"3","title":"Day 4 &amp; 5","listen_url":"","language":"English","playtime":"2985","file_name":null,"readers":[{"reader_id":"6687","display_name":"KirksVoice"}]},{"id":"86475","section_number":"4","title":"Day 6 &amp; 7","listen_url":"","language":"English","playtime":"3135","file_name":null,"readers":[{"reader_id":"6687","display_name":"KirksVoice"}]}],"genres":[{"id":"15","name":"General Fiction"},{"id":"36","name":"*Non-fiction"},{"id":"98","name":"Philosophy"},{"id":"102","name":"Religion"}],"translators":[{"id":"6837","first_name":" E.","last_name":"Foxcroft","dob":null,"dod":null}]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Thu,%2029%20Sep%202016%2010%3A24%3A05%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D6250%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Thu, 29 Sep 2016 10:24:05 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>

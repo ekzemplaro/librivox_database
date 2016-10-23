@@ -1,1 +1,136 @@
-{"books":{"1":{"id":"8522","title":"Practice of the Presence of God (version 2)","description":"<p>Brother Lawrence was born Nicholas Herman around 1610 in Herimenil, Lorraine, a Duchy of France. His birth records were destroyed in a fire at his parish church during the Thirty Years War, a war in which he fought as a young soldier. It was also the war in which he sustained a near fatal injury to his sciatic nerve. The injury left him quite crippled and in chronic pain for the rest of his life.<\/p>\n\n<p>The details of his early life are few and sketchy. However, we know he was educated both at home and by his parish priest whose first name was Lawrence and who was greatly admired by the young Nicolas. He was well read and, from an early age, drawn to a spiritual life of faith and love for God.<\/p>\n\n<p>We also know that in the years between the abrupt end of his duties as a soldier and his entry into monastic life, he spent a period of time in the wilderness living like one of the early desert fathers. Also, prior to entering the monastery, and perhaps as preparation, he spent time as a civil servant. In his characteristic, self deprecating way, he mentions that he was a \"footman who was clumsy and broke everything\".<\/p>\n\n<p>At mid-life he entered a newly established monastery in Paris where he became the cook for the community which grew to over one hundred members. After fifteen years, his duties were shifted to the sandal repair shop but, even then, he often returned to the busy kitchen to help out.<\/p>\n\n<p>In times as troubled as today, Brother Lawrence, discovered, then followed, a pure and uncomplicated way to walk continually in God's presence. For some forty years, he lived and walked with Our Father at his side. Yet, through his own words, we learn that Brother Lawrence's first ten years were full of severe trials and challenges.<\/p>\n\n<p>A gentle man of joyful spirit, Brother Lawrence shunned attention and the limelight, knowing that outside distraction \"spoils all\". It was not until after his death that a few of his letters were collected. Joseph de Beaufort, representative and counsel to the local archbishop, first published the letters in a small pamphlet. The following year, in a second publication which he titled, 'The Practice of the Presence of God', de Beaufort included, as introductory material, the content of four conversations he had with Brother Lawrence.<\/p>\n\n<p>In this small book, through letters and conversations, Brother Lawrence simply and beautifully explains how to continually walk with God - not from the head but from the heart. Brother Lawrence left the gift of a way of life available to anyone who seeks to know God's peace and presence; that anyone, regardless of age or circumstance, can practice -anywhere, anytime. Brother Lawrence also left the gift of a direct approach to living in God's presence that is as practical today as it was three hundred years ago.<\/p>\n\n<p>Brother Lawrence died in 1691, having practiced God's presence for over forty years. His quiet death was much like his monastic life where each day and each hour was a new beginning and a fresh commitment to love God with all his heart. (preface and wikipedia)<\/p>","url_text_source":"http:\/\/www.gutenberg.org\/ebooks\/5657","language":"English","copyright_year":"1670","num_sections":"5","url_rss":"http:\/\/librivox.org\/rss\/8522","url_zip_file":"http:\/\/www.archive.org\/download\/\/thepracticeofthepresenceofgod_1401_librivox\/thepracticeofthepresenceofgod_1401_librivox_64kb_mp3.zip","url_project":"","url_librivox":"http:\/\/librivox.org\/the-practice-of-the-presence-of-god-by-brother-lawrence-2\/","url_other":null,"totaltime":"01:21:36","totaltimesecs":4896,"authors":[{"id":"4125","first_name":"Brother","last_name":"Lawrence","dob":"1614","dod":"1691"}],"url_iarchive":"http:\/\/archive.org\/details\/thepracticeofthepresenceofgod_1401_librivox","sections":[{"id":"301821","section_number":"1","title":"The Four Conversations","listen_url":"https:\/\/librivox.org\/uploads\/philchenevert\/practiceofthepresenceofgod_01_lawrence_128kb.mp3","language":"English","playtime":"1685","file_name":"practiceofthepresenceofgod_01_lawrence_128kb.mp3","readers":[{"reader_id":"5717","display_name":"Phil Chenevert"}]},{"id":"301822","section_number":"2","title":"The 15 Letters","listen_url":"https:\/\/librivox.org\/uploads\/philchenevert\/practiceofthepresenceofgod_02_lawrence_128kb.mp3","language":"English","playtime":"3211","file_name":"practiceofthepresenceofgod_02_lawrence_128kb.mp3","readers":[{"reader_id":"5717","display_name":"Phil Chenevert"}]}],"genres":[{"id":"102","name":"Religion"},{"id":"130","name":"Christianity - Other"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Sun,%2025%20Sep%202016%2015%3A24%3A04%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D8522%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Sun, 25 Sep 2016 15:24:04 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>

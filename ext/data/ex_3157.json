@@ -1,1 +1,61 @@
-{"books":{"12":{"id":"3157","title":"Tales of the Five Towns","description":"<br \/>This is a selection of short stories recounting, with gentle satire and tolerant good humour, the small town provincial life at the end of the nineteenth century, based around the six towns in the county of Staffordshire, England, known as the Potteries. Arnold Bennett chose to fictionalize these towns by changing their names and omitting one (Fenton) as he apparently felt that \u201cFive Towns\u201d was more euphonious than \u201cSix Towns\u201d. The real town names which are thinly disguised in the novel are: Hanley, Longton, Burslem and Tunstal, the fifth, Stoke, became \u201cKnype\u201d.\n<br \/><br \/>Arnold Bennett (1867-1931) was born in Hanley, the eldest child of a pawnbroker who subsequently became a solicitor. Bennett\u2019s father wished him to become a solicitor too, but he failed his university entrance examination and instead became a solicitor's clerk, at first in his father's office and, from 1889, in London.\n<br \/><br \/>He showed early promise as a writer winning a writing competition in a local newspaper as a boy. In London he began to see his writing published in popular magazines and he joined the staff of \u2018Woman\u2019 magazine in 1893.\n<br \/><br \/>His first novel to be published, <em>A Man from the North<\/em>, appeared in 1898 and its success allowed him to give up other work to concentrate on writing. His first short story (<em>A Letter Home<\/em>) was written in 1893 and appears in <em>Tales of the Five Towns<\/em>. (Summary by Martin Clifton)<br \/><br \/>","url_text_source":"http:\/\/www.gutenberg.org\/ebooks\/13293","language":"English","copyright_year":"1905","num_sections":"13","url_rss":"http:\/\/librivox.org\/rss\/3157","url_zip_file":"http:\/\/www.archive.org\/download\/tales_of_five_towns_mc_librivox\/tales_of_five_towns_mc_librivox_64kb_mp3.zip","url_project":"","url_librivox":"http:\/\/librivox.org\/tales-of-the-five-towns-by-arnold-bennett\/","url_other":null,"totaltime":"5:39:35","totaltimesecs":20375,"authors":[{"id":"263","first_name":"Arnold","last_name":"Bennett","dob":"1867","dod":"1931"}],"url_iarchive":"http:\/\/www.archive.org\/details\/tales_of_five_towns_mc_librivox","sections":[{"id":"180733","section_number":"1","title":"01 - His Worship the Goosedriver","listen_url":"","language":"English","playtime":"2476","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180734","section_number":"2","title":"02 - The Elixir of Youth","listen_url":"","language":"English","playtime":"1110","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180735","section_number":"3","title":"03 - Mary with the High Hand","listen_url":"","language":"English","playtime":"1918","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180736","section_number":"4","title":"04 - The Dog","listen_url":"","language":"English","playtime":"1773","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180737","section_number":"5","title":"05 - A Feud","listen_url":"","language":"English","playtime":"2551","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180738","section_number":"6","title":"06 - Phantom","listen_url":"","language":"English","playtime":"1713","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180739","section_number":"7","title":"07 - Tiddy-Fol-Lol","listen_url":"","language":"English","playtime":"903","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180740","section_number":"8","title":"08 - The Idiot","listen_url":"","language":"English","playtime":"749","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180741","section_number":"9","title":"09 - The Hungarian Rhapsody","listen_url":"","language":"English","playtime":"2213","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180742","section_number":"10","title":"10 - The Sisters Qita","listen_url":"","language":"English","playtime":"772","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180743","section_number":"11","title":"11 - Nocturne at the majestic","listen_url":"","language":"English","playtime":"2544","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180744","section_number":"12","title":"12 - Clarice of the Autumn Concerts","listen_url":"","language":"English","playtime":"649","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]},{"id":"180745","section_number":"13","title":"13 - A Letter Home","listen_url":"","language":"English","playtime":"1004","file_name":null,"readers":[{"reader_id":"31","display_name":"Martin Clifton"}]}],"genres":[{"id":"31","name":"Short Stories"},{"id":"54","name":"Published 1900 onward"}],"translators":[]}}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Database Error</title>
+<style type="text/css">
+
+::selection{ background-color: #E13300; color: white; }
+::moz-selection{ background-color: #E13300; color: white; }
+::webkit-selection{ background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	-webkit-box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Unable to connect to your database server using the provided settings.</p><p>Filename: core/Loader.php</p><p>Line Number: 346</p>	</div>
+</body>
+</html>

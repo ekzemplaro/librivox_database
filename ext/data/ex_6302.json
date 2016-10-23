@@ -1,1 +1,136 @@
-{"books":{"7":{"id":"6302","title":"Old Times on the Mississippi","description":"Old Times on the Mississippi is a non-fiction work by Mark Twain. It was published in 1876. Originally published in serial form in the Atlantic Monthly, in 1875, this same work was published as chapters 4 through 17 in Twain's later work, Life on the Mississippi (1883). Old Times on the the Mississippi has one last chapter that has nothing to do with the rest of the book. A Literary Nightmare describes the funny\/sad\/maddening effect that a catchy jingle can have on those unlucky enough to be captured by one. (Summary by John Greenman)","url_text_source":"http:\/\/books.google.com\/books?id=4rk8AAAAYAAJ&printsec=frontcover&dq=old+times+on+the+mississippi&hl=en&sa=X&ei=VBYbT86MBoH40gHCiJHTCw&ved=0CDIQuwUwAA","language":"English","copyright_year":"1876","num_sections":"8","url_rss":"http:\/\/librivox.org\/rss\/6302","url_zip_file":"http:\/\/www.archive.org\/download\/oldtimes_jg_librivox\/oldtimes_jg_librivox_64kb_mp3.zip","url_project":"","url_librivox":"http:\/\/librivox.org\/old-times-on-the-mississippi-by-mark-twain\/","url_other":null,"totaltime":"3:38:16","totaltimesecs":13096,"authors":[{"id":"9","first_name":"Mark","last_name":"Twain","dob":"1835","dod":"1910"}],"url_iarchive":"http:\/\/www.archive.org\/details\/oldtimes_jg_librivox","sections":[{"id":"87695","section_number":"1","title":"1 - 'Cub' wants to be a Pilot","listen_url":"","language":"English","playtime":"1175","file_name":null,"readers":[{"reader_id":"107","display_name":"John Greenman"}]},{"id":"87696","section_number":"2","title":"2 - 'Cub' Pilot's Experience; or, Learning the River","listen_url":"","language":"English","playtime":"1753","file_name":null,"readers":[{"reader_id":"107","display_name":"John Greenman"}]},{"id":"87697","section_number":"3","title":"3 - The Continued Perplexities of 'Cub' Piloting","listen_url":"","language":"English","playtime":"1706","file_name":null,"readers":[{"reader_id":"107","display_name":"John Greenman"}]},{"id":"87698","section_number":"4","title":"4 - The 'Cub' Pilot's Education nearly Completed","listen_url":"","language":"English","playtime":"1612","file_name":null,"readers":[{"reader_id":"107","display_name":"John Greenman"}]},{"id":"87699","section_number":"5","title":"5 - 'Sounding' Faculties Peculiarly Necessary to a Pilot","listen_url":"","language":"English","playtime":"1888","file_name":null,"readers":[{"reader_id":"107","display_name":"John Greenman"}]},{"id":"87700","section_number":"6","title":"6 - Official Rank and Dignity of a Pilot. The Rise and Decadence of the Pilot's Asociation","listen_url":"","language":"English","playtime":"2452","file_name":null,"readers":[{"reader_id":"107","display_name":"John Greenman"}]},{"id":"87701","section_number":"7","title":"7 - Leaving Port; Racing; Shortening of the River by Cut-offs; A Steamboar's Ghost; 'Stephen's' Plan of 'Resumption'","listen_url":"","language":"English","playtime":"1737","file_name":null,"readers":[{"reader_id":"107","display_name":"John Greenman"}]},{"id":"87702","section_number":"8","title":"8 - A Literary Nightmare","listen_url":"","language":"English","playtime":"773","file_name":null,"readers":[{"reader_id":"107","display_name":"John Greenman"}]}],"genres":[{"id":"36","name":"*Non-fiction"},{"id":"108","name":"Travel & Geography"}],"translators":[]}}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ERROR: The requested URL could not be retrieved</title>
+<style type="text/css"><!-- 
+ /*
+ Stylesheet for Squid Error pages
+ Adapted from design by Free CSS Templates
+ http://www.freecsstemplates.org
+ Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Page basics */
+* {
+	font-family: verdana, sans-serif;
+}
+
+html body {
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+
+/* Page displayed title area */
+#titles {
+	margin-left: 15px;
+	padding: 10px;
+	padding-left: 100px;
+	background: url('http://www.squid-cache.org/Artwork/SN.png') no-repeat left;
+}
+
+/* initial title */
+#titles h1 {
+	color: #000000;
+}
+#titles h2 {
+	color: #000000;
+}
+
+/* special event: FTP success page titles */
+#titles ftpsuccess {
+	background-color:#00ff00;
+	width:100%;
+}
+
+/* Page displayed body content area */
+#content {
+	padding: 10px;
+	background: #ffffff;
+}
+
+/* General text */
+p {
+}
+
+/* error brief description */
+#error p {
+}
+
+/* some data which may have caused the problem */
+#data {
+}
+
+/* the error message received from the system or other software */
+#sysmsg {
+}
+
+pre {
+    font-family:sans-serif;
+}
+
+/* special event: FTP / Gopher directory listing */
+#dirmsg {
+    font-family: courier;
+    color: black;
+    font-size: 10pt;
+}
+#dirlisting {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#dirlisting tr.entry td.icon,td.filename,td.size,td.date {
+    border-bottom: groove;
+}
+#dirlisting td.size {
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* horizontal lines */
+hr {
+	margin: 0;
+}
+
+/* page displayed footer area */
+#footer {
+	font-size: 9px;
+	padding-left: 10px;
+}
+
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=ERR_SOCKET_FAILURE>
+<div id="titles">
+<h1>ERROR</h1>
+<h2>The requested URL could not be retrieved</h2>
+</div>
+<hr>
+
+<div id="content">
+<p>The following error was encountered while trying to retrieve the URL: <a href="https://librivox.org/api/feed/audiobooks/?">https://librivox.org/api/feed/audiobooks/?</a></p>
+
+<blockquote id="error">
+<p><b>Socket Failure</b></p>
+</blockquote>
+
+<p id="sysmsg">The system returned: <i>(24) Too many open files</i></p>
+
+<p>Squid is unable to create a TCP socket, presumably due to excessive load. Please retry your request.</p>
+
+<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_SOCKET_FAILURE&amp;body=CacheHost%3A%20localhost%0D%0AErrPage%3A%20ERR_SOCKET_FAILURE%0D%0AErr%3A%20(24)%20Too%20many%20open%20files%0D%0ATimeStamp%3A%20Wed,%2028%20Sep%202016%2003%3A24%3A04%20GMT%0D%0A%0D%0AClientIP%3A%20133.130.98.29%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fapi%2Ffeed%2Faudiobooks%2F%3Fid%3D6302%26extended%3D1%26format%3Djson%20HTTP%2F1.1%0AHost%3A%20librivox.org%0D%0AConnection%3A%20close%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<br>
+</div>
+
+<hr>
+<div id="footer">
+<p>Generated Wed, 28 Sep 2016 03:24:04 GMT by localhost (squid/3.1.19)</p>
+<!-- ERR_SOCKET_FAILURE -->
+</div>
+</body></html>
