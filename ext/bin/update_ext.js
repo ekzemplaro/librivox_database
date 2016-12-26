@@ -2,103 +2,105 @@
 // ---------------------------------------------------------------
 //	ext/bin/update_ext.js
 //
-//					Sep26/2015
+//					Dec/26/2016
 //
 // ---------------------------------------------------------------
-var fs = require("fs");
+var fs = require("fs")
 var fetch_ex_single = require ("./fetch_ex_single")
 // ---------------------------------------------------------------
-// console.log ("*** 開始 ***");
+// console.log ("*** 開始 ***")
 
-var file_json_in=process.argv[2];
-var file_log=process.argv[3];
+const file_json_in=process.argv[2]
+const file_log=process.argv[3]
 
-console.log (file_json_in);
-console.log (file_log);
+console.log (file_json_in)
+console.log (file_log)
 
-var json_str = fs.readFileSync (file_json_in);
+const json_str = fs.readFileSync (file_json_in)
 
 if (1 < json_str.length)
 	{
-	var data_aa = JSON.parse (json_str);
-	var keys_number=filter_publicdate_proc (data_aa);
+	const data_aa = JSON.parse (json_str)
+	var keys_number=filter_publicdate_proc (data_aa)
 
-	var str_out = "";
+	var str_out = ""
 
-	var ll_keys = keys_number.length;
+	const ll_keys = keys_number.length
 
 	keys_number.sort(function(a, b) {
-		return (parseInt(a) > parseInt(b)) ? 1 : -1;
-	}); 
+		return (parseInt(a) > parseInt(b)) ? 1 : -1
+	}) 
  
-	var key_max = keys_number[ll_keys - 1];
-	console.log ("key_max = " + key_max);
+	const key_max = keys_number[ll_keys - 1]
+	console.log ("key_max = " + key_max)
 
-//	for (var it=1;  it < 210; it++)
 	for (var it=1;  it < 10; it++)
 		{
-		keys_number.push (key_max + it);
+		keys_number.push (key_max + it)
 		}
 
-	console.log ("keys_number.length = " + keys_number.length);
-	keys_number = absent_number_check_proc (key_max,data_aa,keys_number);
-	console.log ("keys_number.length = " + keys_number.length);
+	console.log ("keys_number.length = " + keys_number.length)
+	keys_number = absent_number_check_proc (key_max,data_aa,keys_number)
+	console.log ("keys_number.length = " + keys_number.length)
 
 	for (var it=0;  it < keys_number.length; it++)
 		{
-		var key_number=keys_number[it];
+		const key_number=keys_number[it]
 
-		fetch_ex_single.fetch_ex_single_proc (key_number);
+		fetch_ex_single.fetch_ex_single_proc (key_number)
 
-		str_out += key_number + '\n';
+		str_out += key_number + '\n'
 		}
 
-	fs.writeFile (file_log,str_out);
+	fs.writeFile (file_log,str_out,function (err)
+		{
+		if (err) {
+			console.error ("Error on write: " + err)
+			}
+		})
 	}
 
-// console.log ("*** 終了 ***");
+// console.log ("*** 終了 ***")
 // ---------------------------------------------------------------
 function absent_number_check_proc (nn_max,data_aa,keys_number)
 {
-	console.log ("nn_max = " + nn_max);
+	console.log ("nn_max = " + nn_max)
 
-//	var nn_min = nn_max - 4000;
-//	var nn_min = 1000;
-	var nn_min = 1;
+	const nn_min = 1
 
-	console.log ("nn_min = " + nn_min);
+	console.log ("nn_min = " + nn_min)
 
 	for (var nn = nn_min; nn < nn_max; nn += 1)
 		{
-		var key = "id_" + nn;
+		const key = "id_" + nn
 
 		if (! (key in data_aa))
 			{
-//			console.log ("*** lacking *** " + key);
-			keys_number.push (nn);
+//			console.log ("*** lacking *** " + key)
+			keys_number.push (nn)
 			}
 		}
 
-	return	keys_number;
+	return	keys_number
 }
 
 // ---------------------------------------------------------------
 // [4]:
 function filter_publicdate_proc (data_aa)
 {
-	var keys_number = new Array ();
+	var keys_number = new Array ()
 
 	for (var key in data_aa)
 		{
-		var data_unit = data_aa[key];
+		const data_unit = data_aa[key]
 		if (! ('publicdate' in data_unit))
 			{
-			var key_number = parseInt(key.substr (3));
-			keys_number.push (key_number);
+			var key_number = parseInt(key.substr (3))
+			keys_number.push (key_number)
 			}
 		}
 
-	return	keys_number;
+	return	keys_number
 }
 
 // ---------------------------------------------------------------
