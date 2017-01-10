@@ -1,6 +1,17 @@
 #
-mv id*.json ../get_archive
-mv is*.json ../filter_archive
+#	goz
+#						Jan/10/2017
+#
+#
+if ls id*.json > /dev/null 2>&1
+then
+	mv id*.json ../get_archive
+fi
+#
+if ls is*.json > /dev/null 2>&1
+then
+	mv is*.json ../filter_archive
+fi
 #
 #
 ../bin/post_process.sh

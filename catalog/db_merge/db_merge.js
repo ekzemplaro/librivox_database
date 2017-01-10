@@ -52,7 +52,7 @@ const json_str_out = JSON.stringify (db_out)
 
 fs.writeFile (json_out,json_str_out,function (err)
 	{
-	f (err) {
+	if (err) {
 		console.error ("Error on write: " + err)
 		}
 	})
